@@ -2,7 +2,7 @@ backend:
   name: github
   branch: master
   repo: entrepreneur-interet-general/site-eig-v3
-  base_url: https://oauth.app.etalab.studio
+  base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
 
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
