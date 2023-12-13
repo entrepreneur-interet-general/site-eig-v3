@@ -69,5 +69,8 @@
   "dependencies": {
     "isotope-layout": "^3.0.6",
     "tarteaucitronjs": "^1.9.0"
+  },
+  "engines": {
+    "node": "12"
   }
 }
