@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master
-  repo: entrepreneur-interet-general/site-eig-v2
+  repo: entrepreneur-interet-general/site-eig-v3
   base_url: https://oauth.app.etalab.studio
 
 
