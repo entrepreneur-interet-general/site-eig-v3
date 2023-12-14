@@ -80,9 +80,9 @@ url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
 title: Programme
 desc: >-
-  Le programme Entrepreneur(e)s d’intérêt général permet à des talents du numérique
-  d'intégrer des administrations, pour relever en 10 mois des défis qui
-  améliorent le service public.
+  Le programme Entrepreneur(e)s d’intérêt général permet à des talents du
+  numérique d'intégrer des administrations, pour relever en 10 mois des défis
+  qui améliorent le service public.
 
 
   En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. Les EIG adaptent leur trajectoire au contexte et aux enjeux : le chemin d'innovation suit une ligne de crête entre la stratégie et le terrain, en visant une incrémentation pérenne de la valeur. 
@@ -101,7 +101,7 @@ how:
     ## Comment
 
 
-    L'innovation est un chemin pavé d'incertitudes et d’opportunités. Le programme EIG vous propose un cadre d’accompagnement en 4 phases pour faciliter la relève des défis. Avec le concours des expert(e)s de la DINUM, les coachs EIG fournissent un appui méthodologique et une expertise entrepreneuriale tout au long des 10 mois.
+    L'innovation est un chemin pavé d'incertitudes et d’opportunités. Le programme EIG vous propose un cadre d’accompagnement en 4 phases pour faciliter la relève des défis. Avec le concours des expert(e)s de la DINUM, les coachs fournissent un appui méthodologique et une expertise entrepreneuriale tout au long des 10 mois.
 
 
     ![]()
