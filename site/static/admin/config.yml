@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: master
+  branch: main
   repo: entrepreneur-interet-general/site-eig-v3
   base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
 
