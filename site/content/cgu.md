@@ -40,8 +40,4 @@ La mise en place de liens vers nos contenus et documents est cependant est à pr
 
 ## Hébergement
 
-Netlify Inc.\
-2325 3rd Street, Suite 215\
-San Francisco, California 94107\
-États-Unis d'Amérique\
-+1 844-899-7312
+[Scalingo](https://scalingo.com/)
