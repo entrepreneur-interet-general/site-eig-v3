@@ -5,8 +5,6 @@ url: /cgu
 ---
 ## Éditeur
 
-Ce site est édité par l'équipe Entrepreneur(e)s d'intérêt général, programme d’innovation numérique des Services de la Première ministre.
-
 Services de la Première ministre\
 Direction interministérielle du numérique\
 Département Incubateur des services numériques\
