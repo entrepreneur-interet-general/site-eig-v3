@@ -64,7 +64,7 @@ steps:
       duration: 2 mois
       title: Amplifier l’impact
       dates: Déployer, communiquer, accroître
-      desc: À quelques encablures de la fin du défi EIG, la tentation est forte
+      desc: À quelques encablures de la fin du défi, la tentation est forte
         d'accélérer dans l'optique de délivrer le maximum de fonctionnalités. Or
         la poursuite du projet au-delà de cette temporalité est en définitive
         plus essentielle. Un défi EIG relevé, c’est un projet qui apporte la
