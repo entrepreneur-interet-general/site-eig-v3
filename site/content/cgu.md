@@ -5,18 +5,13 @@ url: /cgu
 ---
 ## Éditeur
 
-Ce site est édité par l'équipe Entrepreneur(e)s d'intérêt général, programme d’innovation numérique des Services de la Première ministre.
-
-Services de la Première ministre\
 Direction interministérielle du numérique\
 Département Incubateur des services numériques\
 Programme Entrepreneur(e)s d'intérêt général\
 20 avenue de Ségur\
 75007 Paris\
-Tel. accueil : +33 1 71 21 01 70
-
-SIRET : 12000101100010 (secrétariat général du gouvernement)\
-SIREN : 120 001 011
+Téléphone : +33 1 71 21 01 70\
+SIRET : 130 025 265 00013
 
 ## Directrice de publication
 
@@ -28,15 +23,15 @@ Ce site est conçu et développé par l'équipe du programme Entrepreneur(e)s d'
 
 ## Code source du site
 
-Le code source du site est disponible sur Github.
+Le code source du site est disponible sur [Github](https://github.com/entrepreneur-interet-general/).
 
 ## Propriété intellectuelle et liens
 
-Tout site public ou privé est autorisé à établir, sans autorisation préalable, un lien (y compris profond) vers les informations diffusées sur eig.etalab.gouv.fr.
+Tout site public ou privé est autorisé à établir, sans autorisation préalable, un lien (y compris profond) vers les informations diffusées sur eig.numerique.gouv.fr.
 
 Sauf mention de propriété intellectuelle détenue par des tiers (notamment un crédit sur certaines images), les contenus de ce site sont proposés sous licence ouverte.
 
-La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source eig.etalab.gouv.fr. est recommandée.
+La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source eig.numerique.gouv.fr. est recommandée.
 
 ## Hébergement
 
