@@ -3,7 +3,7 @@ title: Antoine San Segundo
 job: Coach en design de service
 promos:
   - Promotion 6
-role: agent-programme
+role: agent-ecosysteme
 defis:
   - Magellan
 expertises:
