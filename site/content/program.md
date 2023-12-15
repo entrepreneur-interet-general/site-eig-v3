@@ -13,7 +13,7 @@ numbers:
     btnTitle: Découvrir les sponsors
     btnUrl: /agents
 steps:
-  title: La nouvelle trajectoire des EIG
+  title: La trajectoire des EIG
   list:
     - icon: /img/1_valider_hypothese.svg
       step: Investigation
@@ -71,30 +71,28 @@ layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
 title: Le programme
-desc: Le programme EIG se renouvelle et se réoriente au service de la
-  réinternalisation des compétences. De nouveaux profils sont recherchés. À
-  compter de la 7ème promotion, le programme se concentre sur des profils
-  disposant d’une solide expérience entrepreneuriale, avec des compétences de
-  haut niveau en pilotage de services numériques, pour des postes de direction
-  produit ou technique.
+desc: Le programme EIG se renouvelle et se réoriente. À compter de la 7ème
+  promotion, le programme se concentre sur des profils disposant d’une solide
+  expérience entrepreneuriale, avec des compétences de haut niveau en pilotage
+  de services numériques.
 how:
   desc: >-
     ## Les nouveautés
 
 
-    ### 2 profils de pilotage stratégique
+    #### Qui ?
 
-    Le programme se concentre désormais sur les compétences en direction produit et direction technique.
-
-
-    ### Un contrat de projet d’un an renouvelable
-
-    Les EIG sont des agent(e)s recruté(e)s par la DINUM. Elles et ils sont envoyé(e)s en mission dans les administrations lauréates.
+    Le recrutement se concentre désormais deux profils EIG de pilotage stratégique : directeur ou directrice produit et directeur ou directrice technique.
 
 
-    ### Une promotion au fil de l’eau en 2024
+    #### Comment ?
 
-    La sélection des projets lauréats et le recrutement des EIG sera opérée à rythme bimensuel, à concurrence de 25 EIG.
+    Les EIG sont des agent(e)s recruté(e)s par la DINUM en contrat de projet d'un an, renouvelable, et envoyé(e)s en mission dans les administrations partenaires.
+
+
+    #### Quand ?
+
+    La sélection des projets et le recrutement des EIG seront opérés au fil de l'eau en 2024, à rythme bimensuel, à concurrence de 25 EIG pour la 7ème promotion.
 
 
     ![]()
