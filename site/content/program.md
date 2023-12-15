@@ -6,102 +6,89 @@ numbers:
     btnUrl: /talents
   - num: "101"
     title: Défis d’intérêt général
-    btnTitle: Parcourir les défis
+    btnTitle: Découvrir les projets
     btnUrl: /defis
   - num: "80"
     title: administrations impactées
-    btnTitle: Profils des agent(e)s de service public
+    btnTitle: Découvrir les sponsors
     btnUrl: /agents
 steps:
-  title: |
-    Les 4 phases du programme
+  title: La nouvelle trajectoire des EIG
   list:
     - icon: /img/1_valider_hypothese.svg
-      step: Phase 1
-      duration: 2 mois
-      title: Valider l'hypothèse
-      dates: Comprendre, prototyper, aligner
-      desc: Avant même d’initier un projet, nous avons forcément à l'esprit une idée
-        précise de ce que le service numérique pourrait être *in fine*. Pour
-        autant, l'hypothèse privilégiée initialement n'est qu'une éventualité
-        d'exploration des possibles. Comment s'assurer que nous ne négligeons
-        pas une partie du problème ? Comment éviter de nous projeter trop
-        rapidement dans une solution fantasmée ? Comment construire ensemble une
-        stratégie à la fois ambitieuse et raisonnée ? Pour éprouver nos
-        certitudes, la confrontation avec le réel et la compréhension des
-        problèmes profonds sont essentielles à la viabilité de la démarche
-        entrepreneuriale.
+      step: Investigation
+      duration: 6 à 12 semaines
+      title: Valider le besoin et esquisser une stratégie
+      dates: Avant le recrutement de l’EIG.
+      desc: Le programme se propose de répondre rapidement à une politique publique,
+        tout en conservant l'esprit entrepreneurial et l'approche produit.
+        Aussi, il importe de valider au plus tôt que le problème peut être
+        résolu par le numérique. Aller à rencontrer des utilisateurs et des
+        utilisatrices permet de qualifier le problème et d’imaginer des
+        solutions. Si l'investigation est concluante, le pilotage stratégique
+        peut être confié à un(e) EIG recruté(e) par la DINUM et envoyé(e) en
+        mission dans l'administration porteuse de la politique publique
+        concernée.
     - icon: /img/2_prouver_le_concept.png
-      step: Phase 2
-      duration: 3 mois
-      title: Prouver le concept
-      dates: Rechercher, tester, valider
-      desc: "Une fois l'hypothèse initiale prototypée et validée, il s'agit de prouver
-        le concept retenu, de démontrer la faisabilité de l'innovation. Cette
-        phase requiert une certaine frugalité : on veillera à circonscrire un
-        périmètre restreint où telle innovation peut commencer à opérer, même si
-        la profondeur du champ d'application est bien supérieure. En management
-        de l'innovation, la preuve du concept présente également l'intérêt
-        d'inspecter et d'évaluer l'hypothèse initiale avec pragmatisme, afin
-        d'être en mesure de pivoter si nécessaire et d’imaginer d’autres
-        possibles pour répondre autrement aux mêmes enjeux."
-    - dates: Incrémenter, impliquer, mesurer
-      desc: >
-        L'hypothèse a été validée, le concept prouvé. Beaucoup d'autres
-        fonctionnalités pourraient être développées, mais elles importent moins
-        que de prouver la valeur d'usage. Avant même d'étoffer le périmètre
-        d'une solution, il est capital d'impliquer les usagers, d'expérimenter
-        le coeur de l'innovation auprès d'un public restreint, dans les
-        conditions les plus proches de la réalité. L'expérimentation d'un pilote
-        est décisive non seulement pour capter des retours et évaluer l’impact,
-        mais aussi pour commencer à embarquer le public cible, dans une logique
-        progressive d'adoption et de prescription.
-      icon: /img/3_prouver_la_valeur.png
-      step: Phase 3
-      duration: 3 mois
-      title: Prouver la valeur
-    - step: Phase 4
-      duration: 2 mois
-      title: Amplifier l’impact
-      dates: Déployer, communiquer, accroître
-      desc: À quelques encablures de la fin du défi EIG, la tentation est forte
-        d'accélérer dans l'optique de délivrer le maximum de fonctionnalités. Or
-        la poursuite du projet au-delà de cette temporalité est en définitive
-        plus essentielle. Un défi EIG relevé, c’est un projet qui apporte la
-        preuve du concept et démontre sa valeur pendant les 10 mois du
-        programme, mais c’est aussi un projet qui prend encore plus d’ampleur
-        au-delà, avec des enjeux de pérennisation à la fois du service, de la
-        culture et des équipes. Cette dernière phase consiste à valoriser
-        l’innovation, dessiner de nouvelles perspectives, saisir les
-        opportunités.
-      icon: /img/4_amplifier.png
+      step: Construction
+      duration: 12 mois
+      title: Lancer le service et prouver son impact
+      dates: Pendant le contrat de projet de l’EIG.
+      desc: "Avec le soutien d'un(e) sponsor de haut niveau dans l'administration
+        porteuse, l'EIG se voit confier la responsabilité et l'autonomie pour
+        expérimenter une proposition de valeur et piloter le développement du
+        produit numérique. Véritable entrepreneur(e) au sein de
+        l'administration, l'EIG définit la stratégie produit, établit la feuille
+        de route, constitue et manage l'équipe. Sa mission consiste à lancer le
+        plus rapidement possible un service numérique en le confrontant à des
+        utilisateurs et utilisatrices, afin de s’assurer qu’il résout
+        effectivement le problème visé. "
+    - dates: En cas de renouvellement du contrat de l’EIG.
+      desc: Le renouvellement de l'EIG est conditionné aux résultats obtenus. Un
+        service fonctionnel, adopté par une première audience engagée,
+        démontrant sa capacité à résoudre le problème visé initialement, est
+        apte à passer à la vitesse supérieure. Dès lors, la mission de l'EIG se
+        concentre sur l'amplification de l'impact, en déployant le service à
+        plus grande échelle, avec une équipe élargie, pilotée par des
+        indicateurs de performance. La mobilisation de ressources financières
+        plus importantes est nécessaire, en soutien au déploiement et la
+        promotion du service.
+      icon: img/4_amplifier.png
+      step: Accélération
+      duration: 12 mois
+      title: Passer à l’échelle et amplifier l’impact
+    - step: Pérennisation
+      duration: Durée indéterminée
+      title: Opérer le produit et l’améliorer en continu
+      dates: Au-delà du contrat de projet de l’EIG.
+      desc: Lorsque le service numérique a démontré un impact avéré et mesuré auprès
+        d'une part significative de la population cible, sa maturité permet
+        d'envisager sa pérennisation. Mais il ne s'agit pas tant de maintenir un
+        logiciel que de continuer à faire évoluer le produit. L'EIG facilite la
+        transition vers une organisation produit pérenne. Elle ou il est libre
+        de postuler à toute offre lui permettant de rejoindre plus durablement
+        l'administration porteuse. L'objectif du programme EIG est en effet de
+        faciliter l'internalisation des compétences de pilotage stratégique au
+        sein des administrations.
+      icon: img/3_prouver_la_valeur.png
 layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
-title: Programme
+title: Le programme
 desc: >-
-  Le programme Entrepreneur(e)s d’intérêt général permet à des talents du
-  numérique d'intégrer des administrations, pour relever en 10 mois des défis
-  qui améliorent le service public.
+  Dans la continuité des enjeux de réinternalisation des compétences numériques
+  dans l’État, le programme EIG est réorienté. De nouveaux profils sont
+  recherchés :
 
+  * Jusqu'à la 6ème promotion, le programme EIG proposait le recrutement de designers, développeurs ou développeuses, ingénieur(e)s de la donnée ou des sciences de la donnée, juristes du numérique.
 
-  En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. Les EIG adaptent leur trajectoire au contexte et aux enjeux : le chemin d'innovation suit une ligne de crête entre la stratégie et le terrain, en visant une incrémentation pérenne de la valeur. 
-
-
-  Ses valeurs cardinales sont :
-
-
-  > * Un service public inclusif et accessible : égalité et diversité, accessibilité numérique
-
-  > * Un service public ouvert et intelligible : ouverture des données, logiciel libre, explicabilité des algorithmes
-
-  > * Un service public moderne et collaboratif : entrepreneuriat, co-construction
+  * À compter de la 7ème promotion, il se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques, pour des postes de direction produit ou technique.
 how:
   desc: >-
     ## Comment
 
 
-    L'innovation est un chemin pavé d'incertitudes et d’opportunités. Le programme EIG vous propose un cadre d’accompagnement en 4 phases pour faciliter la relève des défis. Avec le concours des expert(e)s de la DINUM, les coachs fournissent un appui méthodologique et une expertise entrepreneuriale tout au long des 10 mois.
+    Une promotion de 30 Entrepreneur(e)s d’intérêt général sera intégrée en 2024 à l’équipe de l’[Incubateur de services numériques](https://beta.gouv.fr/incubateurs/dinum.html) de la Direction interministérielle du numérique. Les EIG seront des agent(e)s contractuel(le)s, en contrat de projet d'une durée d'1 an, renouvelable.
 
 
     ![]()
@@ -110,10 +97,10 @@ then:
     ## Et après ?
 
 
-    Pour les EIG, le programme offre une trajectoire de carrière permettant de mettre leurs compétences au service de l'intérêt général. Après 10 mois d'immersion au coeur des métiers de l'administration, **60% des EIG choisissent de rester dans le secteur public**.
+    Pour les entrepreneur(e)s, le programme offre l'opportunité d'une trajectoire de carrière au service de l’action publique. Après leur immersion au coeur des métiers de l’administration, 60% des EIG choisissent de rester dans le secteur public.
 
 
-    Pour les agent(e)s de service public, le programme permet d’intégrer des talents durablement dans leurs services, au-delà de la dynamique entrepreneuriale initiée en 10 mois. 90% des défis relevés lors du programme perdurent ensuite dans les administrations qui les ont menés.
+    Pour les sponsors, EIG permet d’intégrer durablement des talents dans leurs services, au-delà de la dynamique entrepreneuriale initiée dans le cadre du programme. Ainsi, 90% des défis relevés perdurent dans les administrations.
 quote:
   photo: /img/marguerite-yourcenar3.jpg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
