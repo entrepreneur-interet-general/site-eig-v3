@@ -1,13 +1,9 @@
 ---
-title: Les défis d’intérêt général
+title: Les projets entrepreneuriaux
 menu: impact
 layout: impact
-desc: >-
-  Chaque année, un appel à projets est ouvert à l’ensemble des administrations
-  publiques désireuses de proposer un projet numérique innovant, afin de
-  bénéficier d’une équipe de talents du numérique.
-
-
-  Découvrez ici les « défis » relevés par les entrepreneur(e)s et les agent(e)s de service public.
+desc: Depuis son lancement en 2016, le programme EIG a fait émerger plus de 100
+  projets entrepreneuriaux dans plus de 80 administrations. Découvrez les enjeux
+  et la trajectoire des défis d'intérêt général relevés.
 visible: false
 ---
