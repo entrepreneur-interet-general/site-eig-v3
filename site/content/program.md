@@ -23,7 +23,7 @@ steps:
       desc: Le programme se propose de répondre rapidement à une politique publique,
         tout en conservant l'esprit entrepreneurial et l'approche produit.
         Aussi, il importe de valider au plus tôt que le problème peut être
-        résolu par le numérique. Aller à rencontrer des utilisateurs et des
+        résolu par le numérique. Aller à la rencontre des utilisateurs et des
         utilisatrices permet de qualifier le problème et d’imaginer des
         solutions. Si l'investigation est concluante, le pilotage stratégique
         peut être confié à un(e) EIG recruté(e) par la DINUM et envoyé(e) en
@@ -44,15 +44,14 @@ steps:
         utilisateurs et utilisatrices, afin de s’assurer qu’il résout
         effectivement le problème visé. "
     - dates: En cas de renouvellement
-      desc: Le renouvellement de l'EIG est conditionné aux résultats obtenus. Un
-        service fonctionnel, adopté par une première audience engagée,
-        démontrant sa capacité à résoudre le problème visé initialement, est
-        apte à passer à la vitesse supérieure. Dès lors, la mission de l'EIG se
-        concentre sur l'amplification de l'impact, en déployant le service à
-        plus grande échelle, avec une équipe élargie, pilotée par des
-        indicateurs de performance. La mobilisation de ressources financières
-        plus importantes est nécessaire, en soutien au déploiement et la
-        promotion du service.
+      desc: Le renouvellement de l'EIG est lié aux résultats obtenus. Un service
+        fonctionnel, adopté par une première audience engagée, démontrant sa
+        capacité à résoudre le problème visé initialement, est apte à passer à
+        la vitesse supérieure. Dès lors, la mission de l'EIG se concentre sur
+        l'amplification de l'impact, en déployant le service à plus grande
+        échelle, avec une équipe élargie, pilotée par des indicateurs de
+        performance. La mobilisation de ressources financières plus importantes
+        est nécessaire, en soutien au déploiement et la promotion du service.
       icon: img/4_amplifier.png
       step: Accélération
       duration: 12 mois
@@ -65,30 +64,42 @@ steps:
         d'une part significative de la population cible, sa maturité permet
         d'envisager sa pérennisation. Mais il ne s'agit pas tant de maintenir un
         logiciel que de continuer à faire évoluer le produit. L'EIG facilite la
-        transition vers une organisation produit pérenne. Elle ou il est libre
-        de postuler à toute offre lui permettant de rejoindre plus durablement
-        l'administration porteuse. L'objectif du programme EIG est en effet de
-        faciliter l'internalisation des compétences de pilotage stratégique au
-        sein des administrations.
+        transition vers une organisation produit pérenne. Elle ou il est
+        invité(e) à rejoindre plus durablement l'administration porteuse.
+        L'objectif du programme est en effet de faciliter l'internalisation des
+        compétences de pilotage stratégique au sein des administrations.
       icon: img/3_prouver_la_valeur.png
 layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
 title: Le programme
-desc: >-
-  Dans la continuité des enjeux de réinternalisation des compétences numériques
-  dans l’État, le programme EIG est réorienté. De nouveaux profils sont
-  recherchés :
-
-  * Jusqu'à la 6ème promotion, le programme EIG proposait le recrutement de designers, développeurs ou développeuses, ingénieur(e)s de la donnée ou des sciences de la donnée, juristes du numérique.
-
-  * À compter de la 7ème promotion, il se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques, pour des postes de direction produit ou technique.
+desc: Le programme EIG se renouvelle et se réoriente au service de la
+  réinternalisation des compétences. De nouveaux profils sont recherchés. À
+  compter de la 7ème promotion, le programme se concentre sur des profils
+  disposant d’une solide expérience entrepreneuriale, avec des compétences de
+  haut niveau en pilotage de services numériques, pour des postes de direction
+  produit ou technique.
 how:
   desc: >-
-    ## Comment
+    ## Les nouveautés de la 7ème promotion
 
 
-    Une promotion de 30 Entrepreneur(e)s d’intérêt général sera intégrée en 2024 à l’équipe de l’[Incubateur de services numériques](https://beta.gouv.fr/incubateurs/dinum.html) de la Direction interministérielle du numérique. Les EIG seront des agent(e)s contractuel(le)s, en contrat de projet d'une durée d'1 an, renouvelable.
+    **2 profils de pilotage stratégique**
+
+
+    Le programme se concentre désormais sur les compétences en  direction produit et en direction technique.
+
+
+    **Un contrat de projet d’un an renouvelable**
+
+
+    Les EIG sont recruté(e)s par la DINUM. Elles et ils sont envoyé(e)s en mission dans les administrations lauréates.
+
+
+    **Une promotion au fil de l’eau en 2024**
+
+
+    La sélection des projets lauréats et le recrutement des EIG sera opéré à rythme bimensuel, à concurrence de 25 EIG.
 
 
     ![]()
