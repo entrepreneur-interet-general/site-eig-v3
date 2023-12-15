@@ -84,20 +84,17 @@ how:
     ## Les nouveautés
 
 
-    **2 profils de pilotage stratégique**
-
+    ### 2 profils de pilotage stratégique
 
     Le programme se concentre désormais sur les compétences en direction produit et direction technique.
 
 
-    **Un contrat de projet d’un an renouvelable**
-
+    ### Un contrat de projet d’un an renouvelable
 
     Les EIG sont des agent(e)s recruté(e)s par la DINUM. Elles et ils sont envoyé(e)s en mission dans les administrations lauréates.
 
 
-    **Une promotion au fil de l’eau en 2024**
-
+    ### Une promotion au fil de l’eau en 2024
 
     La sélection des projets lauréats et le recrutement des EIG sera opérée à rythme bimensuel, à concurrence de 25 EIG.
 
