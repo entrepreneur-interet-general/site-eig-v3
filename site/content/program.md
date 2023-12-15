@@ -17,9 +17,9 @@ steps:
   list:
     - icon: /img/1_valider_hypothese.svg
       step: Investigation
-      duration: 6 à 12 semaines
-      title: Valider le besoin et esquisser une stratégie
-      dates: Avant le recrutement de l’EIG.
+      duration: 1 à 2 mois
+      title: Qualifier le problème, valider le besoin
+      dates: Avant le recrutement de l’EIG
       desc: Le programme se propose de répondre rapidement à une politique publique,
         tout en conservant l'esprit entrepreneurial et l'approche produit.
         Aussi, il importe de valider au plus tôt que le problème peut être
@@ -32,8 +32,8 @@ steps:
     - icon: /img/2_prouver_le_concept.png
       step: Construction
       duration: 12 mois
-      title: Lancer le service et prouver son impact
-      dates: Pendant le contrat de projet de l’EIG.
+      title: Lancer le service, prouver son impact
+      dates: Pendant le contrat de l’EIG
       desc: "Avec le soutien d'un(e) sponsor de haut niveau dans l'administration
         porteuse, l'EIG se voit confier la responsabilité et l'autonomie pour
         expérimenter une proposition de valeur et piloter le développement du
@@ -43,7 +43,7 @@ steps:
         plus rapidement possible un service numérique en le confrontant à des
         utilisateurs et utilisatrices, afin de s’assurer qu’il résout
         effectivement le problème visé. "
-    - dates: En cas de renouvellement du contrat de l’EIG.
+    - dates: En cas de renouvellement
       desc: Le renouvellement de l'EIG est conditionné aux résultats obtenus. Un
         service fonctionnel, adopté par une première audience engagée,
         démontrant sa capacité à résoudre le problème visé initialement, est
@@ -56,11 +56,11 @@ steps:
       icon: img/4_amplifier.png
       step: Accélération
       duration: 12 mois
-      title: Passer à l’échelle et amplifier l’impact
+      title: Passer à l’échelle, amplifier l’impact
     - step: Pérennisation
       duration: Durée indéterminée
-      title: Opérer le produit et l’améliorer en continu
-      dates: Au-delà du contrat de projet de l’EIG.
+      title: Opérer le produit, l’améliorer
+      dates: Au-delà du contrat de l’EIG
       desc: Lorsque le service numérique a démontré un impact avéré et mesuré auprès
         d'une part significative de la population cible, sa maturité permet
         d'envisager sa pérennisation. Mais il ne s'agit pas tant de maintenir un
