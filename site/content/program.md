@@ -81,7 +81,7 @@ desc: Le programme EIG se renouvelle et se réoriente au service de la
   produit ou technique.
 how:
   desc: >-
-    ## Les nouveautés de la 7ème promotion
+    ## Les nouveautés
 
 
     **2 profils de pilotage stratégique**
