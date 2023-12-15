@@ -12,7 +12,7 @@ town: Saint-Mandé (94)
 date: 2022
 expertises:
   - Design
-  - Sciences de la donnée
+  - Data science
 image: img/promotion-6/defis/05_ArtificIA.svg
 visible: true
 ---
