@@ -18,7 +18,7 @@ defis:
     les projets ont un dénominateur commun : améliorer l'efficacité de l'action
     publique."
 talents:
-  sub: Les entrepreneur(e)s
+  sub: Les Entrepreneur(e)s d'intérêt général
   desc: Des profils dotés d'une solide expérience entrepreneuriale mettent leurs
     compétences de haut niveau au service du pilotage stratégique de produits
     numériques.
