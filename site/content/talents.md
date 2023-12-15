@@ -1,7 +1,8 @@
 ---
-title: "Les talents - ou « EIG »"
+title: Les Entrepreneur(e)s d’intérêt général
 layout: talents
 url: /talents
-desc: >-
-  Les EIG possèdent des expertises numériques diverses : en développement web, géomatique, statistique, datamining, datascience, reconnaissance d’images, réseaux neuronaux, objets connectés, méthodes agiles, ergonomie, design d’expérience utilisateur, design d’interface, design de service, droit du numérique etc. Voici leurs parcours en quelques lignes.
+desc: "Design, ingénierie ou droit ; autodidaxie, reconversion ou recherche ;
+  startup, consulting ou association : les EIG viennent de tous les horizons.
+  Découvrez la diversité des talents et des expériences."
 ---
