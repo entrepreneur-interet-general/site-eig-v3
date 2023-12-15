@@ -3,7 +3,7 @@ title: "Jakub Voznica "
 job: Coach en science de la donnée
 promos:
   - Promotion 6
-role: agent-programme
+role: agent-ecosysteme
 defis:
   - Magellan
 expertises:
