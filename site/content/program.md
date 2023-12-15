@@ -60,14 +60,12 @@ steps:
       duration: Durée indéterminée
       title: Opérer le produit, l’améliorer
       dates: Au-delà du contrat de l’EIG
-      desc: Lorsque le service numérique a démontré un impact avéré et mesuré auprès
+      desc: "Lorsque le service numérique a démontré un impact avéré et mesuré auprès
         d'une part significative de la population cible, sa maturité permet
         d'envisager sa pérennisation. Mais il ne s'agit pas tant de maintenir un
         logiciel que de continuer à faire évoluer le produit. L'EIG facilite la
-        transition vers une organisation produit pérenne. Elle ou il est
-        invité(e) à rejoindre plus durablement l'administration porteuse.
-        L'objectif du programme est en effet de faciliter l'internalisation des
-        compétences de pilotage stratégique au sein des administrations.
+        transition vers une organisation produit pérenne, qu'elle ou il pourra
+        rejoindre plus durablement au sein de l'administration porteuse. "
       icon: img/3_prouver_la_valeur.png
 layout: program
 url: /programme
