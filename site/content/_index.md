@@ -9,9 +9,10 @@ hero:
     pour le service public
 intro:
   desc: Les Entrepreneur(e)s d’intérêt général pilotent le lancement et le passage
-    à l’échelle de services numériques en soutien aux politiques publiques.
-  title: "Nous facilitons l’internalisation des compétences entrepreneuriales dans
-    les administrations publiques. "
+    à l’échelle de services numériques en soutien aux politiques publiques,
+    conçus selon l'approche beta.gouv.fr.
+  title: Nous facilitons l’internalisation des compétences entrepreneuriales dans
+    la fonction publique.
 defis:
   sub: Faire réussir les projets numériques de l’État
   desc: "De la santé à l'environnement, en passant par l'éducation et la justice,
