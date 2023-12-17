@@ -10,8 +10,8 @@ hero:
 intro:
   desc: Les Entrepreneur(e)s d’intérêt général pilotent le lancement et le passage
     à l’échelle de services numériques en soutien aux politiques publiques.
-  title: Nous facilitons l’internalisation des compétences entrepreneuriales dans
-    la fonction publique.
+  title: "Nous facilitons l’internalisation des compétences entrepreneuriales dans
+    les administrations publiques. "
 defis:
   sub: Faire réussir les projets numériques de l’État
   desc: "De la santé à l'environnement, en passant par l'éducation et la justice,
@@ -23,17 +23,17 @@ talents:
     compétences de haut niveau au service du pilotage stratégique de produits
     numériques.
   list:
+    - Elisabeth Fainstein
     - Hugo Stéphan
-    - Laurie Chapotte
-    - Sarah Cocher
+    - Laurine Bois
 agents:
   sub: Les sponsors
   desc: Occupant des fonctions de haut niveau, les sponsors apportent la vision
     stratégique liée aux politiques publiques et facilitent la mission confiée
     aux entrepreneur(e)s d’intérêt général.
   list:
-    - "Adnène Trojette "
     - Marielle Chrisment
+    - "Adnène Trojette "
 join:
   image: img/eig-6-ceremonie-photo-promo.jpg
   sub: Cérémonie de clôture de la promotion EIG 6
