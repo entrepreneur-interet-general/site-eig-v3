@@ -80,17 +80,26 @@ how:
     ## Les nouveautés
 
 
+    #### Quoi ?
+
+
+    La mission des EIG s'opère dans les administrations publiques qui conduisent des projets numériques conçus selon l'approche [beta.gouv.fr](https://beta.gouv.fr/approche).
+
+
     #### Qui ?
 
-    Le recrutement se concentre désormais deux profils EIG de pilotage stratégique : directeur ou directrice produit et directeur ou directrice technique.
+
+    Le recrutement se concentre désormais deux profils EIG dédiés au pilotage stratégique : directeur ou directrice produit et directeur ou directrice technique.
 
 
     #### Comment ?
+
 
     Les EIG sont des agent(e)s recruté(e)s par la DINUM en contrat de projet d'un an, renouvelable, et envoyé(e)s en mission dans les administrations partenaires.
 
 
     #### Quand ?
+
 
     La sélection des projets et le recrutement des EIG seront opérés au fil de l'eau en 2024, à rythme bimensuel, à concurrence de 25 EIG pour la 7ème promotion.
 
