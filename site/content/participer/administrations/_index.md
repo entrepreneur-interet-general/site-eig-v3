@@ -17,27 +17,26 @@ program: >-
   ## La réorientation du programme EIG
 
 
-  Dans le cadre de la nouvelle stratégie numérique de l’État, le programme Entrepreneur(e)s d'intérêt général (EIG) est réorienté pour mieux s'inscrire dans la feuille de route de la Direction interministérielle du numérique (DINUM) et notamment répondre aux enjeux de réinternalisation du pilotage de services numériques.
+  Dans le cadre de la nouvelle stratégie numérique de l’État, le programme EIG est réorienté pour mieux s'inscrire dans la feuille de route de la Direction interministérielle du numérique (DINUM) et notamment répondre aux enjeux de réinternalisation du pilotage de services numériques.
 
 
-  Cette réorientation consiste à recruter des profils de haut niveau au service des politiques prioritaires du gouvernement. En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, pour les projeter en mission au sein des administrations partenaires sur des fonctions de pilotage de projets numériques.
+  Cette nouvelle orientation conduit à recruter des profils de haut niveau au service de politiques publiques prioritaires. En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, pour les projeter en mission au sein des administrations partenaires sur des fonctions de pilotage de projets numériques.
 
 
   ## Le recrutement de profils de haut niveau
 
 
-  Le programme EIG se concentre désormais sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques :
-
-
-  À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
+  À compter de la 7ème promotion, le programme se concentre sur des profils dotés d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
 
 
   #### Directeur ou directrice de produit
+
 
   Ces profils aguerris en stratégie et en leadership ont une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.). Leur expérience entrepreneuriale a développé leur capacité à naviguer en évolution rapide et de pivoter selon les besoins.
 
 
   #### Directeur ou directrice technique
+
 
   Ces profils possèdent une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). Leur expérience de direction d'équipes techniques orientées produit leur permet de résoudre des problèmes complexes et de suivre des indicateurs de performance.
 
@@ -45,34 +44,60 @@ program: >-
   ## Comment bénéficier du programme EIG ?
 
 
-  Les administrations centrales et les opérateurs de l'État qui mènent des projets numériques au service de politiques publiques prioritaires peuvent solliciter une mission EIG.
+  Les administrations centrales et les opérateurs de l'État qui mènent des projets numériques conçus selon l'approche beta.gouv.fr peuvent solliciter une mission EIG.
 
 
   #### Lancement de produits numériques
 
-  Sous réserve d'une phase d'investigation selon la méthode de beta.gouv.fr, qui qualifie le problème, valide le besoin et esquisse une stratégie.
+
+  Sous réserve d'une phase d'investigation selon l'approche beta.gouv.fr, afin de qualifier le problème, valider le besoin et esquisser une stratégie.
 
 
   #### Internalisation de compétences en pilotage
 
-  Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (ouverture des codes sources, pilotage par l'impact, transparence des résultats, etc.).
+
+  Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, ouverture des codes sources, etc.)
 criteria:
-  title: Ambition entrepreneuriale
-  desc: Le projet est pensé dans une optique d'expérimentation du concept,
-    d'adoption par une communauté d'usage et de croissance de la valeur.
+  title: Critères de sélection
+  desc: Vous êtes une administration publique et souhaitez bénéficiez de l'octroi
+    d'un(e) ou deux EIG ? Voici les différentes facettes de la sélection des
+    missions de la 7ème promotion.
+  list:
+    - desc: Le projet contribue au déploiement de politiques publiques prioritaires.
+      num: "1"
+      name: Cadre de politique publique
+    - num: "2"
+      name: Niveau de sponsoring
+      desc: Le projet est soutenu à haut niveau décisionnel dans l'administration
+        porteuse.
+    - num: "3"
+      name: Ambition entrepreneuriale
+      desc: Le projet vise l'expérimentation précoce, l'adoption progressive et la
+        croissance de la valeur.
+    - num: "4"
+      name: Résultats escomptés
+      desc: Les objectifs du projet entrepreneurial visent des résultats mesurables et
+        significatifs.
+    - num: "5"
+      name: Opportunité de l'approche
+      desc: Les conditions sont favorables au développement d'une dynamique
+        entrepreneuriale.
 steps: >-
-  Les administrations publiques soumettent un dossier de candidatures à l'appel
-  à projets de la 7ème promotion sur la plateforme Démarches Simplifiées : 
+  #﻿ La sélection des missions
+
+
+  Les administrations publiques soumettent un dossier de candidatures à l'appel à projets de la 7ème promotion sur la plateforme Démarches Simplifiées.
+
 
   * L’appel à projets sera opéré en 2024 à rythme bimestriel.
 
   * Les dossiers seront étudiés par un comité d'évaluation.
 
-  * Les missions EIG seront sélectionnées en conformité avec un cahier des charges explicitant les modalités.
+  * Les missions EIG seront sélectionnées par la DINUM.
 wait:
   title: L’appel à projets de la 7ème promotion du programme Entrepreneur(e)s
     d’intérêt général ouvrira bientôt.
   desc: Pour toute question de cadrage des projets pressentis, les administrations
-    sont invitées à contacter les responsables de portefeuille de l'Incubateur
-    de services numériques de la DINUM.
+    publiques sont invitées à contacter les responsables de portefeuille de
+    l'Incubateur de services numériques de la DINUM.
 ---
