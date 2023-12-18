@@ -71,13 +71,22 @@ layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
 title: Le programme
-desc: Le programme EIG se renouvelle et se réoriente. À compter de la 7ème
-  promotion, le programme se concentre sur des profils disposant d’une solide
-  expérience entrepreneuriale, avec des compétences de haut niveau en pilotage
-  de services numériques.
+desc: >-
+  En 2016, la présidence de la République française annonçait, à l'occasion du
+  sommet mondial du Partenariat pour un Gouvernement Ouvert, le lancement du
+  programme Entrepreneur(e)s d’Intérêt Général. 
+
+
+  En initiant des démarches d’exploration et d’émergence, l’ambition du programme EIG est de développer une administration publique plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. 
+
+
+  Le programme vise ainsi à contribuer l'efficacité de l'action publique. Il facilite l'internalisation de talents capables d'expérimenter un service numérique, de prouver sa valeur et d'amorcer son adoption.
 how:
   desc: >-
     ## Les nouveautés
+
+
+    Le programme EIG se renouvelle et se réoriente. À compter de la 7ème promotion, il se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
 
 
     #### Quoi ?
