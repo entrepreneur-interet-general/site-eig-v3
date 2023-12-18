@@ -37,10 +37,10 @@ profiles:
   title: Les nouveaux profils recherchés
   desc: >-
     De 2016 à 2012, le programme a permis de recruter plus de 200 EIG dans les
-    administrations publiques lauréates. Ainsi, des designers, des développeurs
-    et développeuses, des ingénieur(e)s de la donnée ou des sciences de la
-    donnée, mais aussi des juristes du numérique ont soutenu plus de 100 projets
-    numériques innovants.
+    administrations publiques lauréates. 
+
+
+    Ainsi, des designers, des développeurs et développeuses, des ingénieur(e)s de la donnée ou des sciences de la donnée, mais aussi des juristes du numérique ont soutenu plus de 100 projets  innovants.
 
 
     À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
@@ -97,7 +97,7 @@ how:
     #### 1. Votre dossier de candidature
 
 
-    Vous postulez au programme via un dossier de candidature en ligne, évalué par les expert(e)s de la DINUM.
+    Vous postulez au programme EIG en déposant un dossier sur la plateforme Démarches Simplifiées, qui sera évalué par les expert(e)s de la DINUM.
 
 
     #### 2. Un premier entretien selon votre profil
@@ -109,19 +109,19 @@ how:
     #### 3. L'intégration à un vivier d'entrepreneur(e)s
 
 
-    Si votre candidature est sélectionnée, vous pouvez intégrer un vivier d'entrepreneur(e)s susceptibles de se voir proposer une mission.
+    Si votre candidature est sélectionnée, vous pouvez intégrer un vivier d'entrepreneur(e)s susceptibles de se voir proposer une mission destinée à la 7ème promotion.
 
 
     #### 4. Un second entretien pour telle mission
 
 
-    Si un poste pertinent pour votre profil est disponible dans l'une des administrations lauréates du programme, vous êtes convié(e) à un entretien en rapport avec la mission proposée.
+    Si une mission pertinente pour votre profil est ouverte dans l'une des administrations lauréates du programme, vous êtes convié(e) à un entretien en rapport avec la mission concernée.
 
 
-    #### 5. Votre propostion d'embauche
+    #### 5. Votre proposition d'embauche
 
 
-    Si vous êtes retenu(e), vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir dans l'administration lauréate.
+    Si vous êtes retenu(e), vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir au sein de l'administration lauréate.
 wait:
   title: L'appel à candidatures de la 7ème promotion du programme Entrepreneur(e)s
     d'intérêt général sera bientôt ouvert.
