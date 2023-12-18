@@ -74,13 +74,18 @@ profiles:
 conditions:
   title: Les conditions de recrutement
   desc: >-
-    * Un poste au coeur de l'écosystème du numérique public
-         - Vous serez embauché(e) par la DINUM en contrat de projet d’un an minimum, renouvelable.
-         - Vous serez envoyé(e) en mission dans une startup d'État d'une administration lauréate du programme.
+    #### Un poste au coeur de l'écosystème du numérique public
 
-    * Une égalité de rémunération entre femmes et hommes
-         - Jusqu'à 10 ans d'expérience, un salaire net mensuel de 4250 € et une part variable de 6 %.
-         - Au-delà de 10 ans d'expérience, un salaire net mensuel de 5000 € et une part variable de 10 %.
+    * Vous serez embauché(e) par la DINUM en contrat de projet d’un an minimum, renouvelable.
+
+    * Vous serez envoyé(e) en mission dans une startup d'État d'une administration lauréate du programme.
+
+
+    #### Une égalité de rémunération entre femmes et hommes
+
+    * Jusqu'à 10 ans d'expérience, un salaire net mensuel de 4250 € et une part variable de 6 %.
+
+    * Au-delà de 10 ans d'expérience, un salaire net mensuel de 5000 € et une part variable de 10 %.
 how:
   title: Comment devenir EIG de la 7ème promotion ?
   desc: >-
