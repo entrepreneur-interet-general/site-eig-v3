@@ -14,11 +14,9 @@ head:
     title: Cahier des charges
     url: img/aap-eig6-cahier-des-charges.pdf
 program: >-
-  Le programme se renouvelle pour mieux répondre aux enjeux de réinternalisation
-  du pilotage de services numériques. 
-
-
-  En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, et les projeter en mission au sein des administrations partenaires.
+  En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de
+  projet à la DINUM, et les projeter en mission au sein des administrations
+  partenaires.
 
 
   ## Les profils proposés
