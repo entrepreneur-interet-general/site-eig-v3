@@ -84,16 +84,16 @@ steps: >-
   ## Les étapes de sélection
 
 
-  Les administrations publiques soumettent un dossier de candidatures à l'appel à projets de la 7ème promotion sur la plateforme Démarches Simplifiées.
+  L’appel à projets de la 7ème promotion sera opéré en 2024 à rythme bimestriel.
 
 
-  * L’appel à projets sera opéré en 2024 à rythme bimestriel.
+  * Les administrations déposent un dossier sur la plateforme Démarches Simplifiées.
 
-  * Les dossiers seront étudiés par un comité d'évaluation.
+  * Les dossiers déposés sont étudiés par un comité d'évaluation.
 
-  *﻿ Les administrations pré-sélectionnées seront conviées à une soutenance.
+  * Les administrations pré-sélectionnées sont conviées à une soutenance.
 
-  * Les missions EIG seront sélectionnées par la DINUM.
+  * Les missions EIG sont sélectionnées par la DINUM.
 wait:
   title: L’appel à projets de la 7ème promotion du programme Entrepreneur(e)s
     d’intérêt général ouvrira bientôt.
