@@ -1,5 +1,5 @@
 ---
-title: Découvrez les modalités de candidature au programme EIG
+title: Découvrez les modalités du programme EIG
 layout: participate
 menu: participate
 ---
