@@ -50,27 +50,50 @@ program: >-
   #### Lancement de produits numériques
 
 
-  Vous pouvez bénéficier de l'octroi d'un(e) ou deux EIG, sous réserve d'une investigation selon la méthode de beta.gouv.fr, qui qualifie le problème, valide le besoin et esquisse une stratégie.
+  Sous réserve d'une phase d'investigation selon l'approche beta.gouv.fr, afin de qualifier le problème, valider le besoin et esquisser une stratégie.
 
 
   #### Internalisation de compétences en pilotage
 
 
-  Vous pouvez bénéficier de l'octroi d'un(e) ou deux EIG, sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, etc.).
+  Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, ouverture des codes sources, etc.)
 criteria:
-  title: Ambition entrepreneuriale
-  desc: Le projet est pensé dans une optique d'expérimentation du concept,
-    d'incrémentation de la valeur, d'adoption par une communauté d'usage et
-    d'amplification de l'impact.
+  title: Critères de sélection
+  desc: Vous êtes une administration publique et souhaitez bénéficiez de l'octroi
+    d'un(e) ou deux EIG ? Voici les différentes facettes de la sélection des
+    missions de la 7ème promotion.
+  list:
+    - desc: Le projet contribue au déploiement de politiques publiques prioritaires.
+      num: "1"
+      name: Cadre de politique publique
+    - num: "2"
+      name: Niveau de sponsoring
+      desc: Le projet est soutenu à haut niveau décisionnel dans l'administration
+        porteuse.
+    - num: "3"
+      name: Ambition entrepreneuriale
+      desc: Le projet vise l'expérimentation précoce, l'adoption progressive et la
+        croissance de la valeur.
+    - num: "4"
+      name: Résultats escomptés
+      desc: Les objectifs du projet entrepreneurial visent des résultats mesurables et
+        significatifs.
+    - num: "5"
+      name: Opportunité de l'approche
+      desc: Les conditions sont favorables au développement d'une dynamique
+        entrepreneuriale.
 steps: >-
-  Les administrations publiques soumettent un dossier de candidatures à l'appel
-  à projets de la 7ème promotion sur la plateforme Démarches Simplifiées : 
+  #﻿ La sélection des missions
+
+
+  Les administrations publiques soumettent un dossier de candidatures à l'appel à projets de la 7ème promotion sur la plateforme Démarches Simplifiées.
+
 
   * L’appel à projets sera opéré en 2024 à rythme bimestriel.
 
   * Les dossiers seront étudiés par un comité d'évaluation.
 
-  * Les missions EIG seront sélectionnées en conformité avec un cahier des charges explicitant les modalités.
+  * Les missions EIG seront sélectionnées par la DINUM.
 wait:
   title: L’appel à projets de la 7ème promotion du programme Entrepreneur(e)s
     d’intérêt général ouvrira bientôt.
