@@ -46,7 +46,7 @@ profiles:
     À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
 
 
-    ### Directeur ou directrice de produit
+    #### Directeur ou directrice de produit
 
 
     *(Équivalent de "Chief Product Officer" ou "Head of Product")*
@@ -57,7 +57,7 @@ profiles:
     * Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et de pivoter selon les besoins.
 
 
-    ### Directeur ou directrice technique
+    #### Directeur ou directrice technique
 
 
     *(Équivalent de "Chief Technology Officer" ou "Engineering Manager")*
