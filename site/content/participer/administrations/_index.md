@@ -4,8 +4,8 @@ layout: admins
 open: false
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
-    l'intérieur, nous facilitons l’internalisation des compétences de pilotage
-    stratégique des services numériques publics.
+    l'intérieur, nous facilitons l’internalisation des compétences
+    entrepreneuriales dans la fonction publique.
   title: Administrations publiques
   apply:
     title: Proposer un projet
