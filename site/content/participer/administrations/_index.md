@@ -48,7 +48,7 @@ program: >-
   #### Pour lancer un produit numérique
 
 
-  Sous réserve d'une phase d'investigation selon l'approche beta.gouv.fr, afin de qualifier le problème, valider le besoin et esquisser une stratégie.
+  Sous réserve d'une investigation selon l'approche beta.gouv.fr permette de qualifier le problème, de valider le besoin et d'esquisser une stratégie.
 
 
   #### Pour internaliser le pilotage stratégique
