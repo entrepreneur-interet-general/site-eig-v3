@@ -2,10 +2,10 @@
 open: false
 head:
   questions:
-    - question: Vous voulez vous engager pour l'intérêt général ?
-    - question: Vous aimez les défis concrets ?
-    - question: Vous avez l’esprit du collectif ?
-  sub: Participez de l'intérieur à la transformation numérique du service public !
+    - question: Vous avez une solide expérience entrepreneuriale ?
+    - question: Vous pilotez par les objectifs et les résultats ?
+    - question: Vous voulez faire réussir des projets de l’État ?
+  sub: Rejoignez le programme et contribuez à l'efficacité de l'action publique !
   apply:
     title: Postuler
     url: /participer/candidats/postuler
@@ -13,88 +13,99 @@ head:
     title: "Règlement "
     url: img/aac-eig6-reglement.pdf
 def:
-  title: EIG ça veut dire quoi ?
+  title: EIG, kézako ?
   info:
-    title: EIG, ça veut dire quoi ?
+    title: "[əiʒ] n. m. et n. f., épicène dérivé d’entreprendeur, XIIIe, au sens de
+      personne qui crée, qui agit."
     desc: >-
-      \[əiʒ] n. m. et n. f., épicène dérivé d’entreprendeur, XIIIe, au sens de
-      personne qui crée, qui agit.
+      1. Membre d'un collectif attaché à l'esprit entrepreneurial et aux valeurs
+      du service public.
 
+      2. Démarche hybride d'expérimentation et d'incrémentation de produits numériques qui répondent à de vrais besoins.
 
-      1. Art de conjuguer le potentiel du numérique aux enjeux de l’intérêt général.
-
-      2. Membre d’un collectif mêlant compétences numériques, attachement à l'égalité et la diversité, appétence pour les valeurs d’ouverture et goût du dépassement de fonction.
-
-      3. Démarche alliant l’agilité et le sens du service public, afin de créer de nouvelles solutions pour les citoyen(ne)s et les agent(e)s.
+      3. Volonté de faire du numérique un levier puissant de l'efficacité de l'action publique.
 what:
-  title: EIG, concrètement c'est quoi ?
+  title: Pourquoi devenir EIG ?
   defs:
-    - def: Rejoindre une administration pour 10 mois
-    - def: Faire équipe avec un ou deux autres profils tech, design ou en droit du
-        numérique
-    - def: Expérimenter autour de projets pour améliorer l’action publique
-    - def: Entrer dans l'écosystème du numérique public (Etalab, Beta.gouv,
-        Design.gouv...)
+    - def: Rejoindre la fonction publique en contrat de projet
+    - def: Contribuer au déploiement d'une politique publique
+    - def: Piloter le lancement de services numériques
+    - def: Intégrer l’écosystème du numérique public
 layout: candidates
-title: Candidates et candidats EIG
+title: Devenir EIG
 profiles:
-  title: Profils
+  title: Les nouveaux profils recherchés
   desc: >-
-    Nous recherchons plusieurs types de profils, selon les expertises que
-    nécessitent les défis :
+    De 2016 à 2012, le programme a permis de recruter plus de 200 EIG dans les
+    administrations publiques lauréates. Ainsi, des designers, des développeurs
+    et développeuses, des ingénieur(e)s de la donnée ou des sciences de la
+    donnée, mais aussi des juristes du numérique ont soutenu plus de 100 projets
+    numériques innovants.
 
 
-    * des designers
-
-    * des développeurs et développeuses
-
-    * des ingénieur(e)s de la donnée 
-
-    * des ingénieur(e)s des sciences de la donnée 
-
-    * des juristes du numérique
+    À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques :
 
 
-    Et au-delà, des personnes qui veulent : transmettre une culture numérique à l’administration, s’engager dans l’open data et l’open source, participer à la mutualisation et à la réutilisation des produits et des données.
+    ### Directeur ou directrice de produit 
+
+    (Équivalent de "Chief Product Officer" ou CPO)
+
+    Vous êtes aguerri(e) en stratégie et en leadership, vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, opérations, etc.). BVotre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et de pivoter selon les besoins.
+
+
+    ### Directeur ou directrice technique
+
+    (Équivalent de "Chief Technology Officer" ou CTO)
+
+    Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, écoresponsabilité, etc.). Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes et de suivre des indicateurs de performance.
   list:
     - Clara Carneiro Alves
     - Loup Theron
     - Amélie Medem
   sub: Elles et ils sont devenu(e)s EIG
 conditions:
-  title: Conditions
+  title: Les conditions de recrutement
   desc: >-
-    Intégrer le programme, c'est obtenir : 
+    * Un poste au coeur de l'écosystème du numérique public
+         - Vous serez embauché(e) par la DINUM en contrat de projet d’un an minimum, renouvelable.
+         - Vous serez envoyé(e) en mission dans une startup d'État d'une administration lauréate du programme.
 
-
-    * Un CDD de 10 mois dans une administration
-
-    * Un salaire 3 500 € jusqu’à 5 années d’expérience au total, 4 000 € au-delà de 5 années
-
-    * L'accès à une communauté d’experts et d'expertes avec l’appui technique et méthodologique des coachs EIG tout au long des 10 mois du programme
+    * Une égalité de rémunération entre femmes et hommes :
+         - Jusqu'à 10 ans d'expérience, un salaire net mensuel de 4250 € et une part variable de 6 %.
+         - Au-delà de 10 ans d'expérience, un salaire net mensuel de 5000 € et une part variable de 10 %.
 how:
   title: Comment devenir EIG de la prochaine promotion ?
   desc: >-
-    Pour rejoindre le programme et ainsi relever un défi dans une
-    administration, il vous faudra répondre à notre prochain appel à
-    candidatures. 
+    Pour rejoindre le programme et ainsi relever un défi entrepreneurial dans
+    une administration publique, nous vous invitons à répondre à notre appel à
+    candidatures.
 
 
-    Le processus de sélection se fait en 4 étapes : 
+    1. Votre dossier de candidature
+
+    Vous postulez au programme via un dossier de candidature en ligne, évalué par les expert(e)s de la DINUM.
 
 
-    ![](img/steps.svg)
+    2. Un premier entretien selon votre profil
+
+    Si votre dossier est pré-sélectionné, vous êtes convié(e) à un entretien d'une heure, en rapport avec votre métier, soit de direction produit, soit de direction technique.
 
 
-    1. **Vous postulez** au programme via un formulaire de candidature en ligne
+    3. L'intégration à un vivier d'entrepreneur(e)s
 
-    2. **Si vous êtes pré-sélectionnés, vous votez** pour les défis que vous souhaitez relever
+    Si votre candidature est sélectionnée, vous pouvez intégrer un vivier d'entrepreneur(e)s susceptibles de se voir proposer une mission.
 
-    3. **Vous échangez avec un jury** composé d'agent(e)s et d'expert(e)s lors d'une audition pour relever un défi pour lequel vous avez voté
 
-    4. **Vous rejoignez le programme Entrepreneur(e)s d'intérêt général et une administration** pendant 10 mois
+    4. Un second entretien pour telle mission
+
+    Si un poste pertinent pour votre profil est disponible dans l'une des administrations lauréates du programme, vous êtes convié(e) à un entretien d'une heure, en rapport avec la mission proposée.
+
+
+    5. Votre propostion d'embauche
+
+    Si vous êtes retenu(e), vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir dans l'administration lauréate.
 wait:
-  title: L'appel à candidatures de la promotion 6 du programme Entrepreneur(e)s
-    d'Intérêt Général est clos.
+  title: L'appel à candidatures de la 7ème promotion du programme Entrepreneur(e)s
+    d'Intérêt Général sera bientôt ouvert.
   desc: ""
 ---
