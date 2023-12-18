@@ -15,9 +15,10 @@ head:
     url: img/aap-eig6-cahier-des-charges.pdf
 program: >-
   Le programme se renouvelle pour mieux répondre aux enjeux de réinternalisation
-  du pilotage de services numériques. En 2024, des postes seront ouverts pour
-  recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, et les projeter en
-  mission au sein des administrations partenaires.
+  du pilotage de services numériques. 
+
+
+  En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, et les projeter en mission au sein des administrations partenaires.
 
 
   ## Les profils proposés
@@ -44,7 +45,7 @@ program: >-
   Les administrations publiques qui mènent des projets numériques conçus selon l'approche beta.gouv.fr peuvent solliciter une mission EIG. 
 
 
-  #### Pour lancer un nouveau produit numérique
+  #### Pour lancer un produit numérique
 
 
   Sous réserve d'une phase d'investigation selon l'approche beta.gouv.fr, afin de qualifier le problème, valider le besoin et esquisser une stratégie.
@@ -55,10 +56,10 @@ program: >-
 
   Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, ouverture des codes sources, etc.)
 criteria:
-  title: Critères de sélection
-  desc: Vous êtes une administration publique et souhaitez bénéficiez de l'octroi
-    d'un(e) ou deux EIG ? Découvrez les différentes facettes de la sélection des
-    missions de la 7ème promotion.
+  title: Les critères de sélection
+  desc: Vous êtes une administration publique et souhaitez déposer un dossier pour
+    bénéficier de l'octroi d'un(e) ou deux EIG ? Découvrez les différentes
+    facettes de la sélection des missions de la 7ème promotion.
   list:
     - desc: Le projet contribue au déploiement de politiques publiques prioritaires.
       num: "1"
@@ -80,7 +81,7 @@ criteria:
       desc: Les conditions sont favorables au développement d'une dynamique
         entrepreneuriale.
 steps: >-
-  ## La sélection des missions
+  ## Les étapes de sélection
 
 
   Les administrations publiques soumettent un dossier de candidatures à l'appel à projets de la 7ème promotion sur la plateforme Démarches Simplifiées.
@@ -89,6 +90,8 @@ steps: >-
   * L’appel à projets sera opéré en 2024 à rythme bimestriel.
 
   * Les dossiers seront étudiés par un comité d'évaluation.
+
+  *﻿ Les administrations pré-sélectionnées seront conviées à une soutenance.
 
   * Les missions EIG seront sélectionnées par la DINUM.
 wait:
