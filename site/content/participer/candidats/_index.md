@@ -52,9 +52,9 @@ profiles:
     *(Équivalent de "Chief Product Officer" ou "Head of Product")*
 
 
-    * Vous êtes aguerri(e) en stratégie et en leadership, vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, opérations, etc.). 
+    * Vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.).  
 
-    * Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et de pivoter selon les besoins.
+    * Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins.
 
 
     #### Directeur ou directrice technique
@@ -63,9 +63,9 @@ profiles:
     *(Équivalent de "Chief Technology Officer" ou "Engineering Manager")*
 
 
-    * Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, écoresponsabilité, etc.). 
+    * Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). 
 
-    * Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes et de suivre des indicateurs de performance.
+    * Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes.
   list:
     - Clara Carneiro Alves
     - Loup Theron
@@ -124,6 +124,6 @@ how:
     Si vous êtes retenu(e), vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir dans l'administration lauréate.
 wait:
   title: L'appel à candidatures de la 7ème promotion du programme Entrepreneur(e)s
-    d'Intérêt Général sera bientôt ouvert.
+    d'intérêt général sera bientôt ouvert.
   desc: ""
 ---
