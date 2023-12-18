@@ -14,19 +14,16 @@ head:
     title: Cahier des charges
     url: img/aap-eig6-cahier-des-charges.pdf
 program: >-
-  ## La réorientation du programme EIG
+  ## La réorientation du programme
 
 
-  Dans le cadre de la nouvelle stratégie numérique de l’État, le programme EIG est réorienté pour mieux s'inscrire dans la feuille de route de la Direction interministérielle du numérique (DINUM) et notamment répondre aux enjeux de réinternalisation du pilotage de services numériques.
+  Le programme se renouvelle pour mieux répondre aux enjeux de réinternalisation du pilotage de services numériques. 
 
 
-  Cette nouvelle orientation conduit à recruter des profils de haut niveau au service de politiques publiques prioritaires. En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, pour les projeter en mission au sein des administrations partenaires sur des fonctions de pilotage de projets numériques.
+  En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, pour les projeter en mission au sein des administrations partenaires du réseau beta.gouv.fr.
 
 
-  ## Le recrutement de profils de haut niveau
-
-
-  À compter de la 7ème promotion, le programme se concentre sur des profils dotés d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
+  À compter de la 7ème promotion, le programme se concentre sur des profils de haut niveau, dotés d’une solide expérience entrepreneuriale, avec des compétences en pilotage de services numériques.
 
 
   #### Directeur ou directrice de produit
@@ -44,23 +41,23 @@ program: >-
   ## Comment bénéficier du programme EIG ?
 
 
-  Les administrations centrales et les opérateurs de l'État qui mènent des projets numériques conçus selon l'approche beta.gouv.fr peuvent solliciter une mission EIG.
+  Les administrations publiques qui mènent des projets numériques conçus selon l'approche beta.gouv.fr peuvent solliciter une mission EIG. 
 
 
-  #### Lancement de produits numériques
+  #### Pour lancer un nouveau produit numérique
 
 
   Sous réserve d'une phase d'investigation selon l'approche beta.gouv.fr, afin de qualifier le problème, valider le besoin et esquisser une stratégie.
 
 
-  #### Internalisation de compétences en pilotage
+  #### Pour internaliser le pilotage stratégique
 
 
   Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, ouverture des codes sources, etc.)
 criteria:
   title: Critères de sélection
   desc: Vous êtes une administration publique et souhaitez bénéficiez de l'octroi
-    d'un(e) ou deux EIG ? Voici les différentes facettes de la sélection des
+    d'un(e) ou deux EIG ? Découvrez les différentes facettes de la sélection des
     missions de la 7ème promotion.
   list:
     - desc: Le projet contribue au déploiement de politiques publiques prioritaires.
