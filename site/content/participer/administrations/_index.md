@@ -15,9 +15,10 @@ head:
     url: img/aap-eig6-cahier-des-charges.pdf
 program: >-
   Le programme se renouvelle pour mieux répondre aux enjeux de réinternalisation
-  du pilotage de services numériques. En 2024, des postes seront ouverts pour
-  recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, et les projeter en
-  mission au sein des administrations partenaires.
+  du pilotage de services numériques. 
+
+
+  En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, et les projeter en mission au sein des administrations partenaires.
 
 
   ## Les profils proposés
@@ -44,7 +45,7 @@ program: >-
   Les administrations publiques qui mènent des projets numériques conçus selon l'approche beta.gouv.fr peuvent solliciter une mission EIG. 
 
 
-  #### Pour lancer un nouveau produit numérique
+  #### Pour lancer un produit numérique
 
 
   Sous réserve d'une phase d'investigation selon l'approche beta.gouv.fr, afin de qualifier le problème, valider le besoin et esquisser une stratégie.
