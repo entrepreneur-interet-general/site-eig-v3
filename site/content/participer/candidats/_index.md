@@ -94,27 +94,32 @@ how:
     candidatures.
 
 
-    1. Votre dossier de candidature
+    #### 1. Votre dossier de candidature
+
 
     Vous postulez au programme via un dossier de candidature en ligne, évalué par les expert(e)s de la DINUM.
 
 
-    2. Un premier entretien selon votre profil
-
-    Si votre dossier est pré-sélectionné, vous êtes convié(e) à un entretien d'une heure, en rapport avec votre métier, soit de direction produit, soit de direction technique.
+    #### 2. Un premier entretien selon votre profil
 
 
-    3. L'intégration à un vivier d'entrepreneur(e)s
+    Si votre dossier est pré-sélectionné, vous êtes convié(e) à un entretien en rapport avec votre métier, soit de direction produit, soit de direction technique.
+
+
+    #### 3. L'intégration à un vivier d'entrepreneur(e)s
+
 
     Si votre candidature est sélectionnée, vous pouvez intégrer un vivier d'entrepreneur(e)s susceptibles de se voir proposer une mission.
 
 
-    4. Un second entretien pour telle mission
-
-    Si un poste pertinent pour votre profil est disponible dans l'une des administrations lauréates du programme, vous êtes convié(e) à un entretien d'une heure, en rapport avec la mission proposée.
+    #### 4. Un second entretien pour telle mission
 
 
-    5. Votre propostion d'embauche
+    Si un poste pertinent pour votre profil est disponible dans l'une des administrations lauréates du programme, vous êtes convié(e) à un entretien en rapport avec la mission proposée.
+
+
+    #### 5. Votre propostion d'embauche
+
 
     Si vous êtes retenu(e), vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir dans l'administration lauréate.
 wait:
