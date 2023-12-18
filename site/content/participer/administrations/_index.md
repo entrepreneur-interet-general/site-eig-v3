@@ -83,7 +83,7 @@ criteria:
       desc: Les conditions sont favorables au développement d'une dynamique
         entrepreneuriale.
 steps: >-
-  #﻿ La sélection des missions
+  ## La sélection des missions
 
 
   Les administrations publiques soumettent un dossier de candidatures à l'appel à projets de la 7ème promotion sur la plateforme Démarches Simplifiées.
