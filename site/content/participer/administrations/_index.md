@@ -17,13 +17,13 @@ program: >-
   ## La réorientation du programme
 
 
-  Le programme se renouvelle pour mieux répondre aux enjeux de réinternalisation du pilotage de services numériques. En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, pour les projeter en mission au sein des administrations partenaires.
+  Le programme se renouvelle pour mieux répondre aux enjeux de réinternalisation du pilotage de services numériques. 
 
 
-  ## Des profils de haut niveau
+  En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de projet à la DINUM, pour les projeter en mission au sein des administrations partenaires du réseau beta.gouv.fr.
 
 
-  À compter de la 7ème promotion, le programme se concentre sur des profils dotés d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
+  À compter de la 7ème promotion, le programme se concentre sur des profils de haut niveau, dotés d’une solide expérience entrepreneuriale, avec des compétences en pilotage de services numériques.
 
 
   #### Directeur ou directrice de produit
@@ -57,7 +57,7 @@ program: >-
 criteria:
   title: Critères de sélection
   desc: Vous êtes une administration publique et souhaitez bénéficiez de l'octroi
-    d'un(e) ou deux EIG ? Voici les différentes facettes de la sélection des
+    d'un(e) ou deux EIG ? Découvrez les différentes facettes de la sélection des
     missions de la 7ème promotion.
   list:
     - desc: Le projet contribue au déploiement de politiques publiques prioritaires.
