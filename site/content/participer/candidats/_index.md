@@ -43,21 +43,29 @@ profiles:
     numériques innovants.
 
 
-    À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques :
+    À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
 
 
-    ### Directeur ou directrice de produit 
+    ### Directeur ou directrice de produit
 
-    (Équivalent de "Chief Product Officer" ou CPO)
 
-    Vous êtes aguerri(e) en stratégie et en leadership, vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, opérations, etc.). BVotre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et de pivoter selon les besoins.
+    *(Équivalent de "Chief Product Officer" ou "Head of Product")*
+
+
+    * Vous êtes aguerri(e) en stratégie et en leadership, vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, opérations, etc.). 
+
+    * Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et de pivoter selon les besoins.
 
 
     ### Directeur ou directrice technique
 
-    (Équivalent de "Chief Technology Officer" ou CTO)
 
-    Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, écoresponsabilité, etc.). Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes et de suivre des indicateurs de performance.
+    *(Équivalent de "Chief Technology Officer" ou "Engineering Manager")*
+
+
+    * Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, écoresponsabilité, etc.). 
+
+    * Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes et de suivre des indicateurs de performance.
   list:
     - Clara Carneiro Alves
     - Loup Theron
@@ -70,11 +78,11 @@ conditions:
          - Vous serez embauché(e) par la DINUM en contrat de projet d’un an minimum, renouvelable.
          - Vous serez envoyé(e) en mission dans une startup d'État d'une administration lauréate du programme.
 
-    * Une égalité de rémunération entre femmes et hommes :
+    * Une égalité de rémunération entre femmes et hommes
          - Jusqu'à 10 ans d'expérience, un salaire net mensuel de 4250 € et une part variable de 6 %.
          - Au-delà de 10 ans d'expérience, un salaire net mensuel de 5000 € et une part variable de 10 %.
 how:
-  title: Comment devenir EIG de la prochaine promotion ?
+  title: Comment devenir EIG de la 7ème promotion ?
   desc: >-
     Pour rejoindre le programme et ainsi relever un défi entrepreneurial dans
     une administration publique, nous vous invitons à répondre à notre appel à
