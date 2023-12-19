@@ -110,7 +110,7 @@ how:
     #### Quand ?
 
 
-    La sélection des projets et le recrutement des EIG seront opérés au fil de l'eau en 2024, à rythme bimestriel, à concurrence de 25 EIG pour la 7ème promotion.
+    La sélection des projets et le recrutement des EIG seront opérés au fil de l'eau en 2024, à rythme bimestriel, jusqu'à 30 EIG pour la 7ème promotion.
 
 
     ![]()
