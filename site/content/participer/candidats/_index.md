@@ -49,18 +49,12 @@ profiles:
     #### Directeur ou directrice de produit
 
 
-    *(Équivalent de "Chief Product Officer" ou "Head of Product")*
-
-
     * Vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.).  
 
     * Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins.
 
 
     #### Directeur ou directrice technique
-
-
-    *(Équivalent de "Chief Technology Officer" ou "Engineering Manager")*
 
 
     * Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). 
