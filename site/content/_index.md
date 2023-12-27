@@ -58,21 +58,10 @@ medias:
         sa vision"
       image: https://acteurspublics.fr/media/cache/default_news_big/upload/media/default/0001/40/432fccf8510adf1a0248102463f28f58afa49804.jpeg
       link: https://acteurspublics.fr/articles/je-crois-a-la-pollinisation-avec-le-prive-le-ministre-guerini-esquisse-sa-vision-de-la-transformation-numerique
-    - title: "Corine Waroquiers : “La popularité du programme EIG ne cesse de
-        croître”"
-      link: https://acteurspublics.fr/articles/corine-waroquiers-le-programme-entrepreneurs-dinteret-general-est-de-plus-en-plus-populaire-aupres-des-administrations
-      image: https://acteurspublics.fr/media/cache/default_news_big/upload/media/default/0001/38/86e96b95fff4ee49559594bdcf2adc4e59a9174f.png
-    - title: La stratégie bien rodée de l'État pour recruter des professionnels du
-        numérique
-      link: https://www.usine-digitale.fr/article/la-strategie-bien-rodee-de-l-etat-pour-recruter-des-professionnels-du-numerique.N1776667
-      image: https://www.usine-digitale.fr/mediatheque/1/8/1/000874181_896x598_c.jpg
     - title: Ils ont quitté le secteur de la tech pour entreprendre dans le public
       link: https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864
       image: https://media.lesechos.com/api/v1/images/view/615ec5698fe56f056b63bbb4/1280x720-webp/07070420995-web-tete.webp
     - link: https://www.forbes.fr/entrepreneurs/entrepreneurs-dinteret-general-comment-entreprendre-pour-ameliorer-le-service-public/
       title: "EIG : comment entreprendre pour améliorer le service public ?"
       image: https://www.forbes.fr/wp-content/uploads/2021/03/place-de-la-republique-marianne.jpg
-    - title: La féminisation du numérique de l’État passe par les “profils atypiques”
-      link: https://acteurspublics.fr/articles/la-feminisation-du-numerique-de-letat-passe-par-les-profils-atypiques
-      image: https://acteurspublics.fr/media/cache/default_news_big/upload/media/default/0001/36/35a0e8590d8dc634777077521c110c1d0ed6b91b.jpeg
 ---
