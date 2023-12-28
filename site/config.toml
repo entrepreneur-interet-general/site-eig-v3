@@ -41,13 +41,13 @@ removePathAccents = true
     weight = 3
   
   [[menu.nav]]
-    name = "Talents EIG"
+    name = "Entrepreneur(e)s"
     url = "/talents"
     parent = "participants"
     weight = 1
 
   [[menu.nav]]
-    name = "Agent(e)s de service public"
+    name = "Sponsors"
     url = "/agents"
     parent = "participants"
     weight = 2
