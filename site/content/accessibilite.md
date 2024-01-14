@@ -8,14 +8,16 @@ url: /accessibilite
 La Direction interministérielle du numérique (DINUM) est engagée dans un processus d’amélioration de l’accessibilité de l’ensemble de ses sites.
 
 Le schéma pluriannuel décrit les points importants sur lesquels le programme [beta.gouv.fr](https://beta.gouv.fr/) s’appuiera pour améliorer l’accessibilité numérique de l’ensemble de ses sites Web et applications.
-* Consulter le [schéma pluriannuel 2024-2027](https://beta.gouv.fr/accessibilite/schema-pluriannuel)
+
+* Consulter le [schéma pluriannuel 2024-2027](https://beta.gouv.fr/accessibilite/schema-pluriannuel).﻿
 
 Il s’accompagne de plans d’action annuels, qui détaillent les opérations programmées et mises en œuvre chaque année, ainsi que l’état de suivi de ces actions.
-* Consulter le [plan d’action 2024](https://beta.gouv.fr/accessibilite/schema-pluriannuel#plan-2024)
+
+* Consulter le [plan d’action 2024](https://beta.gouv.fr/accessibilite/schema-pluriannuel#plan-2024).
 
 ## État de conformité
 
-Le site Web *https://eig.numerique.gouv.fr/* est en conformité partielle avec le [Référentiel général d’amélioration de l’accessibilité](https://accessibilite.numerique.gouv.fr/) (RGAA), en version 4.1, en raison des non-conformités et des dérogations énumérées ci-après.
+Le site Web *eig.numerique.gouv.fr* est en conformité partielle avec le [Référentiel général d’amélioration de l’accessibilité](https://accessibilite.numerique.gouv.fr/) (RGAA), en version 4.1, en raison des non-conformités et des dérogations énumérées ci-après.
 
 ### Résultats des tests
 
@@ -23,7 +25,7 @@ L’audit de conformité réalisé par Maroua OURI révèle que :
 
 * 79,66 % des critères du RGAA version 4.1 sont respectés.
 
-### Établissement de la déclaration
+### Date de la déclaration
 
 Cette déclaration a été établie le 8 août 2022.
 
@@ -32,17 +34,18 @@ Cette déclaration a été établie le 8 août 2022.
 #### Non-conformité
 
 Les non-conformités les plus bloquantes concernent :
+
 * Vidéo : éléments incrustés nécessitent une audiodescription ;
 * Des contenus avec une structuration (titres et intertitres, paragraphes) incorrecte, ou insuffisante pour une navigation efficace avec un lecteur d’écran ;
 * Erreurs de validation de code ;
 * L’utilisation des attributs directement sur une balise ;
 * Contenu pas compréhensible quand CSS activé & désactivé ;
-* Une legende pas pertinente associé a un regroupement de formulaire ;
+* Une légende pas pertinente associé a un regroupement de formulaire ;
 * Attribut « autocomplete » manquant sur les champs de saisie personnels ;
 * Tabulation pas cohérente ;
 * Fichier PDF pas accessible.
 
-#### Dérogations 
+#### Dérogations
 
 Les contenus non soumis à l’obligation d’accessibilité sont les suivants :
 
@@ -52,7 +55,7 @@ Les contenus non soumis à l’obligation d’accessibilité sont les suivants 
 
 #### Technologies utilisées
 
-Le site Web *https://eig.numerique.gouv.fr/* est réalisé avec les technologies suivantes :
+Le site Web *eig.numerique.gouv.fr* est réalisé avec les technologies suivantes :
 
 * HTML 5 ;
 * CSS ;
@@ -76,39 +79,39 @@ Les vérifications de restitution de contenus ont été réalisées sur la base 
 #### Pages vérifiées
 
 > 1. Page d’accueil :\
-> <https://eig.numerique.gouv.fr/>
+>    <https://eig.numerique.gouv.fr/>
 > 2. Conditions générales :\
-> <https://eig.numerique.gouv.fr/cgu/>
+>    <https://eig.numerique.gouv.fr/cgu/>
 > 3. Accessibilité :\
-> <https://eig.numerique.gouv.fr/accessibilite/>
+>    <https://eig.numerique.gouv.fr/accessibilite/>
 > 4. Plan du site :\
-> <https://eig.numerique.gouv.fr/plan-du-site/>
+>    <https://eig.numerique.gouv.fr/plan-du-site/>
 > 5. Contact :\
-> <https://eig.numerique.gouv.fr/contact/>
+>    <https://eig.numerique.gouv.fr/contact/>
 > 6. Espace presse :\
-> <https://eig.numerique.gouv.fr/espace-presse/>
+>    <https://eig.numerique.gouv.fr/espace-presse/>
 > 7. Page personnelle :\
-> <https://eig.numerique.gouv.fr/personnes/alexandra-leschi/>
+>    <https://eig.numerique.gouv.fr/personnes/alexandra-leschi/>
 > 8. Page d’un projet :\
-> <https://eig.numerique.gouv.fr/defis/capqualif/>
+>    <https://eig.numerique.gouv.fr/defis/capqualif/>
 > 9. Participation :\
-> <https://eig.numerique.gouv.fr/participer/candidats/>
+>    <https://eig.numerique.gouv.fr/participer/candidats/>
 > 10. Foire aux questions :\
-> <https://eig.numerique.gouv.fr/participer/candidats/faq/>
+>     <https://eig.numerique.gouv.fr/participer/candidats/faq/>
 > 11. Blog :\
-> <https://eig.numerique.gouv.fr/blog/>
+>     <https://eig.numerique.gouv.fr/blog/>
 > 12. Programme :\
-> <https://eig.numerique.gouv.fr/programme/>
+>     <https://eig.numerique.gouv.fr/programme/>
 > 13. Liste des défis :\
-<https://eig.numerique.gouv.fr/defis/>
+>     <https://eig.numerique.gouv.fr/defis/>
 > 14. Équipe :\
-> <https://eig.numerique.gouv.fr/equipe/>
+>     <https://eig.numerique.gouv.fr/equipe/>
 
 ### Retour d’information et contact
 
 Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter l’équipe du programme EIG pour être orienté(e) vers une alternative accessible ou obtenir le contenu sous une autre forme.
 
-* [Envoyer un message](https://eig.numerique.gouv.fr/contact/) à l’équipe du programme.
+* [Envoyer un message](https://eig.numerique.gouv.fr/contact/) à l’équipe du programme EIG.
 
 ### Voies de recours
 
@@ -116,7 +119,7 @@ Cette procédure est à utiliser dans le cas suivant :
 Vous avez signalé à la personne responsable du site internet un défaut d’accessibilité qui vous empêche d’accéder à un contenu ou à un des services du portail et vous n’avez pas obtenu de réponse satisfaisante.
 
 * [Faire une demande en ligne](https://formulaire.defenseurdesdroits.fr/formulaire_saisine/) auprès de la Défenseure des droits.
-* [Prendre rendez-vous avec un(e) délégué(e)]((https://www.defenseurdesdroits.fr/saisir/delegues) dans votre région.
+* [Prendre rendez-vous](https://www.defenseurdesdroits.fr/saisir/delegues) avec un(e) délégué(e) dans votre région.
 * Envoyer un courrier postal gratuit, sans timbre, à l’adresse :
   Défenseur des droits\
   Libre réponse 71120\
