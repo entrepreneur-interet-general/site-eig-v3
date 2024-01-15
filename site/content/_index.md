@@ -49,10 +49,6 @@ medias:
       image: https://acteurspublics.fr/media/cache/default_news_big/upload/media/default/0001/47/e352ec8aa093add585eb12dfb743599e3ae76815.jpeg
       title: "Ishan Bhojwani : “La refonte des EIG répond à un manque de compétences
         de pilotage”"
-    - image: https://media.licdn.com/dms/image/sync/C4E27AQGyyAwniHUd2A/articleshare-shrink_480/0/1702490591539?e=1704319200&v=beta&t=r-nh0adK8GfFVwN2G2VBy2KmbU64ScEfgww_3gKHSrc&quot
-      link: https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/corine-waroquiers-nous-croyons-beaucoup-a-lassemblage-des-competences
-      title: "Corine Waroquiers : “Nous croyons beaucoup à l’assemblage des
-        compétences”"
     - title: "“Je crois à la pollinisation avec le privé” : Stanislas Guerini esquisse
         sa vision"
       image: https://acteurspublics.fr/media/cache/default_news_big/upload/media/default/0001/40/432fccf8510adf1a0248102463f28f58afa49804.jpeg
