@@ -15,17 +15,17 @@ intro:
 defis:
   sub: Faire réussir les projets numériques de l’État
   desc: "De la santé à l'environnement, en passant par l'éducation et la justice,
-    les projets ont un dénominateur commun : améliorer l'efficacité de l'action
-    publique."
+    les projets entrepreneuriaux ont un dénominateur commun : améliorer
+    l'efficacité de l'action publique."
 talents:
   sub: Les Entrepreneur(e)s d'intérêt général
   desc: Des profils dotés d'une solide expérience entrepreneuriale mettent leurs
     compétences de haut niveau au service du pilotage stratégique de produits
     numériques.
   list:
-    - Laurie Chapotte
     - Hugo Stéphan
     - Thaïs Coutinho
+    - Sarah Cocher
 agents:
   sub: Les sponsors
   desc: Occupant des fonctions de haut niveau, les sponsors apportent la vision
