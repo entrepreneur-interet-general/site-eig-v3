@@ -1,6 +1,6 @@
 ---
 title: Thomas Parisot
-job: Coach produit, responsable de lʼaccompagnement
+job: Responsable du programme
 desc: ""
 promos: []
 role: agent-programme
@@ -9,10 +9,10 @@ expertises:
   - "Accompagnement "
 image: img/thomas-parisot.jpg
 linkedin: https://www.linkedin.com/in/tparisot/
-weight: 2
+weight: 1
 ---
-Thomas Parisot est responsable de lʼéquipe de coachs en design de service et en science de la donnée. Il pilote lʼingénierie du programme dʼaccompagnement et coordonne la facilitation de la relève des défis dans les administrations lauréates. 
+Thomas Parisot a rejoint le département Etalab de la Direction interministérielle du numérique en 2021 en tant que coach produit. Il est responsable du programme Entrepreneur(e)s d'intérêt général au sein de l'Incubateur de services numériques.
 
-En tant que coach produit, il sʼattache à faciliter le dépassement de fonction, la création de valeur et la mesure dʼimpact. Il sʼimpose une pratique systémique et agnostique, pour rester en capacité d’apprendre et résoudre des problèmes complexes.
+Il s’appuie sur plus de quinze années d’expérience dans le secteur numérique. Il a évolué dans des contextes organisationnels très variés, de la startup à la grande entreprise, en passant par les cabinets de conseil et le milieu associatif.
 
-Il s'appuie sur plus de quinze années d'expérience dans le secteur numérique. Il a évolué dans des contextes organisationnels très variés, de la startup à la grande entreprise, en passant par les cabinets de conseil et le milieu associatif.
+Il s’attèle à stimuler la création de valeur, encapaciter les équipes et faciliter l’atteinte des objectifs. Pour résoudre des problèmes complexes et rester en capacité d’apprendre, il s’impose une pratique aussi systémique et agnostique que possible.
