@@ -36,7 +36,7 @@ title: Devenir EIG
 profiles:
   title: Les nouveaux profils recherchés
   desc: >-
-    De 2016 à 2012, le programme a permis de recruter plus de 200 EIG dans les
+    De 2016 à 2023, le programme a permis de recruter plus de 200 EIG dans les
     administrations publiques lauréates. 
 
 
