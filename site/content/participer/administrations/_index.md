@@ -8,11 +8,11 @@ head:
     entrepreneuriales dans la fonction publique.
   title: Administrations publiques
   apply:
-    title: Proposer un projet
+    title: Je propose un projet
     url: /participer/administrations/proposer
   call:
-    title: Cahier des charges
-    url: img/aap-eig6-cahier-des-charges.pdf
+    title: Je découvre le règlement
+    url: https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf
 program: >-
   En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de
   projet à la DINUM, et les projeter en mission au sein des administrations
