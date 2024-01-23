@@ -7,11 +7,11 @@ head:
     - question: Vous voulez faire réussir des projets de l’État ?
   sub: Rejoignez le programme et contribuez à l'efficacité de l'action publique !
   apply:
-    title: Postuler
+    title: Je dépose ma candidature
     url: /participer/candidats/postuler
   call:
-    title: "Règlement "
-    url: img/aac-eig6-reglement.pdf
+    title: Je découvre le règlement
+    url: img/eig_7_reglement.pdf
 def:
   title: EIG, kézako ?
   info:
