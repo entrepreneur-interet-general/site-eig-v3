@@ -8,7 +8,7 @@ callout:
     au service d'une politique publique ?
 
 
-    Nous vous invitons à déposer un [dossier de candidature](https://www.demarches-simplifees.fr/commencer/aac-eig7) à la 7ème promotion des Entrepreneur(e)s d'intérêt général.
+    Nous vous invitons à déposer un [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7) à la 7ème promotion des Entrepreneur(e)s d'intérêt général.
 
 
     Un jury de sélection se tiendra tous les deux mois, tout au long de l’année 2024, pour évaluer les dossiers et proposer des entretiens aux candidat(e)s présélectionné(e)s.
@@ -31,8 +31,8 @@ steps:
 questions: Pour toute question, n'hésitez pas à [contacter
   l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
 join:
-  image: img/bootcamp6.jpg
-  title: "EIG vous intéresse ? "
+  image: img/eig6-1500x500.jpeg
+  title: EIG vous intéresse ?
   desc: Retrouvez toutes les actualités du programme sur les réseaux sociaux.
   link: https://www.linkedin.com/company/eigforever/
 ---
