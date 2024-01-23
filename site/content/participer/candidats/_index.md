@@ -11,7 +11,7 @@ head:
     url: /participer/candidats/postuler
   call:
     title: Je découvre le règlement
-    url: img/eig_7_reglement.pdf
+    url: https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf
 def:
   title: EIG, kézako ?
   info:
