@@ -2,49 +2,37 @@
 title: Proposer un projet
 layout: project
 callout:
-  title: Délais
-  desc: L’appel à candidatures pour rejoindre la 6e promotion des Entrepreneurs
-    d’intérêt général est ouvert jusqu’au 18/03/2022, pour un démarrage des
-    projets au sein des administrations le 12/09/2022.
-how:
-  title: Les 2 choses à faire pour postuler
+  title: Appel à projets
   desc: >-
-    * Lire le [cahier des charges de l’appel à
-    projets](https://eig.etalab.gouv.fr/img/aap-eig6-cahier-des-charges.pdf)
+    Vous êtes une administrations publique et vous souhaitez proposer un projet
+    susceptible de bénéficier de l'envoi en mission d'EIG ?
 
-    * Déposer son dossier de candidature sur la [plateforme Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/aap-eig6) avant le 18/03/2022, 23h59
+
+    Nous vous invitons à déposer un [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aap-eig7) à la 7ème promotion des Entrepreneur(e)s d'intérêt général.
+
+
+    Un jury de sélection se tiendra tous les deux mois, tout au long de l’année 2024, pour évaluer les dossiers et proposer des entretiens aux candidat(e)s présélectionné(e)s.
+how:
+  title: 2 étapes clés
+  desc: >-
+    * Prenez connaissance du [règlement du
+    programme](https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf) :
+    découvrez les conditions d'éligibilité, les profils proposés, le cadre
+    partenarial, le processus de sélection, ainsi que les critères d'évaluation.
+
+    * Déposez votre [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aap-eig7) dans la plateforme Démarches Simplifiées, un service numérique propulsé par la Direction interministérielle du numérique (DINUM).
 steps:
   dates:
-    - date: "[24 janvier - 18 mars]"
-      desc: Répondez à l’appel à projets
-    - date: "[21 mars - 25 mars]"
-      desc: Pré-sélection des projets par la DINUM
-    - date: "[31 mars - 1er avril]"
-      desc: Jury de sélection des projets lauréats
-    - date: "[début avril]"
-      desc: Annonce des lauréats, qui font ensuite un travail de cadrage
-        méthodologique et technique accompagnés par la DINUM
-    - date: "[4 avril - 6 mai]"
-      desc: Pré-sélection des profils du numérique par la DINUM
-    - date: "[7 juin - 13 juin]"
-      desc: Jury de sélection des profils du numérique (EIG) pour vos projet.
-    - date: "[12 septembre]"
-      desc: Accueillez les EIG dans votre administration pour démarrer 10 mois
-        d’expérimentation autour de votre projet et encourager la transformation
-        numérique de votre service.
+    - date: "1ère session EIG 7 : janvier-février 2024"
+      desc: Un jury de sélection se tiendra tous les deux mois, tout au long de
+        l’année 2024, pour évaluer les dossiers déposés et proposer des profils
+        aux administrations lauréates.
   title: Et maintenant, à vos agendas
-questions: >-
-  ## Des questions ?
-
-
-  * Trouvez des réponses dans notre [foire aux questions](https://eig.etalab.gouv.fr/participer/administrations/faq/)
-
-  * Pendant toute la durée de l'appel à projet, vous pouvez bénéficier d'un entretien de pré-incubation avec un coach produit. L'objectif de ce nouveau dispositif est de vous accompagner dans l'élaboration de votre stratégie entrepreneuriale. Pour ce faire, [réservez un créneau parmi ceux proposés](https://calendly.com/thomas-parisot/entretien-de-pre-incubation).
-
-  * Contactez-nous : eig@data.gouv.fr
+questions: Pour toute question, n'hésitez pas à [contacter
+  l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
 com: >-
-  ## Côté communication
+  ### E﻿IG vous intéresse ?
 
 
-  * Partagez cet appel à projets avec des agents publics intéressés ! [](https://eig.etalab.gouv.fr/img/aap-eig6_plaquette.pdf)[Télécharger la plaquette](https://eig.etalab.gouv.fr/img/aap-eig6_plaquette.pdf)
+  Retrouvez toutes les actualités du programme sur [les réseaux sociaux](https://www.linkedin.com/company/eigforever/).
 ---
