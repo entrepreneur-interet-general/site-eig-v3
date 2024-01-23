@@ -1,5 +1,5 @@
 ---
-open: false
+open: true
 head:
   questions:
     - question: Vous avez une solide expérience entrepreneuriale ?
@@ -117,7 +117,13 @@ how:
 
     Si vous êtes retenu(e), vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir au sein de l'administration lauréate.
 wait:
-  title: L'appel à candidatures de la 7ème promotion du programme Entrepreneur(e)s
-    d'intérêt général sera bientôt ouvert.
-  desc: ""
+  title: Appel à candidatures EIG 7
+  desc: >-
+    Pour postuler à la 7ème promotion des Entrepreneur(e)s d'intérêt général,
+    nous vous invitons à [déposer un
+    dossier](https://www.demarches-simplifees.fr/commencer/aac-eig7) dans la
+    plateforme Démarches simplifiées.
+
+
+    Un jury de sélection se tiendra tous les deux mois, tout au long de l’année 2024, pour évaluer les dossiers et proposer des entretiens aux candidat(e)s présélectionné(e)s.
 ---
