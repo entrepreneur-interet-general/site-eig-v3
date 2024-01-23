@@ -1,7 +1,7 @@
 ---
 title: Administrations
 layout: admins
-open: false
+open: true
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur, nous facilitons l’internalisation des compétences
@@ -85,7 +85,7 @@ steps: >-
   L’appel à projets de la 7ème promotion sera opéré en 2024 à rythme bimestriel.
 
 
-  * Les administrations déposent un dossier sur la plateforme Démarches Simplifiées.
+  * Les administrations déposent un dossier dans la plateforme Démarches Simplifiées.
 
   * Les dossiers déposés sont étudiés par un comité d'évaluation.
 
@@ -93,9 +93,13 @@ steps: >-
 
   * Les missions EIG sont sélectionnées par la DINUM.
 wait:
-  title: L’appel à projets de la 7ème promotion du programme Entrepreneur(e)s
-    d’intérêt général ouvrira bientôt.
-  desc: Pour toute question de cadrage des projets pressentis, les administrations
-    publiques sont invitées à contacter les responsables de portefeuille de
-    l'Incubateur de services numériques de la DINUM.
+  title: Appel à projets EIG 7
+  desc: >-
+    Pour postuler à la 7ème promotion des Entrepreneur(e)s d'intérêt général,
+    nous vous invitons à [déposer un
+    dossier](https://www.demarches-simplifees.fr/commencer/aap-eig7) dans la
+    plateforme Démarches simplifiées.
+
+
+    Un jury de sélection se tiendra tous les deux mois, tout au long de l’année 2024, pour évaluer les dossiers et proposer des profils aux administrations lauréates.
 ---
