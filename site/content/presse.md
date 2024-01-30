@@ -16,6 +16,9 @@ agents:
 
 ## Le programme EIG
 
+#### L’État recentre son programme EIG sur les politiques prioritaires
+[Acteurs publics, 30 janvier 2024](https://acteurspublics.fr/articles/letat-recentre-son-programme-eig-sur-les-politiques-prioritaires) : « Lancé en 2016 pour recruter, le temps d’un défi de dix mois, des compétences rares dans l’administration, le programme Entrepreneurs d’intérêt général (EIG) a été relancé le 29 janvier sous une toute nouvelle mouture. Exit les designers, développeurs et autres experts en science des données, la direction interministérielle du numérique recherche désormais des profils de haut niveau capables de piloter des projets numériques prioritaires. »
+
 ### En 2023
 
 #### Ishan Bhojwani : “La refonte des « Entrepreneurs d’intérêt général » répond à un manque de compétences de pilotage”
