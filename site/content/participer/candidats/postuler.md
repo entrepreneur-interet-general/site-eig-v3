@@ -24,10 +24,13 @@ how:
 steps:
   title: Calendrier de recrutement
   dates:
-    - date: "1ère session EIG 7 : janvier-février 2024"
-      desc: Un jury de sélection se tiendra tous les deux mois, tout au long de
-        l’année 2024, pour évaluer les dossiers déposés, évaluer les
-        candidatures et proposer des entretiens.
+    - date: "Sprint de recrutement n° 1 : jusqu'au 29 février 2024 inclus."
+      desc: >-
+        Un jury de sélection se tiendra tous les 2 mois, tout au long de l’année
+        2024, pour évaluer les dossiers de candidature. 
+
+
+        Si votre candidature est sélectionnée, vous serez convié(e) à un entretien le mois suivant le Sprint, en l'occurrence début mars 2024.
 questions: Pour toute question, n'hésitez pas à [contacter
   l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
 join:
