@@ -33,7 +33,7 @@
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
       <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
         <div class="c-section__head">
-          <h2 class="fr-h3 fr-mb-2v">La mission</h2>
+          <h2 class="fr-h3 fr-mb-2v">Mission</h2>
           <h3 class="fr-h1 fr-mb-4v">{{ .Params.defis.sub }}</h3>
           <p>{{ replace .Params.defis.desc "\n" "<br />" | safeHTML }}</p>
         </div>
@@ -59,7 +59,7 @@
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
       <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
         <div class="c-section__head">
-          <h2 class="fr-h3 fr-mb-2v">Qui</h2>
+          <h2 class="fr-h3 fr-mb-2v">Lauréat(e)s</h2>
           <h3 class="fr-h1 fr-mb-4v">{{ .Params.talents.sub }}</h3>
           <p>{{ replace .Params.talents.desc "\n" "<br />" | safeHTML }}</p>
         </div>
@@ -114,8 +114,7 @@
       {{ end }}
     </div>
     <div class="c-section__btn fr-mt-8v">
-      <a href="{{ relref . " agents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres sponsors
-        publics</a>
+      <a href="{{ relref . " agents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres sponsors</a>
     </div>
   </div>
 </div>
