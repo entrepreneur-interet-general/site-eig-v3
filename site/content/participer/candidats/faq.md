@@ -1,142 +1,198 @@
 ---
-title: Foire aux questions Candidats EIG
+title: Foire aux questions - Candidat(e)s
 layout: faq
 questions:
   - title: Qui peut devenir EIG ?
     desc: >-
       Le programme EIG est ouvert à toute personne ayant terminé son cursus
-      universitaire (premier et deuxième cycle), à l’exception des agents en
-      fonction dans l’administration et des membres du jury (voir le règlement
-      du programme pour plus d’informations).
+      universitaire (premier et deuxième cycles).
 
 
-      Nous recherchons principalement des candidats disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.
+      La candidature est faite par une personne physique ; elle ne peut être effectuée au nom d’une personne morale.
+
+
+      Outre ces conditions, le programme EIG est ouvert à tous les profils, peu importe l’origine, l’apparence physique, la religion, l’orientation sexuelle, le statut social, l’âge, le genre, l’état de santé, la situation de handicap, le parcours académique, la trajectoire professionnelle, etc.
   - title: Quels sont les profils recherchés ?
     desc: >-
-      Le programme EIG recrute les profils suivants :
+      De 2016 à 2023, le programme EIG a permis de recruter plus de 200 talents
+      dans les administrations publiques lauréates, qui occupaient les fonctions
+      suivantes :
 
 
-      * Des développeurs et développeuses ;
+      * Designer
 
-      * Des data scientists ;
+      * Développeur ou développeuse
 
-      * Des data engineers ;
+      * Ingénieur(e) de la donnée ou « data engineer »
 
-      * Des géomaticiens et géomaticiennes ;
+      * Ingénieur(e) des sciences de la donnée ou « data scientist »
 
-      * Des designers ;
-
-      * Des juristes du numérique.
+      * Juriste du numérique
 
 
-      Les compétences et qualités recherchées pour chaque type de profil sont précisées [ici](https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metiers_Profils-du-numerique.pdf).
-  - desc: Les EIG travaillent par équipe, chacune située dans l'administration
-      proposant le projet. Le programme d'accompagnement ménage des temps
-      d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de
-      leur administration, en accord avec leurs porteurs de projet.
-    title: Où travaillent les EIG ?
-  - desc: La localisation des administrations d'accueil sera indiquée lors de la
-      présentation des projets. A titre d'exemple, les projets de la précédente
-      promotion d'EIG se sont déroulés en majorité en région parisienne, mais
-      certains en région. C'est pourquoi il est important d'indiquer si vous
-      êtes mobiles lors de votre candidature.
-    title: Où se situent les administrations d'accueil ?
-  - title: Puis-je participer à mon projet en télétravail, complètement ou
-      partiellement ?
-    desc: Le programme repose sur l'immersion dans les administrations d'accueil, et
-      de ce fait ne permet pas de télétravail complet. La possibilité de
-      télétravailler régulièrement varie selon les administrations et devra être
-      envisagée avec leur accord explicite, ainsi que celui des autres membres
-      de l'équipe. La plupart des administrations le permettent et l'encadrent,
-      mais il faudra que vous posiez la question aux porteurs de projet lors des
-      entretiens.
-  - title: Quelles sont les compétences et qualités attendues pour les profils en
-      droit du numérique ?
-    desc: Les compétences et qualités recherchées pour les juristes du numérique
-      sont précisées [dans cette
-      fiche](https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metier_Droit-du-numerique.pdf).
-  - title: Je suis en CDI, dois-je démissionner de mon poste actuel ?
-    desc: Pas nécessairement. D’autres solutions existent, telles que le [congé sans
-      solde](https://www.service-public.fr/particuliers/vosdroits/F10431).
-      Celui-ci nécessite cependant l’accord de votre employeur.
-  - title: En quoi un EIG est-il différent d’un prestataire ?
-    desc: À la différence d’un prestataire, les EIG ne travaillent pas sur un cahier
-      des charges précis. Elles et ils sont maîtres de leur projet et peuvent
-      proposer des modifications par rapport aux idées envisagées initialement
-      par les administrations d’accueil, s’il leur semble qu’il existe des
-      manières plus adéquates de répondre au projet qui leur a été lancé, en
-      termes de technologies ou de livrables. Au cours de leur immersion dans
-      l’administration, les EIG sont amenés à élaborer une feuille de route sur
-      laquelle elles et ils itèrent avec leurs porteurs de projet.
-  - title: En quoi un EIG est-elle ou il différent d’un contractuel en CDD de 3 ans
-      dans l’administration ?
-    desc: À la différence d’un contractuel classique, les EIG sont mobilisés sur un
-      seul projet, et pendant 10 mois. Cela leur permet de mener un projet de
-      bout en bout, de sa conception à sa réalisation. Les mentors sont garants
-      de ce format, en permettant aux EIG de rentrer en contact avec tous les
-      interlocuteurs nécessaires à la réalisation du projet.
-  - title: Quelle est la forme du contrat des EIG avec leur administration d’accueil ?
-    desc: "Les EIG, une fois sélectionnés, rentrent en contact avec l’administration
-      d’accueil afin de signer un contrat. La forme est la suivante : CDD de 10
-      mois rémunéré 4 000 € net par mois si plus de 5 ans d'expérience ; 3 500 €
-      net par mois si moins."
-  - title: Pourquoi des projets de 10 mois ?
-    desc: "Les règles sont claires : après 10 mois, les EIG quittent leur
-      administration d’accueil. La présence de cette date butoir place une
-      pression saine sur les EIG, qui restent concentrés sur la tâche à
-      accomplir. Cette temporalité différente de celle habituellement en vigueur
-      dans l’administration insuffle de nouvelles méthodes et stimule la
-      créativité et l’efficacité de l’équipe projet."
-  - title: Est-il possible de commencer plus tard que la date de début de la
-      promotion ?
-    desc: Malheureusement, pour des raisons administratives, nous n'avons pas de
-      marge pour décaler le début de la promotion. Pour réduire votre délai de
-      préavis (si vous démissionnez), vous pouvez demander à votre employeur une
-      dispense partielle ou totale de préavis. Vous pouvez également envisager
-      d’autres solutions, telles que le congé sans solde.
-  - title: Au terme des 10 mois, comment les projets sont-ils pérennisés ?
-    desc: Les outils continuent à être maintenus et développés par les équipes de
-      l’administration d’accueil. D’autres sont mêmes déployés dans d’autres
-      services. De plus, l’obligation, sauf dérogation, de verser les
-      développements réalisés en open source rend leur maintien possible par
-      tous. Le programme EIG dispose d’une organisation sur GitHub pour y
-      regrouper les dépôts publiés.
-  - title: Comment sont préparés les porteurs de projet à l’accueil des EIG dans
-      leur administration ?
-    desc: "Avant l’arrivée des EIG, les porteurs de projet sont accompagnés par
-      l’équipe d’Etalab pour préparer plusieurs étapes : le recrutement
-      administration, l’environnement de travail, le cadrage du projet (besoins
-      technique, méthodes, agilité, etc.). Elles et ils participent également
-      aux sessions de mentoring de la promotion, et peuvent ainsi partager leurs
-      réussites et leurs difficultés."
-  - title: Quels projets ont été relevés par les promotions précédentes ?
-    desc: Nous vous invitons à consulter la [page présentant les
-      défis](https://eig.etalab.gouv.fr/defis/) pour découvrir les projets en
-      cours et déjà réalisés.
-  - title: "Dans le formulaire de candidature, je ne peux pas fournir de support
-      illustrant le projet présenté pour des raisons de confidentialité :
-      comment faire ?"
-    desc: Il est tout à fait possible que vous soyez dans l'incapacité de joindre un
-      support. Nous comprenons cette contrainte. Veillez alors à bien illustrer
-      votre présentation d'exemples concrets.
-  - title: Est-il possible de passer l'entretien à distance, par visioconférence ?
-    desc: Oui, c'est tout à fait possible.
-  - title: Quelle est la différence entre Entrepreneur(e)s d'Intérêt Général (EIG) et
-      Designers d'Intérêt Général (DIG) ?
-    desc: "Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a
-      fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020."
-  - title: "Les candidats ayant une entreprise sont-ils éligibles au programme EIG ? "
+      En 2024, à compter de la 7ème promotion, le programme EIG se concentre sur deux profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques :
+
+
+      * Directeur ou directrice de produit
+
+      * Directeur ou directrice technique
+  - title: Quelles missions sont proposées aux EIG ?
     desc: >-
-      
+      Les EIG pilotent le lancement et le passage à l’échelle de services
+      numériques conçus selon l'approche beta.gouv.fr en soutien aux politiques
+      publiques.
 
-      * Pour les auto-entrepreneurs, à la signature du contrat avec l'administration d'accueil, il faudra fournir une attestation sur l’honneur qu’ils n’exerceront pas d’autre activité pendant toute la durée du contrat ;
 
-      * Pour les autres (SARL, SAS), il faut apporter la preuve que l’entreprise est fermée ou en sommeil ou qu’ils n’en sont plus dirigeants.
+      Seul(e) ou en binôme avec un(e) autre EIG ou un(e) intrapreneur(e), les EIG (co)pilotent :
 
-        Ces règles ne s'appliquent qu'aux services du Premier ministre, d'autres règles pouvant s'appliquer dans les autres administrations.
+
+      * Soit un projet en amorce, où tout est à construire
+
+      * Soit un projet déjà initié, à consolider ou faire pivoter
+
+      * Soit un projet bien avancé, à amplifier et passer à l'échelle
+  - title: Quelle est la rémunération des EIG ?
+    desc: >-
+      Le programme EIG garantit une égalité de traitement entre femmes et
+      hommes. La rémunération des EIG est objectivée en fonction de leur nombre
+      d’année d’expérience professionnelle et de leurs performances :
+
+
+      * Seuil n° 1 : expérience professionnelle inférieure à 10 ans
+        		- Salaire fixe net mensuel : 4 250 euros
+        		- Part variable selon objectifs de performance : 6 %
+      * Seuil n° 2 : expérience professionnelle supérieure ou égale 10 ans
+        		- Salaire fixe net mensuel : 5 000 euros
+        		- Part variable selon objectifs de performance : 10 %
+
+      Pour des profils atypiques ou particulièrement expérimentés, une négociation financière sur dossier pourra être envisagée.
+  - title: Où travaillent les EIG ?
+    desc: >-
+      La Direction interministérielle du numérique propose trois lieux de
+      travail :
+
+      * Paris : 20, avenue de Ségur, 75007 Paris
+
+      * Lyon : 6, Quai Saint-Vincent, 69001 Lyon
+
+      * Rennes : 28, Rue de la Pilate, 35136 Saint-Jacques-De-La-Lande
+
+
+      La localisation des mission dans les administrations partenaires dans lesquelles les EIG seront envoyé(e)s en mission sera indiquée à l'occasion des entretiens, en fonction du projet concerné.
+  - title: Est-il possible d'être EIG en télétravail ?
+    desc: Le programme repose sur l'immersion dans les administrations partenaires.
+      De ce fait, il ne permet pas de télétravail complet. La possibilité de
+      télétravail partiel varie selon les administrations et devra être
+      envisagée avec leur accord explicite.
+  - desc: >-
+      * Pour les auto-entrepreneur(e)s, à la signature du contrat, il faudra
+      fournir une attestation sur l’honneur qu’elles et ils n’exerceront pas
+      d’autre activité pendant la durée du contrat.
+
+      * Pour les autres (SARL, SAS), il faut apporter la preuve que l’entreprise est fermée ou en sommeil ou qu’elles et ils n’en sont plus dirigeant(e)s.
+    title: Les candidat(e)s ayant une entreprise sont-ils éligibles ?
+  - title: Comment déposer un dossier ?
+    desc: >-
+      Pour postuler à la 7ème promotion EIG, les candidat(e)s sont invité(e)s à
+      déposer un dossier dans la plateforme Démarches simplifiées, à l’adresse :
+
+
+      <https://www.demarches-simplifees.fr/commencer/aac-eig7>
+  - title: Comment se déroule l'appel à candidatures ?
+    desc: >-
+      La sélection bimestrielle des candidat(e)s s’opère en cinq étapes :
+
+
+      * Dépôt de dossier dans la plateforme Démarches Simplifiées
+
+      * Évaluation du dossier par des expert(e)s de la DINUM
+
+
+      Si la candidature est présélectionnée :
+
+      * Invitation à un entretien en visioconférence en rapport avec le métier, soit de direction produit, soit de direction technique.
+
+
+      Si la candidature est sélectionnée :
+
+      * Intégration à un vivier d’entrepreneur(e)s susceptibles de se voir proposer une mission dans une administration partenaire.
+
+
+      Si une mission correspond au profil et aux vœux exprimés :
+
+      * Invitation à un entretien en visioconférence en rapport avec une mission dans l’une des administrations partenaires du programme.
+  - title: Quel est le calendrier de l'appel à candidatures ?
+    desc: Un jury de sélection se tiendra tous les deux mois, tout au long de
+      l’année 2024, pour évaluer les dossiers déposés dans Démarches
+      Simplifiées.
+  - title: Quel est le contenu des dossiers à déposer ?
+    desc: |-
+      Les dossiers de candidature comprennent six sections :
+
+      * Présentation et curriculum vitae
+      * Compétences principales et complémentaires
+      * Expérience dans la spécialité et l’entrepreneuriat
+      * Motivation à rejoindre le programme EIG
+      * Vœux en termes de thématique et type de projet
+      * Informations personnelles
+  - title: Quels sont les critères d'évaluation des dossiers ?
+    desc: >-
+      L’évaluation des dossiers de candidature s’appuie sur les deux critères
+      suivants :
+
+      * Cohérence du profil
+
+      La personne présente un parcours de formation et/ou une trajectoire professionnelle ainsi que des compétences en cohérence avec la spécialité métier pour laquelle elle postule. À noter que les parcours d’autodidaxie et de reconversion sont bienvenus au même titre que les parcours académiques.
+
+      * Expérience entrepreneuriale
+
+      La personne possède une solide expérience d’amorce et/ou de croissance d’un projet entrepreneurial. Son profil démontre une capacité à dépasser les fonctions propres à sa spécialité, à travailler dans un environnement à évolution rapide, à se concentrer sur la création de valeur incrémentale.
+
+
+      Chaque critère est évalué par une note de 0 à 5. Les notes sont utilisées pour calculer une moyenne, accompagnée d’une appréciation, afin de départager les dossiers de candidature.
+  - title: Quels sont les critères d'évaluation en entretien ?
+    desc: >-
+      À l’issue des entretiens, les deux critères d'évaluation des dossiers sont
+      réévalués le cas échéant et complétés par trois autres critères, évalués
+      au regard des échanges avec la ou le candidat(e) :
+
+      * Capacité d’adaptation
+
+      La personne semble apte à évoluer sereinement au sein de cultures organisationnelles et managériales différentes. Elle semble capable de dépasser ses certitudes, de prendre en considération l’écosystème et d’opérer une conduite du changement en bonne intelligence.
+
+      * Capacité de communication
+
+      La personne est capable d’adapter son discours au contexte et à sa cible, de faciliter la compréhension des enjeux stratégiques et/ou technologiques dont elle est la garante. Elle semble apte à soutenir le projet auprès des instances de décision et/ou des usagers.
+
+      * Intérêt pour la thématique
+
+      La personne démontre une certaine curiosité pour les thèmes d’intérêt général dans le champ numérique (ouverture, redevabilité, accessibilité, etc.) et se montre vivement intéressée pour la thématique de politique publique dont relève le service numérique concerné.
+
+
+      Chaque critère est évalué par une note de 0 à 5. Les notes sont utilisées pour calculer une moyenne, accompagnée d’une appréciation, afin de départager les candidat(e)s auditionné(e)s.
+  - title: Qu'est-ce que le vivier de candidat(e)s ?
+    desc: >-
+      Au terme de chaque session bimestrielle de sélection, les candidat(e)s
+      intégré(e)s au vivier d’entrepreneur(e)s présélectionné(e)s qui auront
+      exprimé le souhait que leur dossier soit conservé pourront se voir
+      proposer de futures missions EIG en 2024.
+
+
+      La sélection n’a pas valeur de proposition d’embauche. Elle permet uniquement d’accéder, le cas échéant, à des entretiens sur mission, en fonction des projets lauréats de la 7ème promotion EIG et à concurrence de 30 EIG recruté(e)s en 2024.
+  - title: Comment se déroule l'envoi en mission ?
+    desc: Après acceptation de la proposition d’embauche de la DINUM et
+      contractualisation, les EIG lauréat(e) reçoivent une lettre de mission
+      pour être envoyé(e)s dans l’administration partenaire responsable du
+      service numérique pour lequel les EIG ont été recruté(e)s.
 contact: >-
-  ### Vous n’avez pas trouvé de réponse à votre question ?
+  ## Bien préparer votre candidature
 
 
-  Vous pouvez [nous contacter](https://entrepreneur-interet-general.etalab.gouv.fr/contact.html "Formulaire de contact") et nous vous répondrons rapidement
+  Vous n’avez pas trouvé de réponse à votre question ?
+
+
+  Vous souhaitez une précision avant de déposer un dossier ?
+
+
+  Pour toute question, n'hésitez pas à contacter l'[équipe du programme](eig@beta.gouv.fr).
 ---
