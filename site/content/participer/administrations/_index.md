@@ -53,6 +53,9 @@ program: >-
 
 
   Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, ouverture des codes sources, etc.)
+
+
+  Pour en savoir plus sur les modalités du programme, visitez la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/administrations/faq).
 criteria:
   title: Les critères de sélection
   desc: Vous êtes une administration publique et souhaitez déposer un dossier pour
@@ -92,9 +95,6 @@ steps: >-
   * Les administrations pré-sélectionnées sont conviées à une soutenance.
 
   * Les missions EIG sont sélectionnées par la DINUM.
-
-
-  Pour en savoir plus sur les modalités du programme, visitez la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/administrations/faq).
 wait:
   title: Appel à projets EIG 7
   desc: >-
