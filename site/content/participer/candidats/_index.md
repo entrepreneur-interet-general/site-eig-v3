@@ -80,6 +80,9 @@ conditions:
     * Jusqu'à 10 ans d'expérience, un salaire net mensuel de 4250 € et une part variable de 6 %.
 
     * Au-delà de 10 ans d'expérience, un salaire net mensuel de 5000 € et une part variable de 10 %.
+
+
+    Pour en savoir plus sur les modalités du programme, visitez la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/candidats/faq).
 how:
   title: Comment devenir EIG de la 7ème promotion ?
   desc: >-
