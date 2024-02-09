@@ -3,13 +3,10 @@ title: Le nouvel horizon des Entrepreneur(e)s d’intérêt général. Entretien
   Ishan Bhojwani
 author: Thomas Parisot
 date: 2024-02-09T09:07:15.397Z
-description: Plus de 200 Entrepreneur(e)s d'intérêt général (EIG) ont contribué
-  depuis 2016 à amorcer des services numériques utiles, ouverts et souverains en
-  s'appuyant sur des démarches d'exploration et d'émergence. Aujourd'hui, en
-  cohérence avec la nouvelle stratégie numérique de l'État, le programme EIG se
-  renouvelle et renforce sa visée entrepreneuriale. Pour clarifier les enjeux de
-  cette réorientation, nous avons interrogé Ishan Bhojwani, chef du département
-  Incubateur de services numériques.
+description: En cohérence avec la nouvelle stratégie numérique de l'État, le
+  programme EIG se renouvelle et renforce sa visée entrepreneuriale. Pour
+  clarifier les enjeux de cette réorientation, nous avons interrogé Ishan
+  Bhojwani, chef du département Incubateur de services numériques.
 image: img/ishan-bhojwani.jpg
 categories:
   - Divers
