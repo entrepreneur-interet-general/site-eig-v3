@@ -10,7 +10,7 @@ description: Plus de 200 Entrepreneur(e)s d'intérêt général (EIG) ont contri
   renouvelle et renforce sa visée entrepreneuriale. Pour clarifier les enjeux de
   cette réorientation, nous avons interrogé Ishan Bhojwani, chef du département
   Incubateur de services numériques.
-image: img/ishan-bhojwani.jpeg
+image: img/ishan-bhojwani.jpg
 categories:
   - Divers
 related:
