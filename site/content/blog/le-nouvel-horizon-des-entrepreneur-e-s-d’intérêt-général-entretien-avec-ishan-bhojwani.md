@@ -7,7 +7,7 @@ description: En cohérence avec la nouvelle stratégie numérique de l'État, le
   programme EIG se renouvelle et renforce sa visée entrepreneuriale. Pour
   clarifier les enjeux de cette réorientation, nous avons interrogé Ishan
   Bhojwani, chef du département Incubateur de services numériques.
-image: img/interview-ishan-bhojwani.jpg
+image: https://www.eig.numerique.gouv.fr/img/interview-ishan-bhojwani.jpg
 categories:
   - Entretien
   - Programme
