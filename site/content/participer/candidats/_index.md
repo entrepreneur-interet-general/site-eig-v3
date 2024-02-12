@@ -21,7 +21,7 @@ def:
       1. Membre d'un collectif attaché à l'esprit entrepreneurial et aux valeurs
       du service public.
 
-      2. Démarche hybride d'expérimentation et d'incrémentation de produits numériques qui répondent à de vrais besoins.
+      2. Démarche hybride d'expérimentation et d'incrémentation de produits numériques qui répondent à des besoins avérés.
 
       3. Volonté de faire du numérique un levier puissant de l'efficacité de l'action publique.
 what:
