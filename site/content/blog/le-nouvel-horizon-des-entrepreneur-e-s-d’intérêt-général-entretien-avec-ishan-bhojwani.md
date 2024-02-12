@@ -7,7 +7,7 @@ description: En cohérence avec la nouvelle stratégie numérique de l'État, le
   programme EIG se renouvelle et renforce sa visée entrepreneuriale. Pour
   clarifier les enjeux de cette réorientation, nous avons interrogé Ishan
   Bhojwani, chef du département Incubateur de services numériques.
-image: img/interview-ishan-bhojwani.jpg
+image: https://www.eig.numerique.gouv.fr/img/interview-ishan-bhojwani.jpg
 categories:
   - Entretien
   - Programme
@@ -62,4 +62,4 @@ Mais l'objectif du programme c’est aussi de convaincre des compétences de hau
 
 **Ishan Bhojwani** - J'ai déjà joué en quelque sorte le rôle d'un entrepreneur d'intérêt général, sans en avoir le titre, quand j'ai pris la responsabilité de la plateforme [transport.data.gouv.fr](http://transport.data.gouv.fr/).
 
-Les sujets autour de la donnée m'intéressent. Je pense aux données sur les médicaments. Des EIG ont d'abord relevé les défis [DataMed](https://www.eig.numerique.gouv.fr/defis/datamed/) et [GDR Santé](https://www.eig.numerique.gouv.fr/defis/gdr-sante/) à l'Agence nationale de sécurité des médicaments. Le projet se poursuit au sein du réseau beta.gouv.fr avec [Joëlle Chong](https://www.eig.numerique.gouv.fr/personnes/joelle-chong/) et [Thaïs Coutinho](https://www.eig.numerique.gouv.fr/personnes/thais-coutinho/), des EIEG qui sont restées à l’ANSM.
+Les sujets autour de la donnée m'intéressent. Je pense aux données sur les médicaments. Des EIG ont d'abord relevé les défis [DataMed](https://www.eig.numerique.gouv.fr/defis/datamed/) et [GDR Santé](https://www.eig.numerique.gouv.fr/defis/gdr-sante/) à l'Agence nationale de sécurité des médicaments. Le projet se poursuit au sein du réseau beta.gouv.fr avec [Joëlle Chong](https://www.eig.numerique.gouv.fr/personnes/joelle-chong/) et [Thaïs Coutinho](https://www.eig.numerique.gouv.fr/personnes/thais-coutinho/), des EIG qui sont restées à l’ANSM.
