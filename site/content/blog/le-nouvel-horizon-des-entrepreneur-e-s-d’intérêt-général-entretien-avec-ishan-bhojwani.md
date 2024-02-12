@@ -60,6 +60,6 @@ Ce qui change par rapport au secteur privé, c'est qu'à la place d'avoir un boa
 
 **Ishan Bhojwani** - J'ai déjà joué en quelque sorte le rôle d'un entrepreneur d'intérêt général, sans en avoir le titre, quand j'ai pris la responsabilité de la plateforme [transport.data.gouv.fr](http://transport.data.gouv.fr/). Les sujets autour de la donnée m'intéressent. Je pense aux données sur les médicaments. Des EIG ont d'abord relevé les défis [DataMed](https://www.eig.numerique.gouv.fr/defis/datamed/) et [GDR Santé](https://www.eig.numerique.gouv.fr/defis/gdr-sante/) à l'Agence nationale de sécurité des médicaments. Le projet se poursuit au sein du réseau beta.gouv.fr avec [Joëlle Chong](https://www.eig.numerique.gouv.fr/personnes/joelle-chong/) et [Thaïs Coutinho](https://www.eig.numerique.gouv.fr/personnes/thais-coutinho/), des EIG qui sont restées à l’ANSM.
 
-![Rejoignez la 7ème promotion des Entrepreneur(e)s d'intérêt général](img/eig-banniere-postuler.jpg "Appel à candidatures")
+![Rejoignez la 7ème promotion des Entrepreneur(e)s d'intérêt général](https://www.eig.numerique.gouv.fr/img/eig-banniere-postuler.jpg "Appel à candidatures")
 
 *Déposez dès à présent votre [dossier de candidature](https://www.eig.numerique.gouv.fr/participer/candidats/). Un jury de sélection se tiendra tous les 2 mois, tout au long de l’année 2024.*
