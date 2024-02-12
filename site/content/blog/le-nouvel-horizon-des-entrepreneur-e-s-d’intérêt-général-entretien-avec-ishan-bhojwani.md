@@ -9,7 +9,8 @@ description: En cohérence avec la nouvelle stratégie numérique de l'État, le
   Bhojwani, chef du département Incubateur de services numériques.
 image: img/interview-ishan-bhojwani.jpg
 categories:
-  - Divers
+  - Entretien
+  - Programme
 related:
   - Les Regards sur l'innovation publique (2ème édition) en vidéo
   - Qu’est-ce qu’entreprendre pour le service public ?
