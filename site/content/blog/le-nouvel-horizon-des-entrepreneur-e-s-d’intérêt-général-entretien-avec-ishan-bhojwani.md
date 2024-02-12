@@ -16,7 +16,7 @@ related:
   - Qu’est-ce qu’entreprendre pour le service public ?
 visible: true
 ---
-![Devenir Entrepreneur(e) d’intérêt général, c’est travailler sur des améliorations très concrètes du service public, qui font sens pour leurs bénéficiaires.](img/interview-ishan-bhojwani.jpg "Ishan Bhojwani, chef du département Incubateur de services numériques")
+![Devenir Entrepreneur(e) d’intérêt général, c’est travailler sur des améliorations très concrètes du service public, qui font sens pour leurs bénéficiaires.](https://www.eig.numerique.gouv.fr/img/interview-ishan-bhojwani.jpg "Ishan Bhojwani, chef du département Incubateur de services numériques")
 
 *Plus de 200 Entrepreneur(e)s d'intérêt général (EIG) ont contribué depuis 2016 à amorcer des services numériques utiles, ouverts et souverains en s'appuyant sur des démarches d'exploration et d'émergence. Aujourd'hui, en cohérence avec la nouvelle stratégie numérique de l'État, le programme EIG se renouvelle et renforce sa visée entrepreneuriale. Pour clarifier les enjeux de cette réorientation, nous avons interrogé Ishan Bhojwani, chef du département [Incubateur de services numériques](https://beta.gouv.fr/incubateurs/dinum.html).*
 
