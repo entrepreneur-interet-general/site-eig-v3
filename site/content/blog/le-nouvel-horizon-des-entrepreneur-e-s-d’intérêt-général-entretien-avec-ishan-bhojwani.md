@@ -2,7 +2,7 @@
 title: Le nouvel horizon des Entrepreneur(e)s d’intérêt général. Entretien avec
   Ishan Bhojwani
 author: Thomas Parisot
-date: 2024-02-09T09:07:15.397Z
+date: 2024-02-12T18:13:02.546Z
 description: En cohérence avec la nouvelle stratégie numérique de l'État, le
   programme EIG se renouvelle et renforce sa visée entrepreneuriale. Pour
   clarifier les enjeux de cette réorientation, nous avons interrogé Ishan
@@ -16,11 +16,13 @@ related:
   - Qu’est-ce qu’entreprendre pour le service public ?
 visible: true
 ---
+![Devenir Entrepreneur(e) d’intérêt général, c’est travailler sur des améliorations très concrètes du service public, qui font sens pour leurs bénéficiaires.](img/interview-ishan-bhojwani.jpg "Ishan Bhojwani, chef du département Incubateur de services numériques")
+
 *Plus de 200 Entrepreneur(e)s d'intérêt général (EIG) ont contribué depuis 2016 à amorcer des services numériques utiles, ouverts et souverains en s'appuyant sur des démarches d'exploration et d'émergence. Aujourd'hui, en cohérence avec la nouvelle stratégie numérique de l'État, le programme EIG se renouvelle et renforce sa visée entrepreneuriale. Pour clarifier les enjeux de cette réorientation, nous avons interrogé Ishan Bhojwani, chef du département [Incubateur de services numériques](https://beta.gouv.fr/incubateurs/dinum.html).*
 
 **Thomas Parisot** - L'an dernier, la [Direction interministérielle du numérique](https://www.numerique.gouv.fr/dinum/) (DINUM) a revisité son ambition et son action. Au terme d'un travail collaboratif, le programme EIG a été réorienté. Il se concentre désormais sur le recrutement d'entrepreneur(e)s aguerri(e)s, pour assurer des fonctions de pilotage stratégique. Pourrais-tu nous partager le diagnostic établi ? Quels problèmes cette nouvelle mouture des EIG se propose-t-elle de résoudre ?
 
-**Ishan Bhojwani** - Nous avons déjà réussi à faire émerger des démarches intrapreneuriales. Des agents publics en prise avec le terrain ont été les témoins de problèmes dans la relation entre les usagers et l'administration. Il se sont emparés de ces problèmes, ont travaillé à les résoudre avec l'appui d'une solution numérique. Partis d'une page blanche, ils ont réussi à développer des [services numériques à impact national](https://beta.gouv.fr/realisations/), aujourd'hui plébiscités, comme [La Bonne Boîte](https://labonneboite.pole-emploi.fr/), pour trouver les entreprises qui recrutent près de chez soi, ou encore [SignalConso](https://signal.conso.gouv.fr/), pour aider au règlement à l'amiable des litiges.
+**Ishan Bhojwani** - Nous avons déjà réussi à faire émerger des démarches intrapreneuriales. Des agents publics en prise avec le terrain ont été les témoins de problèmes dans la relation entre les usagers et l'administration. Il se sont emparés de ces problèmes, ont travaillé à les résoudre avec l'appui d'une solution numérique. Partis d'une page blanche, ils ont réussi à développer des [services numériques à impact national](https://beta.gouv.fr/realisations/), aujourd'hui plébiscités, comme [La Bonne Boîte](https://labonneboite.francetravail.fr/), pour trouver les entreprises qui recrutent près de chez soi, ou encore [SignalConso](https://signal.conso.gouv.fr/), pour aider au règlement à l'amiable des litiges.
 
 Ces personnes, nous en avons effectivement trouvé parmi les agents publics. Mais parfois, des administrations veulent améliorer le service public par le numérique et ont identifié des problèmes réels autour de politiques publiques, comme la rénovation énergétique des bâtiments ou la lutte contre le harcèlement scolaire, sans réussir à identifier cet agent public intrapreneur. Pourquoi ne pas aller chercher des profils entrepreneuriaux dans le secteur numérique ou l'économie sociale et solidaire ?
 
