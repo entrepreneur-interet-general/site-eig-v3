@@ -43,7 +43,7 @@ steps:
 questions: Pour toute question, n'hésitez pas à [contacter
   l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
 join:
-  image: img/eig6-1500x500.jpeg
+  image: https://www.eig.numerique.gouv.fr/img/eig6-1500x500.jpeg
   title: EIG vous intéresse ?
   desc: Retrouvez toutes les actualités du programme sur les réseaux sociaux.
   link: https://www.linkedin.com/company/eigforever/
