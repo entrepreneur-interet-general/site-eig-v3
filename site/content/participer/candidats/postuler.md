@@ -3,24 +3,19 @@ title: Postuler à la 7ème promotion EIG
 layout: apply
 callout:
   title: Appel à candidatures
-  desc: >-
-    Vous souhaitez mettre votre expérience de l'entrepreneuriat et du numérique
-    au service d'une politique publique ?
-
-
-    Nous vous invitons à déposer un [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7) à la 7ème promotion des Entrepreneur(e)s d'intérêt général.
-
-
-    Un jury de sélection se tiendra tous les deux mois, tout au long de l’année 2024, pour évaluer les dossiers et proposer des entretiens aux candidat(e)s présélectionné(e)s.
+  desc: Vous souhaitez mettre votre expérience de l’entrepreneuriat et du
+    numérique au service d'une politique publique ? Déposez votre [dossier de
+    candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7) pour
+    participer à l’un des 5 sprints de recrutement proposés en 2024.
 how:
   title: 2 étapes clés
   desc: >-
-    * Prenez connaissance du [règlement du
+    1. Prenez connaissance du [règlement du
     programme](https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf) :
     découvrez les modalités d'évaluation et de sélection, les activités et les
     missions par profil, ainsi que la grille de rémunération.
 
-    * Déposez votre [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7) dans la plateforme Démarches Simplifiées, un service numérique propulsé par la Direction interministérielle du numérique (DINUM).
+    2. Déposez votre [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7) dans la plateforme Démarches Simplifiées, un service numérique propulsé par la Direction interministérielle du numérique (DINUM).
 steps:
   title: Calendrier de recrutement
   dates:
