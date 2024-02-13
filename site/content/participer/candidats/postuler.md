@@ -8,14 +8,14 @@ callout:
     candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7) pour
     participer à l’un des 5 sprints de recrutement proposés en 2024.
 how:
-  title: 2 étapes clés
+  title: 3 étapes clés
   desc: >-
-    1. Prenez connaissance du [règlement du
-    programme](https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf) :
-    découvrez les modalités d'évaluation et de sélection, les activités et les
-    missions par profil, ainsi que la grille de rémunération.
+    1. Découvrez le [règlement du
+    programme](https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf)
 
-    2. Déposez votre [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7) dans la plateforme Démarches Simplifiées, un service numérique propulsé par la Direction interministérielle du numérique (DINUM).
+    2. Visitez la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/candidats/faq)
+
+    3. Déposez votre [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7)
 steps:
   title: Calendrier de recrutement
   dates:
