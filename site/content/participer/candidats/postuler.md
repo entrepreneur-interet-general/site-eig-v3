@@ -24,17 +24,26 @@ how:
 steps:
   title: Calendrier de recrutement
   dates:
-    - date: "Sprint de recrutement n° 1 : jusqu'au 29 février 2024 inclus."
-      desc: >-
-        Un jury de sélection se tiendra tous les 2 mois, tout au long de l’année
-        2024, pour évaluer les dossiers de candidature. 
-
-
-        Si votre candidature est sélectionnée, vous serez convié(e) à un entretien le mois suivant le Sprint, en l'occurrence début mars 2024.
+    - date: Sprint de recrutement n° 1 (février-mars 2024)
+      desc: |-
+        * Dépôt des dossiers : 29/01/2024 → 29/02/2024
+        * Entretiens de sélection : 11/03/2024 → 29/03/2024
+    - date: Sprint de recrutement n° 2 (avril-mai 2024)
+      desc: Les dates de dépôt des dossiers et d'entretien de sélection de ce sprint
+        de recrutement seront communiquées prochainement.
+    - date: Sprint de recrutement n° 3 (juin-juillet 2024)
+      desc: Les dates de dépôt des dossiers et d'entretien de sélection de ce sprint
+        de recrutement seront communiquées prochainement.
+    - desc: Les dates de dépôt des dossiers et d'entretien de sélection de ce sprint
+        de recrutement seront communiquées prochainement.
+      date: Sprint de recrutement n° 4 (septembre-octobre 2024)
+    - date: Sprint de recrutement n° 5 (novembre-décembre 2024)
+      desc: Les dates de dépôt des dossiers et d'entretien de sélection de ce sprint
+        de recrutement seront communiquées prochainement.
 questions: Pour toute question, n'hésitez pas à [contacter
   l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
 join:
-  image: img/eig6-1500x500.jpeg
+  image: https://www.eig.numerique.gouv.fr/img/eig6-1500x500.jpeg
   title: EIG vous intéresse ?
   desc: Retrouvez toutes les actualités du programme sur les réseaux sociaux.
   link: https://www.linkedin.com/company/eigforever/
