@@ -35,7 +35,7 @@ layout: candidates
 title: Devenir EIG
 profiles:
   title: Les nouveaux profils recherchés
-  desc: >-
+  desc: >
     De 2016 à 2023, le programme a permis de recruter plus de 200 EIG dans les
     administrations publiques lauréates. 
 
@@ -54,12 +54,18 @@ profiles:
     * Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins.
 
 
+    [Voir l'offre d'emploi](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
+
+
     #### Directeur ou directrice technique
 
 
     * Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). 
 
     * Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes.
+
+
+    [Voir l'offre d'emploi](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
   list:
     - Clara Carneiro Alves
     - Loup Theron
