@@ -1,8 +1,8 @@
 ---
-title: Rejoindre la 7ème promotion EIG
+title: Appel à candidatures
 layout: apply
 callout:
-  title: Appel à candidatures
+  title: Comment postuler ?
   desc: "[Déposez votre dossier de
     candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7) et
     participez à l’un des 5 sprints de recrutement proposés en 2024."
