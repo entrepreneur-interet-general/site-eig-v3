@@ -10,7 +10,7 @@ introProg: De l'investigation à la pérennisation, en passant par le recrutemen
 introEco: Le programme s'inscrit dans l'écosystème du numérique public et
   bénéficie du soutien de spécialistes de l’innovation.
 join:
-  image: https://www.eig.numerique.gouv.fr/img/20230525_102318-1-2-.png
+  image: img/20230525_102318-1-2-.png
   title: Vous souhaitez proposer un partenariat ou contribuer à un projet ?
   desc: Nous contacter
   link: /contact
