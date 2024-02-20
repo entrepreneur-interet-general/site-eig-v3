@@ -34,38 +34,29 @@ what:
 layout: candidates
 title: Devenir EIG
 profiles:
-  title: Les nouveaux profils recherchés
-  desc: >
-    De 2016 à 2023, le programme a permis de recruter plus de 200 EIG dans les
-    administrations publiques lauréates. 
-
-
-    Ainsi, des designers, des développeurs et développeuses, des ingénieur(e)s de la donnée ou des sciences de la donnée, mais aussi des juristes du numérique ont soutenu plus de 100 projets  innovants.
-
-
-    À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
+  title: Les profils recherchés
+  desc: >-
+    À compter de la 7ème promotion, le programme EIG se concentre sur des
+    profils disposant d’une solide expérience entrepreneuriale, avec des
+    compétences de haut niveau en pilotage de services numériques.
 
 
     #### Directeur ou directrice de produit
 
 
-    * Vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.).  
-
-    * Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins.
+    Vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.). Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins.
 
 
-    [Voir l'offre d'emploi](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
+    * [Voir l'offre d'emploi Chief Product Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
 
 
     #### Directeur ou directrice technique
 
 
-    * Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). 
-
-    * Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes.
+    Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes.
 
 
-    [Voir l'offre d'emploi](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
+    * [Voir l'offre d'emploi Chief Technology Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
   list:
     - Clara Carneiro Alves
     - Loup Theron
