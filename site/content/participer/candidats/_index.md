@@ -34,38 +34,29 @@ what:
 layout: candidates
 title: Devenir EIG
 profiles:
-  title: Les nouveaux profils recherchés
-  desc: >
-    De 2016 à 2023, le programme a permis de recruter plus de 200 EIG dans les
-    administrations publiques lauréates. 
-
-
-    Ainsi, des designers, des développeurs et développeuses, des ingénieur(e)s de la donnée ou des sciences de la donnée, mais aussi des juristes du numérique ont soutenu plus de 100 projets  innovants.
-
-
-    À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
+  title: Les profils recherchés
+  desc: >-
+    À compter de la 7ème promotion, le programme EIG se concentre sur des
+    profils disposant d’une solide expérience entrepreneuriale, avec des
+    compétences de haut niveau en pilotage de services numériques.
 
 
     #### Directeur ou directrice de produit
 
 
-    * Vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.).  
-
-    * Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins.
+    Vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.). Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins.
 
 
-    [Voir l'offre d'emploi](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
+    * [Voir l'offre d'emploi Chief Product Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
 
 
     #### Directeur ou directrice technique
 
 
-    * Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). 
-
-    * Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes.
+    Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes.
 
 
-    [Voir l'offre d'emploi](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
+    * [Voir l'offre d'emploi Chief Technology Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
   list:
     - Clara Carneiro Alves
     - Loup Theron
@@ -74,21 +65,26 @@ profiles:
 conditions:
   title: Les conditions de recrutement
   desc: >-
-    #### Un poste au coeur de l'écosystème du numérique public
+    #### Au coeur de l'écosystème du numérique public
+
 
     * Vous serez embauché(e) par la DINUM en contrat de projet d’un an minimum, renouvelable.
 
     * Vous serez envoyé(e) en mission dans une startup d'État d'une administration lauréate du programme.
 
 
-    #### Une égalité de rémunération entre femmes et hommes
+    #### L'égalité de rémunération entre femmes et hommes
+
 
     * Jusqu'à 10 ans d'expérience, un salaire net mensuel de 4250 € et une part variable de 6 %.
 
     * Au-delà de 10 ans d'expérience, un salaire net mensuel de 5000 € et une part variable de 10 %.
 
 
-    Pour en savoir plus sur les modalités du programme, visitez la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/candidats/faq).
+    ##### En savoir plus
+
+
+    Pour plus d'informations sur les modalités du programme, visitez la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/candidats/faq).
 how:
   title: Comment devenir EIG de la 7ème promotion ?
   desc: >-
