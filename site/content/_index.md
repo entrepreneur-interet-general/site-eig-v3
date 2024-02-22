@@ -2,7 +2,7 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Rejoindre la 7ème promotion
+    title: Candidater à la 7ème promotion
     url: https://www.eig.numerique.gouv.fr/participer/candidats/
   title: |-
     Entreprendre
