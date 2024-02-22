@@ -45,6 +45,9 @@ join:
 medias:
   desc: Retrouvez les articles, tribunes et entretiens sur le programme EIG
   tiles:
+    - title: L’État recentre son programme EIG sur les politiques prioritaires
+      image: https://acteurspublics.fr/media/cache/default_news_big/upload/media/default/0001/24/145fef1d59c0562152ea3842165dfdd2b1e53417.jpeg
+      link: https://acteurspublics.fr/articles/letat-recentre-son-programme-eig-sur-les-politiques-prioritaires
     - link: https://acteurspublics.fr/articles/ishan-bhojwani-la-refonte-des-entrepreneurs-dinteret-general-repond-a-un-manque-de-competences-de-haut-niveau
       image: https://acteurspublics.fr/media/cache/default_news_big/upload/media/default/0001/47/e352ec8aa093add585eb12dfb743599e3ae76815.jpeg
       title: "Ishan Bhojwani : “La refonte des EIG répond à un manque de compétences
