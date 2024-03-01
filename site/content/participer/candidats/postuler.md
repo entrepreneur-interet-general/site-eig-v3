@@ -23,7 +23,7 @@ steps:
   dates:
     - date: Sprint n° 1 (février-mars 2024)
       desc: |-
-        * Dépôt des dossiers : du 29 janvier au 1er mars 2024
+        * Dépôt des dossiers : du 29 janvier au 1er mars 2024 à 23 h 59
         * Entretiens de sélection : du 11 au 29 mars 2024
     - date: Sprint n° 2 (avril-mai 2024)
       desc: |-
