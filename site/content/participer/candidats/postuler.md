@@ -15,6 +15,9 @@ how:
     2. Visitez la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/candidats/faq)
 
     3. Déposez votre [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7)
+
+
+    > À l'issue de chaque de recrutement, les candidat(e)s présélectionné(e)s qui n'auront pas été recruté(e)s sur mission pourront, si elles et ils en ont exprimé le souhait, intégrer un vivier, afin de se voir proposer éventuellement de futures missions EIG en 2024.
 steps:
   title: 5 sprints
   dates:
