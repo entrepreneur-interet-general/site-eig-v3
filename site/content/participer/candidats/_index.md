@@ -5,7 +5,7 @@ head:
     - question: Vous avez une solide expérience entrepreneuriale ?
     - question: Vous pilotez par les objectifs et les résultats ?
     - question: Vous voulez faire réussir des projets de l’État ?
-  sub: Rejoignez le programme et contribuez à l'efficacité de l'action publique !
+  sub: Le prochain sprint de recrutement se tiendra du 1er au 26 avril 2024
   apply:
     title: Je dépose ma candidature
     url: /participer/candidats/postuler
