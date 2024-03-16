@@ -15,8 +15,8 @@ head:
     url: https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf
 program: >-
   En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de
-  projet à la DINUM, et les projeter en mission au sein des administrations
-  partenaires.
+  projet à la Direction interministérielle du numérique, et les projeter en
+  mission au sein des administrations partenaires.
 
 
   ## Les profils proposés
@@ -68,13 +68,9 @@ program: >-
   Parcourir la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/administrations/faq)
 criteria:
   title: Les critères de sélection
-  desc: >-
-    Vous êtes une administration publique et souhaitez déposer un dossier pour
-    bénéficier de l'octroi d'un(e) ou deux EIG ? Découvrez les différentes
-    facettes de la sélection des missions de la 7ème promotion.
-
-
-    Les critères de sélection concernent les enjeux de politique publique, la valeur d'intérêt général, les conditions d'intervention, ainsi que la stratégie à moyen terme.
+  desc: La sélection de projets prend en considération les enjeux de politique
+    publique, la valeur d'intérêt général, les conditions d'intervention, ainsi
+    que la stratégie à moyen terme.
   list:
     - desc: La compréhension du problème est confrontée au terrain et confirmée par
         des informations significatives, voire corroborée par des études
