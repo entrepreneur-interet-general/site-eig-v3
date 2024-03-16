@@ -15,8 +15,8 @@ head:
     url: https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf
 program: >-
   En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de
-  projet à la DINUM, et les projeter en mission au sein des administrations
-  partenaires.
+  projet à la Direction interministérielle du numérique, et les projeter en
+  mission au sein des administrations partenaires.
 
 
   ## Les profils proposés
@@ -31,70 +31,106 @@ program: >-
   Ces profils aguerris en stratégie et en leadership ont une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.). Leur expérience entrepreneuriale a développé leur capacité à naviguer en évolution rapide et de pivoter selon les besoins.
 
 
+  [En savoir plus](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
+
+
   #### Directeur ou directrice technique
 
 
   Ces profils possèdent une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). Leur expérience de direction d'équipes techniques orientées produit leur permet de résoudre des problèmes complexes et de suivre des indicateurs de performance.
 
 
+  [En savoir plus](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
+
+
   ## Les projets éligibles
 
 
-  Les administrations publiques qui mènent des projets numériques conçus selon l'approche beta.gouv.fr peuvent solliciter une mission EIG. 
+  Les administrations publiques qui mènent des projets numériques conçus selon l'approche beta.gouv.fr peuvent solliciter une mission EIG.
 
 
   #### Pour lancer un produit numérique
 
 
-  Sous réserve qu'une investigation selon l'approche beta.gouv.fr permette de qualifier le problème, de valider le besoin et d'esquisser une stratégie.
+  * Dans l'optique de constituer une équipe pluridisciplinaire, mobiliser l’écosystème, prouver la valeur du service et enclencher son adoption.
+
+  * Sous réserve qu'une investigation selon l'approche beta.gouv.fr permette de qualifier le problème, de valider le besoin et d'esquisser une stratégie.
 
 
   #### Pour internaliser le pilotage stratégique
 
 
-  Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, ouverture des codes sources, etc.)
+  * Dans l'optique de structurer et fiabiliser le développement du produit, mais aussi faire grandir l’équipe, la technologie et l’organisation.
+
+  * Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, ouverture des codes sources, etc.).
 
 
-  Pour en savoir plus sur les modalités du programme, visitez la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/administrations/faq).
+  Parcourir la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/administrations/faq)
 criteria:
   title: Les critères de sélection
-  desc: Vous êtes une administration publique et souhaitez déposer un dossier pour
-    bénéficier de l'octroi d'un(e) ou deux EIG ? Découvrez les différentes
-    facettes de la sélection des missions de la 7ème promotion.
+  desc: La sélection de projets prend en considération les enjeux de politique
+    publique, la valeur d'intérêt général, les conditions d'intervention, ainsi
+    que la stratégie à moyen terme.
   list:
-    - desc: Le projet contribue au déploiement de politiques publiques prioritaires.
+    - desc: La compréhension du problème est confrontée au terrain et confirmée par
+        des informations significatives, voire corroborée par des études
+        qualitatives et/ou quantitatives.
       num: "1"
-      name: Cadre de politique publique
+      name: Problème avéré
     - num: "2"
-      name: Niveau de sponsoring
-      desc: Le projet est soutenu à haut niveau décisionnel dans l'administration
-        porteuse.
+      name: Problème majeur
+      desc: Le problème visé concerne un grand nombre de personnes, est récurrent
+        et/ou a des conséquences significatives pour les personnes concernées.
     - num: "3"
-      name: Ambition entrepreneuriale
-      desc: Le projet vise l'expérimentation précoce, l'adoption progressive et la
-        croissance de la valeur.
+      name: Problème actionnable
+      desc: L'équipe a accès à un terrain d'expérimentation et possède une stratégie
+        viable pour mobiliser des usagers. L'objectif d'impact est clair,
+        circonscrit et mesurable.
     - num: "4"
-      name: Résultats escomptés
-      desc: Les objectifs du projet entrepreneurial visent des résultats mesurables et
-        significatifs.
+      name: Adéquation avec l'approche produit
+      desc: L'administration est dans une posture d'exploration, de recherche
+        d'apprentissages et d'amélioration progressive en fonction de résultats
+        mesurés.
     - num: "5"
-      name: Opportunité de l'approche
-      desc: Les conditions sont favorables au développement d'une dynamique
-        entrepreneuriale.
+      name: Poids et qualité du sponsoring
+      desc: Le projet bénéficie d'un sponsoring élevé, consistant, facilitant, avec
+        une excellente compréhension du pilotage collaboratif.
+    - num: "6"
+      name: Autonomie et accès aux ressources
+      desc: "Aucune barrière technique, hiérarchique ou juridique n'est à lever pour
+        impliquer les expert(e)s métiers et les usagers dans la création de
+        valeur. "
+    - num: "7"
+      name: Soutien aux politiques prioritaires
+      desc: Le service numérique constitue le levier majeur de déploiement d'une
+        politique prioritaire du gouvernement. Sa réussite est essentielle au
+        regard des enjeux.
+    - num: "8"
+      name: Feuille de route stratégique
+      desc: La feuille de route à moyen terme est élaborée avec des orientations
+        réfléchies et des priorités solidement soutenues. Elle dessine une
+        trajectoire apte à faire croître la valeur.
+    - num: "9"
+      name: Ambition entrepreneuriale
+      desc: Le besoin d'EIG reflète une volonté de passer un cap significatif. La
+        mission pressentie est susceptible de séduire des entrepreneur(e)s
+        aguerri(e)s.
 steps: >-
   ## Les étapes de sélection
 
 
-  L’appel à projets de la 7ème promotion sera opéré en 2024 à rythme bimestriel.
+  L’appel à projets de la 7ème promotion est opéré en continu en 2024 :
 
 
   * Les administrations déposent un dossier dans la plateforme Démarches Simplifiées.
 
-  * Les dossiers déposés sont étudiés par un comité d'évaluation.
+  * Les dossiers déposés sont étudiés par un comité d'évaluation, dans un délai de 2 à 3 semaines.
 
   * Les administrations pré-sélectionnées sont conviées à une soutenance.
 
-  * Les missions EIG sont sélectionnées par la DINUM.
+  * Les missions EIG sont sélectionnées par la DINUM, après délibération du jury.
+
+  * Les administrations lauréates se voient proposer un entretien avec 3 candidat(e)s par profil EIG octroyé.
 wait:
   title: Appel à projets EIG 7
   desc: >-
