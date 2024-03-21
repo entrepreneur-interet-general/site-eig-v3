@@ -3,7 +3,7 @@ title: "Jean-Baptiste Assouad "
 job: Développeur
 promos:
   - Promotion 2
-role: agent-public
+role: participant
 defis:
   - Archifiltre
 expertises:
