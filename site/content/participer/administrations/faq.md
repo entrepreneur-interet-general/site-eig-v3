@@ -14,17 +14,21 @@ questions:
   - title: Dans quel cas demander l'octroi d'EIG ?
     desc: >-
       Les administrations publiques qui mènent des projets numériques conçus
-      selon
+      selon l’approche beta.gouv.fr peuvent solliciter une mission EIG.
 
-      l’approche beta.gouv.fr peuvent solliciter une mission EIG :
 
-      * Soit pour le lancement d’un produit numérique
+      Pour lancer un produit numérique
 
-      Sous réserve qu’une investigation selon l’approche beta.gouv.fr permette de qualifier le problème, de valider le besoin et d’esquisser une stratégie ;
+      * Dans l’optique de constituer une équipe pluridisciplinaire, mobiliser l’écosystème, prouver la valeur du service et enclencher son adoption.
 
-      * Soit pour l'internalisation du pilotage stratégique
+      * Sous réserve qu’une investigation selon l’approche beta.gouv.fr permette de qualifier le problème, de valider le besoin et d’esquisser une stratégie.
 
-      Sous réserve que les conditions et les standards de l’approche beta.gouv.fr (pilotage par l’impact, transparence des résultats, etc.) soient respectés.
+
+      Pour internaliser le pilotage stratégique
+
+      * Dans l’optique de structurer et fiabiliser le développement du produit, mais aussi faire grandir l’équipe, la technologie et l’organisation.
+
+      * Sous réserve que les conditions de l’approche beta.gouv.fr soient réunies (pilotage par l’impact, transparence des résultats, ouverture des codes sources, etc.).
   - title: Quels profils sont proposés ?
     desc: >-
       Le programme EIG se concentre sur des profils de haut niveau, dotés d’une
@@ -63,7 +67,7 @@ questions:
       Entrepreneur(e)s d’intérêt général est ouvert de janvier à décembre 2024. 
 
 
-      Un jury de sélection se tiendra tous les deux mois, tout au long de l’année, pour évaluer les dossiers déposés dans Démarches Simplifiées.
+      Un jury de sélection se tiendra au moins une fois par mois, tout au long de l’année, pour évaluer les dossiers déposés dans Démarches Simplifiées
   - title: Quel est le contenu des dossiers ?
     desc: >-
       Les dossiers de candidature à comprennent six sections :
@@ -82,18 +86,28 @@ questions:
       * Motivations : objectifs à 12 mois, bénéfices escomptés, perspectives
   - title: Quels sont les critères d'évaluation ?
     desc: >-
-      L’évaluation des dossiers s’appuie sur les cinq critères suivants :
+      La sélection de projets prend en considération les enjeux de politique
+      publique, la valeur d’intérêt général, les conditions d’intervention,
+      ainsi que la stratégie à moyen terme.
 
 
-      * Cadre de politique publique : le projet contribue au déploiement de politiques publiques prioritaires.
+      * Problème avéré : La compréhension du problème est confrontée au terrain et confirmée par des informations significatives, voire corroborée par des études qualitatives et/ou quantitatives.
 
-      * Niveau de sponsoring : le projet est soutenu à haut niveau décisionnel dans l’administration porteuse.
+      * Problème majeur : Le problème visé concerne un grand nombre de personnes, est récurrent et/ou a des conséquences significatives pour les personnes concernées.
 
-      * Ambition entrepreneuriale : le projet vise l’expérimentation précoce, l’adoption progressive et la croissance de la valeur.
+      * Problème actionnable : L'équipe a accès à un terrain d'expérimentation et possède une stratégie viable pour mobiliser des usagers. L'objectif d'impact est clair, circonscrit et mesurable.
 
-      * Résultats escomptés : les objectifs du projet entrepreneurial visent des résultats mesurables et significatifs.
+      * Adéquation avec l'approche produit : L'administration est dans une posture d'exploration, de recherche d'apprentissages et d'amélioration progressive en fonction de résultats mesurés.
 
-      * Opportunité de l’approche : les conditions sont favorables au développement d’une dynamique entrepreneuriale.
+      * Poids et qualité du sponsoring : Le projet bénéficie d'un sponsoring élevé, consistant, facilitant, avec une excellente compréhension du pilotage collaboratif.
+
+      * Autonomie et accès aux ressources : Aucune barrière technique, hiérarchique ou juridique n'est à lever pour impliquer les expert(e)s métiers et les usagers dans la création de valeur.
+
+      * Soutien aux politiques prioritaires : Le service numérique constitue le levier majeur de déploiement d'une politique prioritaire du gouvernement. Sa réussite est essentielle au regard des enjeux.
+
+      * Feuille de route stratégique : La feuille de route à moyen terme est élaborée avec des orientations réfléchies et des priorités solidement soutenues. Elle dessine une trajectoire apte à faire croître la valeur.
+
+      * Ambition entrepreneuriale : Le besoin d'EIG reflète une volonté de passer un cap significatif. La mission pressentie est susceptible de séduire des entrepreneur(e)s aguerri(e)s.
 
 
       À l’issue de la soutenance, ces critères sont réévalués au regard des échanges entre l’administration candidate et le jury composé d’agent(e)s de la DINUM.
