@@ -5,7 +5,7 @@ head:
     - question: Vous avez une solide expérience entrepreneuriale ?
     - question: Vous pilotez par les objectifs et les résultats ?
     - question: Vous voulez faire réussir des projets de l’État ?
-  sub: Participez au 2e sprint de recrutement jusqu'au 26 avril 2024 inclus.
+  sub: "Le prochain sprint de recrutement commencera le 3 juin 2024. "
   apply:
     title: Je dépose ma candidature
     url: /participer/candidats/postuler
