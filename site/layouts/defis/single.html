@@ -42,11 +42,11 @@
             </ul>
             <p class="fr-mb-2v"><strong>{{ .Params.who }}</strong></p>
             <p class="c-project-head__meta fr-mb-1v">
-              <img src="/img/icon-marker.svg" alt=""> {{ if .Params.place }} {{ .Params.place }} | {{ end }} {{
+              <img src="/img/icon-marker.svg" alt="Localisation"> {{ if .Params.place }} {{ .Params.place }} | {{ end }} {{
               .Params.town }}
             </p>
             <p class="c-project-head__meta">
-              <img src="/img/icon-team.svg" alt="">
+              <img src="/img/icon-team.svg" alt="Expertises">
               {{ range $index, $exp := .Params.expertises }}{{ if gt $index 0 }}, {{ end }}{{ . }}{{ end }}
             </p>
           </div>
