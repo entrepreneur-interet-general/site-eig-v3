@@ -7,8 +7,8 @@ role: participant
 defis:
   - LexImpact
 expertises:
-- Design
-image: img/dorine-lambinet.png
+  - Design
+image: img/placeholder_femme.png
 linkedin: https://www.linkedin.com/in/dorine-lambinet-99534b117/
 ---
 
