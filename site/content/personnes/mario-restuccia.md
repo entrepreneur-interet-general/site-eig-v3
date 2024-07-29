@@ -6,8 +6,8 @@ role: agent-ecosysteme
 expertises:
   - "Accompagnement "
 image: img/mario_restuccia.jpg
-linkedin: "https://www.linkedin.com/in/mario-restuccia/ "
-github: "https://github.com/restuccia/ "
+linkedin: https://www.linkedin.com/in/mario-restuccia/
+github: https://github.com/restuccia/
 ---
 
 Mario Restuccia est diplômé du Bachelor in International Politics and Government à l’Université Bocconi de Milan, et du Master en Politiques Publiques à Sciences Po Paris.\

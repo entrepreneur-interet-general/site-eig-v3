@@ -10,7 +10,7 @@ date: 2019-04-26T00:00:00.000Z
 visible: true
 ---
 
-La [session d'accompagnement mensuelle](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html) d'avril de la promotion EIG 3 était axée sur le thème du design. À cette occasion, on a demandé aux 5 designers de la promotion de définir ce qui, selon eux, caractérise un bon designer. [Hugo Stéphan](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html), du défi [Karfu’R](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html), a choisi une approche un peu taquine.
+La [session d'accompagnement mensuelle](/equipe) d'avril de la promotion EIG 3 était axée sur le thème du design. À cette occasion, on a demandé aux 5 designers de la promotion de définir ce qui, selon eux, caractérise un bon designer. [Hugo Stéphan](/personnes/hugo-stephan/), du défi [Karfu’R](/defis/karfur/), a choisi une approche un peu taquine.
 
 « **Être un bon designer ça veut dire** :
 

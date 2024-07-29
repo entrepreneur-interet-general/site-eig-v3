@@ -25,4 +25,4 @@ Pour cela, le designer ira à la rencontre de chaque typologie d’utilisateurs 
 
 ### Réalisations
 
-![](img/planipref_191213_présentation_vision_logicielunifie-1-.png)
+![](/img/planipref_191213_présentation_vision_logicielunifie-1-.png)

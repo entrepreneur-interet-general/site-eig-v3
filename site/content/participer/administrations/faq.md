@@ -131,7 +131,7 @@ contact: >-
   Vous souhaitez être accompagné(e) en amont de l'appel à projets ?
 
 
-  * Pour toute question, n'hésitez pas à contacter l'[équipe du programme](eig@beta.gouv.fr).
+  * Pour toute question, n'hésitez pas à contacter l'[équipe du programme](mailto:eig@beta.gouv.fr).
 
   * Vous pouvez aussi vous rapprocher de votre [responsable de portefeuille](https://beta.gouv.fr/incubateurs/dinum.html).
 ---

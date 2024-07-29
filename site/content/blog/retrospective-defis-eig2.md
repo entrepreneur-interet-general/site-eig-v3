@@ -42,11 +42,11 @@ Ces étonnements se compensent par d'autres enseignements : **il
 existe, dans l'administration, un véritable esprit de recherche et
 d'expérimentation, qui se ressent parfois dans les profils qui
 composent les équipes**. Par exemple, à la DREES, l'équipe des EIG du
-[Lab Santé](/defis/2018/labsante.html) a eu la chance de travailler
+[Lab Santé](//defis/lab-sante/) a eu la chance de travailler
 avec un « médecin-statisticien-architecte », qui a pu les guider sur
 les aspects métiers et techniques de leur projet. Au Ministère de
 l'Enseignement supérieur, de la Recherche et de l'Innovation, les EIG
-du défi [dataESR](/defis/2018/dataesr.html) ont travaillé avec un
+du défi [dataESR](//defis/dataesr/) ont travaillé avec un
 datascientist senior, fort d'une expérience au sein d'une jeune
 entreprise de l'économie collaborative, qui les a conseillé sur leur
 projet.
@@ -75,7 +75,7 @@ mentors, les EIG se transforment en de véritables **médiateurs**.
 * mise en place d'applications de datavisualisations via Shiny ;
 * mise en place de méthodes agiles pour gérer le projet Archifiltre.
 
-![Tableau wins-fails](/img/blog/win-fails-tableau.JPG)
+![Tableau wins-fails](/img/win-fails-tableau.JPG)
 _Restitutions de l'atelier Rétrospective EIG2_
 
 En tant qu'entrepreneur(e)s, les EIG ont aussi dû se mettre eux-mêmes
@@ -118,5 +118,5 @@ différentes "sessions off", auto-organisées par les EIG volontaires
 promotion des EIG s'est entraidée, a partagé des connaissances, et est
 même partie en bateau !
 
-![Ice-breaker hors les murs](/img/blog/team-building.jpg)
+![Ice-breaker hors les murs](/img/team-building.jpg)
 _1er jour du séminaire hors les murs, 1er challenge : former un chemin pour éviter de mettre pied à terre !_

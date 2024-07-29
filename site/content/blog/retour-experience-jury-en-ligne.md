@@ -1,7 +1,7 @@
 ---
 author: Laure Casellas, équipe EIG
 description: "Chaque année, l'équipe du programme Entrepreneur(e)s d'Intérêt Général part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience."
-image: /img/photo_jury_twitter_EIG4.png
+image: img/photo_jury_twitter_EIG4.png
 categories:
 - Méthode
 - Outil
@@ -41,7 +41,7 @@ _Le jury du mardi matin rassemblé, photographié par [Clémence Pène](https://
 
 ### Préparer le jury en asynchrone 
 
-Une fois la solution de transmission du jury trouvée, il nous restait à préparer au mieux les membres du jury. Tout d'abord, nous avons constitué un guide jury, regroupant au même endroit les informations essentielles comme le déroulé des auditions ou encore les critères de sélection. Vous pouvez [consulter ce guide](/docs/Guide_jury_EIG4.pdf) pour inspiration.
+Une fois la solution de transmission du jury trouvée, il nous restait à préparer au mieux les membres du jury. Tout d'abord, nous avons constitué un guide jury, regroupant au même endroit les informations essentielles comme le déroulé des auditions ou encore les critères de sélection. Vous pouvez [consulter ce guide](/img/Guide_jury_EIG4.pdf) pour inspiration.
 
 Puis nous avons constitué des équipes de jury et pour chacune d'entre elles, nous avons créé un dossier partagé contenant les dossiers de candidature des défis à évaluer. Les membres du jury étaient invités à les consulter dès réception. 
 

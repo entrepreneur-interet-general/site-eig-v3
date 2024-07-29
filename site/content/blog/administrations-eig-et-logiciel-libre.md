@@ -1,7 +1,7 @@
 ---
 author: Bastien Guerry, EIG Link
 description: Qu'est-ce que le logiciel libre ?  Les EIG en ont-ils utilisé ?  En ont-ils publiés ?  Comment aller plus loin ?  Quelques réflexions à l'issue de cette deuxième année du programme EIG.
-image: https://upload.wikimedia.org/wikipedia/commons/e/ee/GNU%2BLinux.png
+image: img/GNU_Linux.png
 categories:
 - Méthode
 - Outil
@@ -105,7 +105,7 @@ logicielle gratuitement.
 Pour aller plus loin, nous avons fait de l'apprentissage
 collectif. D'abord en organisant deux ateliers ouverts aux EIG et aux
 mentors, [l'un en
-mars](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/16/atelier-ouverture-logiciel-libre.html)
+mars](/blog/atelier-ouverture-logiciel-libre/)
 pendant une session d'accompagnement, l'autre à la DINSIC quelques
 semaines plus tard, en compagnie de personnes d'autres
 administrations, pour entrer dans le détail des questions liées aux
@@ -127,7 +127,7 @@ source](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ope
 maintenu une [Foire Aux
 Questions](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org),
 publié [un mini-guide d'une page en
-PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf)
+PDF](/img/mini-guide-logiciel-libre.pdf)
 et répondu de temps à autres aux questions et aux coups de main
 sollicités par les uns et les autres.
 
@@ -266,7 +266,7 @@ de la publication des données de
 [data.gouv.fr](https://www.data.gouv.fr/) ; que d'autres enfin ont
 découvert les projets Wikimédia lors d'une [journée de visite des
 ateliers du Mobilier
-national](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/12/retour-sur-atelier-wikipedia-au-mobilier-national.html)
+national](/blog/retour-sur-atelier-wikipedia-au-mobilier-national/)
 et de mise en ligne de contenus sur [Wikimedia
 commons](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018).
 Autant d'occasions de rencontrer et de collaborer avec des acteurs

@@ -14,7 +14,7 @@ visible: true
 ## L'idée : une journée d'atelier pour contribuer aux projets Wikimédia
 
 Laurie et Ned, les deux EIG du [défi
-Gobelins](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/gobelins.html),
+Gobelins](/defis/gobelins/),
 travaillent avec Hélène Cavalié, leur mentor, à la réalisation d'un
 site web dédié à la diffusion des collections et savoir-faire du
 [Mobilier national](http://www.mobiliernational.culture.gouv.fr/).
@@ -101,7 +101,7 @@ ligne !  À noter que nous recevrons la visite de plusieurs personnels
 des Gobelins, curieux de voir comment nous enrichissons les contenus
 de Commons et de Wikipédia.
 
-<img src="/img/blog/capture-commons-08102018.png" />
+<img src="/img/capture-commons-08102018.png" />
 _Un aperçu de la catégorie dédiée à cette journée sur Commons - © Bastien Guerry, CC BY-SA 4.0_
 
 # À suivre...

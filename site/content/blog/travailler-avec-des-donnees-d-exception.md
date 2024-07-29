@@ -16,7 +16,7 @@ Prédisauvetage, nous parle des données qui l'ont motivé à postuler au
 programme.  Et de la nécessité de les rendre disponibles pour mieux
 servir la société._
 
-![Antoine, jeune homme blond avec des lunettes, une polaire noire et un sac à dos pose devant un port](/img/communaute/Antoine-Augusti.png)
+![Antoine, jeune homme blond avec des lunettes, une polaire noire et un sac à dos pose devant un port](/img/antoine-augusti.png)
 _Antoine Augusti, Entrepreneur d'intérêt général pour le défi Prédisauvetage. (© Antoine Augusti)_
 
 «Lorsque j'étais au lycée, j'ai choisi d'étudier l'informatique.
@@ -31,7 +31,7 @@ et les problèmes à résoudre.**
 
 C’est l'une des raisons qui m’ont poussé à rejoindre le programme
 Entrepreneur·e d’Intérêt Général (EIG) pour participer au défi
-[Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/). J'avais
+[Prédisauvetage](/defis/predisauvetage/). J'avais
 à coeur de servir l'intérêt général, mais je voulais également
 découvrir une mission qui ne peut être remplie, à une telle échelle,
 que par l’État : l'assistance et le secours aux biens et aux personnes
@@ -46,7 +46,7 @@ par l'État pour aider des personnes et le bilan humain d'une
 intervention. Cela rend le travail incroyablement authentique et
 motivant.**
 
-![Antoine pose avec Elsa devant un port. Lui porte un manteau noir et un gilet de sauvetage rouge. Elle porte une doudoune noire, une grosse écharpe écrue, un bonnet et un gilet de sauvetage rouge.](/img/blog/article-Antoine-photo-avec-Elsa.jpg)
+![Antoine pose avec Elsa devant un port. Lui porte un manteau noir et un gilet de sauvetage rouge. Elle porte une doudoune noire, une grosse écharpe écrue, un bonnet et un gilet de sauvetage rouge.](/img/article-Antoine-photo-avec-Elsa.jpg)
 _Antoine Augusti et sa collègue Elsa Luneville lors d'une excursion en mer pour mieux appréhender leur terrain. (© Adrien Signorino)_
 
 Que ces données soient exploitées pendant dix mois dans le cadre
@@ -71,7 +71,7 @@ essentiel que l'État accompagne, informe et publie les données,
 sans pour autant centraliser la vision des usages possibles.
 
 ![Le dépôt GitHub du défi Prédisauvetage : une page web avec plusieurs
-dossiers](/img/blog/article-Antoine-github-Prédisauvetage.png) _Antoine et
+dossiers](/img/article-Antoine-github-Prédisauvetage.png) _Antoine et
 Elsa ouvrent leur travail en le mettant sur github._
 
 **Dans le cas du sauvetage en mer, l'open data nous apparaît comme

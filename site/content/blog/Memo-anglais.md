@@ -1,7 +1,7 @@
 ---
 author: Sophie Miljkovic, Etalab team
 description: Here at Etalab, we are convinced that the « Public Interest Entrepreneurs » program is a way for governments to transform the administration from within. That is the reason why we have put together a memo on what we do, why we do it and how we do it.
-image: /img/logo-marianne-eig-site.png
+image: img/logo-marianne-eig-site.png
 categories:
 - Accompagnement
 - Méthode
@@ -26,4 +26,4 @@ success - is in the memo. Enjoy the read!
 
 <br/>
 
-## [Memo - Public Interest Entrepreneurs / Entrepreneur.e d'intérêt général: why, what and how.](/docs/VF-EN-memo.pdf)
+## [Memo - Public Interest Entrepreneurs / Entrepreneur.e d'intérêt général: why, what and how.](/img/VF-EN-memo.pdf)

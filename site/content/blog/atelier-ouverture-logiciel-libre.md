@@ -16,7 +16,7 @@ animé par Bastien, qui nous a aidé à nous frayer un chemin au milieu
 de ces questions : pourquoi ouvrir ?  pour quelles contributions ?
 quelles craintes à surmonter ?  comment choisir sa licence libre ?
 
-![Le paperboard de préparation de l'atelier du 22 mars.](/img/blog/eig-atelier-utilisateurs.jpg)
+![Le paperboard de préparation de l'atelier du 22 mars.](/img/eig-atelier-utilisateurs.jpg)
 _En pleine préparation de l'atelier du 22 mars ! © Bastien Guerry [CC-by-sa](https://creativecommons.org/licenses/by-sa/3.0/)_
 
 # Faire de l’open source, ça veut dire quoi  ?
@@ -41,7 +41,7 @@ La présentation, lors de l’atelier, d’[Open
 Scraper](https://github.com/entrepreneur-interet-general/OpenScraper),
 a permis de se poser ces questions autour d’un cas précis.  Développé
 par Julien Paris, EIG pour le défi [Social
-Connect](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/),
+Connect](/defis/social-connect/),
 l’outil permet de collecter (*scraper*) les données d’une page web.
 Cet outil ne faisait pas partie des réalisations prévues par le
 projet, mais il constitue une brique importante pour le défi&#x2026;
@@ -51,7 +51,7 @@ licence libre permet au projet de contribuer au développement de
 nouveaux services tout en instillant au sein de l’administration un
 intérêt pour le libre.
 
-![La page d'accueil de l'outil Open Scraper, développé par Julien Paris pour le défi SocialConnect](/img/blog/openscraper.jpg)
+![La page d'accueil de l'outil Open Scraper, développé par Julien Paris pour le défi SocialConnect](/img/openscraper.jpg)
 _La page d'accueil de l'outil [Open Scraper](http://www.cis-openscraper.com/), développé par Julien Paris pour le défi SocialConnect_
 
 # Respecter les valeurs d’une communauté de pratiques
@@ -96,7 +96,7 @@ Si un logiciel intègre du code publié sous licence Apache 2.0 (l'une
 des licences « permissive »), il n'y a pas d'obligation particulière
 à ce que le nouveau logiciel soit publié sous la même licence.
 
-![Les débats sur les licences, source de plaisir infini !](/img/blog/xkcd-open-source.jpg)
+![Les débats sur les licences, source de plaisir infini !](/img/xkcd-open-source.jpg)
 _Les débats sur les licences, source de plaisir infini ! © XKCD, [CC-by-nc](https://www.xkcd.com/license.html)_
 
 Si on limite la question au code source des logiciels, c’est une

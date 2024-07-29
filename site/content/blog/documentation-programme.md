@@ -37,7 +37,7 @@ Pour répondre à ces besoins, notre documentation a été scindée en trois gra
 
 ## Un travail collaboratif et ouvert
 
-Notre documentation ne s'est pas construite en un jour et elle continuera d'évoluer. Ce travail a été commencé sous l'impulsion de [Bastien Guerry](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/bastien-guerry.html), début 2018. Bastien avait alors le rôle d'[EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html), la personne assistant l'équipe de coordination du programme, chargée de l’accompagnement technique et méthodologique des défis. C'est lui qui a rédigé les premières pages de notre documentation en fonction des besoins et ressources identifiés au fur et à mesure. Nous ne sommes pas partis d'une page blanche, nous avons été inspirés par de nombreuses ressources disponibles, elles aussi ouvertes : [beta.gouv.fr](https://beta.gouv.fr/), [GDS](https://www.gov.uk/government/organisations/government-digital-service), le blog de [Code for Canada](https://medium.com/code-for-canada) et bien d'autres.
+Notre documentation ne s'est pas construite en un jour et elle continuera d'évoluer. Ce travail a été commencé sous l'impulsion de [Bastien Guerry](/personnes/bastien-guerry/), début 2018. Bastien avait alors le rôle d'[EIG Link](/defis/eig-link/), la personne assistant l'équipe de coordination du programme, chargée de l’accompagnement technique et méthodologique des défis. C'est lui qui a rédigé les premières pages de notre documentation en fonction des besoins et ressources identifiés au fur et à mesure. Nous ne sommes pas partis d'une page blanche, nous avons été inspirés par de nombreuses ressources disponibles, elles aussi ouvertes : [beta.gouv.fr](https://beta.gouv.fr/), [GDS](https://www.gov.uk/government/organisations/government-digital-service), le blog de [Code for Canada](https://medium.com/code-for-canada) et bien d'autres.
 
 Conformément aux valeurs et objectifs de transparence et d'ouverture du programme, cette documentation est publiée sous licence libre [sur un dépôt Git](https://github.com/entrepreneur-interet-general/eig-link). Concrètement, notre documentation se compose de plusieurs fichiers textes écrits en [Markdown](https://fr.wikipedia.org/wiki/Markdown), un langage de balisage léger permettant d'écrire des documents textes.
 
@@ -46,11 +46,11 @@ Notre documentation est collaborative : elle est maintenue principalement par l
 
 > C'était important de commencer le travail de documentation dès le début de l'année 2018.  Ensuite, j'ai avancé au fil de l'eau en fonction des questions des EIG ou des besoins que j'anticipais. Avec une communauté dynamique où l'entraide est la norme, c'était un vrai plaisir.
 
-**Bastien Guerry, [EIG Link 2018](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html)**
+**Bastien Guerry, [EIG Link 2018](/defis/eig-link/)**
 
 Cette documentation ne sera jamais finalisée car elle se construit de manière itérative. Elle est rédigée au fil de l'eau, des questions reçues, des évolutions de nos processus et de nos ambitions. C'est notre moyen privilégié pour partager des informations et constituer une base de connaissance ouverte.
 
-![Interface web de GitHub montrant plusieurs fichiers.](/img/blog/doc-github.png)
+![Interface web de GitHub montrant plusieurs fichiers.](/img/doc-github.png)
 _Capture d'écran de notre documentation [sur GitHub](https://github.com/entrepreneur-interet-general/eig-link)._
 
 
@@ -58,10 +58,10 @@ _Capture d'écran de notre documentation [sur GitHub](https://github.com/entrepr
 
 Notre documentation est constituée de plusieurs fichiers Markdown. Facile pour collaborer : les contributeurs peuvent soumettre des changements directement sur GitHub et faire approuver leurs modifications dans des _pull-requests_. Plus embêtant pour naviguer dans une documentation : avec une petite vingtaine de fichiers Markdown à la racine, il n'est pas facile de savoir par où commencer, même si un fichier README explique l'agencement de la documentation. Ce qui n'était pas un problème initialement, la communauté était principalement technique et habituée à l'interface de GitHub, s'est révélé problématique au fil du temps.
 
-C'est la raison pour laquelle nous avons choisi de publier notre documentation sur un site spécifique, en complément des fichiers sources Markdown déjà présents sur GitHub. Nous avons l'habitude d'utiliser des sites statiques, [le site web du programme](https://entrepreneur-interet-general.etalab.gouv.fr/) repose par exemple sur [Jekyll](https://jekyllrb.com). Pour la documentation, nous nous sommes orientés vers [VuePress](https://vuepress.vuejs.org), un générateur de sites statiques idéal pour des besoins de documentation qui requiert une configuration minimale. Nous en avons profité pour créer [un thème VuePress open source](https://vuepress-gouv-fr-demo.eig-forever.org) reprenant les codes graphiques de l'administration française.
+C'est la raison pour laquelle nous avons choisi de publier notre documentation sur un site spécifique, en complément des fichiers sources Markdown déjà présents sur GitHub. Nous avons l'habitude d'utiliser des sites statiques, [le site web du programme](/) repose par exemple sur [Jekyll](https://jekyllrb.com). Pour la documentation, nous nous sommes orientés vers [VuePress](https://vuepress.vuejs.org), un générateur de sites statiques idéal pour des besoins de documentation qui requiert une configuration minimale. Nous en avons profité pour créer [un thème VuePress open source](https://vuepress-gouv-fr-demo.eig-forever.org) reprenant les codes graphiques de l'administration française.
 
 
-![Site web de la documentation du programme faisant apparaitre une page sur la sécurité et un menu.](/img/blog/doc-site.png)
+![Site web de la documentation du programme faisant apparaitre une page sur la sécurité et un menu.](/img/doc-site.png)
 _Capture d'écran de la documentation, accessible à l'adresse [doc.eig-forever.org](https://doc.eig-forever.org)_
 
 Ainsi, nous disposons dorénavant d'une documentation accessible en ligne, agréable à utiliser, sur une interface adaptée aux différents écrans. En faisant ceci, nous n'avons pas introduit inutilement trop de complexité technique en terme de code ou d'infrastructure. Le plus important est que nous avons conservé la possibilité de collaborer rapidement à la documentation : à la fin, notre documentation n'est qu'un ensemble de fichiers textes basiques.
@@ -73,4 +73,4 @@ Nous sommes globalement satisfaits de notre documentation qui a bien évolué au
 
 Pour les mois à venir, nous souhaitons continuer à travailler sur le contenu existant, réorganiser nos différentes sections et publier des contenus pour ceux souhaitant répliquer un programme similaire au programme Entrepreneur(e)s d'Intérêt Général dans une autre structure ou un autre contexte.
 
-Nous avons hâte de continuer à étoffer cette documentation. Nous serions heureux qu'elle profite à d'autres. Si vous souhaitez échanger sur cette initiative, nous serions ravis [d'en discuter avec vous](https://entrepreneur-interet-general.etalab.gouv.fr/contact.html).
+Nous avons hâte de continuer à étoffer cette documentation. Nous serions heureux qu'elle profite à d'autres. Si vous souhaitez échanger sur cette initiative, nous serions ravis [d'en discuter avec vous](/contact).

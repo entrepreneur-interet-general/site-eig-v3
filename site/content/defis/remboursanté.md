@@ -23,7 +23,7 @@ Le compte Ameli, créé en 2007 sur le web, comptabilise à ce jour plus de 30 m
 
 Suivant une méthodologie agile, la résolution de ce défi est passée par une phase d’étude terrain, d’interviews utilisateurs (assurés et agents CPAM), d’audit UX et ergonomique, de benchmark et d’ateliers de cadrage. Elle a été complétée par des phases itératives de co-conception des améliorations pour la page « Mes Paiements » avec les parties prenantes - les assurés, les agents en charge du compte ameli, le réseau de la Caisse primaire d’assurance maladie et l’équipe de développement. Une dernière phase de tests utilisateurs a été organisée afin de s’assurer de la bonne prise en compte de la problématique et de réaliser les derniers ajustements avant la mise en production.
 
-{{< arrow-link url="img/remboursante_restit_dec2019_compressed.pdf" title="Présentation du défi et de ses grandes étapes de conception" target="true" >}}
+{{< arrow-link url="/img/remboursante_restit_dec2019_compressed.pdf" title="Présentation du défi et de ses grandes étapes de conception" target="true" >}}
 
 {{< arrow-link url="https://xd.adobe.com/view/7a3a3220-1b41-436b-6ac7-93f4d30ebc4d-0c0b/?fullscreen" title="Prototype web" target="true" >}}
 
