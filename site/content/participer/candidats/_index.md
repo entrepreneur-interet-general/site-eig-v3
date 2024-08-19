@@ -57,6 +57,15 @@ profiles:
 
 
     * [Voir l'offre d'emploi Chief Technology Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
+
+
+    #### Directeur ou directrice de l'impact
+
+
+    Vous savez définir, expérimenter et ajuster une stratégie d'impact viable, en vous appuyant sur tous les leviers de croissance et d'évaluation nécessaires pour optimiser les résultats.
+
+
+    * [Voir l'offre d'emploi Chief Impact Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-impact-officer-cio-et-entrepreneur-eig)
   list:
     - Clara Carneiro Alves
     - Loup Theron
@@ -102,7 +111,7 @@ how:
     #### 2. Un premier entretien selon votre profil
 
 
-    Si votre dossier est pré-sélectionné, vous êtes convié(e) à un entretien en rapport avec votre métier, soit de direction produit, soit de direction technique.
+    Si votre dossier est pré-sélectionné, vous êtes convié(e) à un entretien en rapport avec votre métier, soit de direction produit, soit de direction technique, soit de direction de l'impact;
 
 
     #### 3. L'intégration à un vivier d'entrepreneur(e)s
