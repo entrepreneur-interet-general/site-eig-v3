@@ -43,6 +43,15 @@ program: >-
   [En savoir plus](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
 
 
+  #### Directeur ou directrice de l'impact
+
+
+  Ces profils, qui placent le marketing au service de l'intérêt général, savent définir, expérimenter et ajuster une stratégie d'impact viable, en s'appuyant sur tous les leviers de croissance et d'évaluation nécessaires pour optimiser les résultats.
+
+
+  [En savoir plus](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-impact-officer-cio-et-entrepreneur-eig)
+
+
   ## Les projets éligibles
 
 
