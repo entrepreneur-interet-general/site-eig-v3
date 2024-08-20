@@ -11,8 +11,7 @@ intro:
   desc: Les Entrepreneur(e)s d’intérêt général (co)pilotent le lancement et
     l'accélération de services numériques conçus selon l'approche beta.gouv.fr
     en soutien aux politiques publiques.
-  title: Nous facilitons le recrutement d'entrepreneur(e)s chevronné(e)s dans la
-    fonction publique.
+  title: Nous facilitons le recrutement d'entrepreneur(e)s dans la fonction publique.
 defis:
   sub: Faire réussir les projets numériques de l’État
   desc: "De la santé à l'environnement, en passant par l'éducation et la justice,
