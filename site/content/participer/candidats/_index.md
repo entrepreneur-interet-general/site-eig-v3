@@ -5,7 +5,7 @@ head:
     - question: Vous avez une solide expérience entrepreneuriale ?
     - question: Vous pilotez par les objectifs et les résultats ?
     - question: Vous voulez faire réussir des projets de l’État ?
-  sub: "Le prochain sprint de recrutement commencera le 19 août 2024. "
+  sub: Déposez votre candidature au plus tard le vendredi 30 août à 23 h 59
   apply:
     title: Je dépose ma candidature
     url: /participer/candidats/postuler
