@@ -2,16 +2,17 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Candidater à la 7ème promotion
+    title: Déposer une candidature
     url: https://www.eig.numerique.gouv.fr/participer/candidats/
   title: |-
     Entreprendre
     pour le service public
 intro:
-  desc: Les Entrepreneur(e)s d’intérêt général pilotent le lancement et le passage
-    à l’échelle de services numériques conçus selon l'approche beta.gouv.fr en
-    soutien aux politiques publiques.
-  title: Nous facilitons le recrutement d'entrepreneur(e)s dans la fonction publique.
+  desc: Les Entrepreneur(e)s d’intérêt général (co)pilotent le lancement et
+    l'accélération de services numériques conçus selon l'approche beta.gouv.fr
+    en soutien aux politiques publiques.
+  title: Nous facilitons le recrutement d'entrepreneur(e)s aguerri(e)s dans la
+    fonction publique.
 defis:
   sub: Faire réussir les projets numériques de l’État
   desc: "De la santé à l'environnement, en passant par l'éducation et la justice,
