@@ -16,7 +16,7 @@ how:
 
     3. Déposez votre [dossier de candidature](https://www.demarches-simplifiees.fr/commencer/aac-eig7)
 steps:
-  title: 4 sprints
+  title: Calendrier
   dates:
     - date: Sprint n° 1 (février-mars 2024)
       desc: |-
@@ -28,10 +28,8 @@ steps:
         * Entretiens de sélection : du 6 au 24 mai 2024
     - date: Sprint n° 3 (août-septembre 2024)
       desc: |-
-        * Dépôt des dossiers : du 19 au 30 août 2024 à 23 h 59
-        * Entretiens de sélection : du 9 au 12 septembre 2024
-    - desc: Les dates de candidature et d'entretien seront communiquées prochainement.
-      date: Sprint n° 4 (octobre-novembre 2024)
+        * Dépôt des dossiers : du 19 au 8 septembre 2024 à 23 h 59
+        * Entretiens de sélection : du 16 au 27 septembre 2024
 questions: Pour toute question sur les modalités, n'hésitez pas à [contacter
   l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
 join:
