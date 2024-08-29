@@ -39,6 +39,10 @@ img {
   }
 }
 
+.fr-card__img.is-set {
+  background-color: #adadf9
+}
+
 .fr-card__detail {
   white-space: nowrap;
   overflow: hidden;

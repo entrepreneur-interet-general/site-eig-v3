@@ -7,7 +7,7 @@
     </h4>
     <p class="fr-card__desc">{{ .Description | truncate 56 }}</p>
   </div>
-  <div class="fr-card__img">
+  <div class="fr-card__img {{ if .Params.isSET }}is-set{{ end }}">
     <img src="/{{ .Params.image }}" class="fr-responsive-img" alt="">
   </div>
 </div>
