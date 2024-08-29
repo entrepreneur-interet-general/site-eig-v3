@@ -98,7 +98,7 @@ how:
     #### Qui ?
 
 
-    Le recrutement se concentre désormais deux profils EIG dédiés au pilotage stratégique : directeur ou directrice produit et directeur ou directrice technique.
+    Le recrutement se concentre désormais sur 3 profils EIG dédiés au pilotage stratégique : directeur ou directrice produit, de l'impact ou technique.
 
 
     #### Comment ?
