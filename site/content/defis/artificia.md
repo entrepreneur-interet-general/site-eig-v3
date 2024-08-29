@@ -1,20 +1,22 @@
 ---
 title: ArtificIA
 description: Mettre l'intelligence artificielle au service de l'objectif « zéro
-    artificialisation nette » des sols
+  artificialisation nette » des sols
 who: Institut national de l’information géographique et forestière (IGN)
 place: ""
 themes:
-    - Environnement
+  - Environnement
 promos:
-    - Promotion 6
+  - Promotion 6
 town: Saint-Mandé (94)
 date: 2022
 expertises:
-    - Design
-    - Data science
+  - Design
+  - Data science
 image: img/promotion-6/defis/05_ArtificIA.svg
 visible: true
+isSET: true
+urlSET: https://beta.gouv.fr/startups/tchap.html
 ---
 
 #### L'administration porteuse{.subtitle}
