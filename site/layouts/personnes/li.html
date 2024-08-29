@@ -1,7 +1,7 @@
 <div class="fr-card fr-enlarge-link fr-card--member">
   <div class="fr-card__body">
     <h4 class="fr-card__title">
-      <a href="{{ .RelPermalink }}" class="fr-card__link">ly{{ .Title }}</a>
+      <a href="{{ .RelPermalink }}" class="fr-card__link">{{ .Title }}</a>
     </h4>
     {{ with .Params.defis }}
     {{ if ( gt ( len . ) 0 ) }}
