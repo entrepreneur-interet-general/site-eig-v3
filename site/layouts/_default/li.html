@@ -3,7 +3,7 @@
     <p class="fr-card__detail">
       {{ range $index, $themes := .Params.themes }} {{ . }}{{ end }}</p>
     <h4 class="fr-card__title">
-      <a href="{{ if .Params.isSET }}{{ .Params.urlSET }}{{ else }}{{ .RelPermalink }}{{ end }}" class="fr-card__link">{{ .Title }}</a>
+      <a href="{{ if .Params.isSET }}{{ .Params.urlSET }}{{ else }}{{ .RelPermalink }}{{ end }}" {{ if .Params.isSET }}target="_blank"{{ end }} class="fr-card__link">{{ .Title }}</a>
     </h4>
     <p class="fr-card__desc">{{ .Description | truncate 56 }}</p>
   </div>
