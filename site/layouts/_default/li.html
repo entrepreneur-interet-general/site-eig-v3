@@ -9,5 +9,6 @@
   </div>
   <div class="fr-card__img {{ if .Params.isSET }}is-set{{ end }}">
     <img src="/{{ .Params.image }}" class="fr-responsive-img" alt="">
+    <img src="{{ if .Params.join.image }}{{ .Params.join.image }}{{ else }}/img/betagouv.png{{ end }}" class="fr-responsive-img" alt="" />
   </div>
 </div>
