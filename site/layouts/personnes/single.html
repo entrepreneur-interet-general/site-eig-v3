@@ -36,7 +36,7 @@
             {{ if ( gt ( len $defi ) 0 ) }}
             <ul class="fr-tags-group">
               {{ range $defi }}
-              <li><a href="{{ .RelPermalink }}" class="fr-tag">{{ .Title }}</a></li>
+              <li><a href="{{ if .Params.isSET }}{{ .Params.urlSET }}{{ else }}{{ .RelPermalink }}{{ end }}" {{ if .Params.isSET }}target="_blank"{{ end }} class="fr-tag">{{ .Title }}</a></li>
               {{ end }}
             </ul>
             {{ end }}

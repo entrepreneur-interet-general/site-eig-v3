@@ -1,21 +1,22 @@
 ---
 title: ArtificIA
 description: Mettre l'intelligence artificielle au service de l'objectif « zéro
-  artificialisation nette » des sols
+    artificialisation nette » des sols
 who: Institut national de l’information géographique et forestière (IGN)
 place: ""
 themes:
-  - Environnement
+    - Environnement
 promos:
-  - Promotion 6
+    - Promotion 6
 town: Saint-Mandé (94)
 date: 2022
 expertises:
-  - Design
-  - Data science
+    - Design
+    - Data science
 image: img/promotion-6/defis/05_ArtificIA.svg
 visible: true
 ---
+
 #### L'administration porteuse{.subtitle}
 
 ### L'IGN, le facilitateur de la création de « géocommuns »
@@ -46,8 +47,8 @@ Dans le cadre du défi ArtificIA, le prototype de Couverture du Sol par Intellig
 
 ### Comment contribuer au projet ?
 
-* Découvrir le prototype CoSIA : https://preprod-cosia.ign.fr/ 
-* Nous contacter par courriel : cosia@ign.fr
+-   Découvrir le prototype CoSIA : https://preprod-cosia.ign.fr/
+-   Nous contacter par courriel : cosia@ign.fr
 
 {{< dailymotion x8akkne "Vidéo de présentation du défi ArtificIA">}}
 

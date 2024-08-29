@@ -3,11 +3,11 @@
     <p class="fr-card__detail">
       {{ range $index, $themes := .Params.themes }} {{ . }}{{ end }}</p>
     <h4 class="fr-card__title">
-      <a href="{{ .RelPermalink }}" class="fr-card__link">{{ .Title }}</a>
+      <a href="{{ if .Params.isSET }}{{ .Params.urlSET }}{{ else }}{{ .RelPermalink }}{{ end }}" {{ if .Params.isSET }}target="_blank"{{ end }} class="fr-card__link">{{ .Title }}</a>
     </h4>
     <p class="fr-card__desc">{{ .Description | truncate 56 }}</p>
   </div>
-  <div class="fr-card__img">
-    <img src="/{{ .Params.image }}" class="fr-responsive-img" alt="">
+  <div class="fr-card__img {{ if .Params.isSET }}is-set{{ end }}">
+    <img src="{{ if .Params.image }}/{{ .Params.image }}{{ else }}/img/logo_beta.png{{ end }}" class="fr-responsive-img" alt="" />
   </div>
 </div>
