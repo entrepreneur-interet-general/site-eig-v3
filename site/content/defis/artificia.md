@@ -13,7 +13,7 @@ date: 2022
 expertises:
     - Design
     - Data science
-image: img/promotion-6/defis/05_ArtificIA.svg
+# image: img/promotion-6/defis/05_ArtificIA.svg
 visible: true
 isSET: true
 urlSET: https://beta.gouv.fr/startups/tchap.html
