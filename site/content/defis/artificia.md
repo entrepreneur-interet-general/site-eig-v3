@@ -13,10 +13,8 @@ date: 2022
 expertises:
     - Design
     - Data science
-# image: img/promotion-6/defis/05_ArtificIA.svg
+image: img/promotion-6/defis/05_ArtificIA.svg
 visible: true
-isSET: true
-urlSET: https://beta.gouv.fr/startups/tchap.html
 ---
 
 #### L'administration porteuse{.subtitle}
@@ -49,8 +47,8 @@ Dans le cadre du défi ArtificIA, le prototype de Couverture du Sol par Intellig
 
 ### Comment contribuer au projet ?
 
-* Découvrir le prototype CoSIA : https://preprod-cosia.ign.fr/ 
-* Nous contacter par courriel : cosia@ign.fr
+-   Découvrir le prototype CoSIA : https://preprod-cosia.ign.fr/
+-   Nous contacter par courriel : cosia@ign.fr
 
 {{< dailymotion x8akkne "Vidéo de présentation du défi ArtificIA">}}
 

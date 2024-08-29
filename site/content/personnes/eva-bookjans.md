@@ -3,11 +3,9 @@ title: Eva Bookjans
 job: Data scientist
 promos:
     - Promotion 6
-    - Promotion 5
 role: participant
 defis:
     - ArtificIA
-    - CapQualif
 expertises:
     - Data science
 image: img/promotion-6-photos/img-20220616-wa0045_3b_2.jpg
