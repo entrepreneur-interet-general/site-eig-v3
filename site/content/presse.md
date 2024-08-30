@@ -18,6 +18,10 @@ agents:
 
 ### En 2024
 
+#### Le petit monde des programmes d’innovation et d’expérimentation
+
+[Horizons publics, 28 août 2024](https://www.horizonspublics.fr/le-petit-monde-des-programmes-dinnovation-et-dexperimentation) : « Territoires d’innovation, 100 % inclusion, Fonds d’expérimentation pour la jeunesse (FEJ), Entrepreneur(e)s d’intérêt général (EIG), etc. Depuis une quinzaine d’années, on ne compte plus le nombre de programmes destinés à favoriser l’innovation et/ou l’expérimentation dans le secteur public. Pourquoi sont-ils apparus ? Comment fonctionnent-ils ? Ont-ils atteint leurs objectifs d’innovation et de transformation ? Que deviennent-ils une fois terminés, et quels sont leurs effets sur les agents, les publics concernés et la société ? Est-il possible de les améliorer, d’inventer une nouvelle génération de programmes plus adaptés aux défi s climatiques, démocratiques et sociaux ? »
+
 #### L’État recentre son programme EIG sur les politiques prioritaires
 
 [Acteurs publics, 30 janvier 2024](https://acteurspublics.fr/articles/letat-recentre-son-programme-eig-sur-les-politiques-prioritaires) : « Lancé en 2016 pour recruter, le temps d’un défi de dix mois, des compétences rares dans l’administration, le programme Entrepreneurs d’intérêt général (EIG) a été relancé le 29 janvier sous une toute nouvelle mouture. Exit les designers, développeurs et autres experts en science des données, la direction interministérielle du numérique recherche désormais des profils de haut niveau capables de piloter des projets numériques prioritaires. »
