@@ -4,7 +4,7 @@ job: Coach en science de la donnée
 desc: ""
 promos:
   - Promotion 6
-role: agent-ecosysteme
+role: agent-programme-alumni
 defis:
   - Magellan
 expertises:
