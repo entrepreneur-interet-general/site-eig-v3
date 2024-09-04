@@ -1,6 +1,7 @@
 ---
 title: Vedran Beric
 job: Designer
+role: participant
 promos:
     - Promotion 5
 defis:
