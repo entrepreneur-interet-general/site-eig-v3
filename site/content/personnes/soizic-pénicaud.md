@@ -9,6 +9,7 @@ defis:
   - EIG4 Link
 expertises:
   - Data science
+  - "Accompagnement "
 image: img/soizic_penicaud.jpg
 ---
 
