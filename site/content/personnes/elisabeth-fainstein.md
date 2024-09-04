@@ -3,7 +3,7 @@ title: Elisabeth Fainstein
 job: Coach Développeuse
 promos:
   - Promotion 5
-role: agent-ecosysteme
+role: agent-programme-alumni
 defis:
   - CapQualif
 expertises:
