@@ -1,7 +1,7 @@
 ---
 title: Coraline Gillard
 job: Chargée de mission
-role: agent-ecosysteme
+role: agent-programme-alumni
 expertises:
   - "Accompagnement "
 image: img/coraline-gillard-2-.jfif
