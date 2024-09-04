@@ -127,9 +127,10 @@ collections: # A list of collections the CMS should be able to edit
                 options:
                     [
                         { label: "Talent", value: "participant" },
+                        { label: "Équipe actuelle", value: "agent-programme" },
                         {
-                            label: "Equipe du programme",
-                            value: "agent-programme",
+                            label: "Ancienne équipe",
+                            value: "agent-programme-alumni",
                         },
                         {
                             label: "Membre de l’écosystème",

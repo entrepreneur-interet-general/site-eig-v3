@@ -10,11 +10,15 @@
     <ul class="fr-tabs__list" role="tablist" aria-label="Personnes">
       <li role="presentation">
         <button id="tabpanel-630" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="0" role="tab"
-          aria-selected="true" aria-controls="tabpanel-630-panel">L’équipe du programme</button>
+          aria-selected="true" aria-controls="tabpanel-630-panel">L’équipe actuelle</button>
       </li>
       <li role="presentation">
-        <button id="tabpanel-631" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="-1" role="tab"
-          aria-selected="false" aria-controls="tabpanel-631-panel">Écosystème</button>
+        <button id="tabpanel-631" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="1" role="tab"
+          aria-selected="false" aria-controls="tabpanel-631-panel">L'écosystème</button>
+      </li>
+      <li role="presentation">
+        <button id="tabpanel-632" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="2" role="tab"
+          aria-selected="true" aria-controls="tabpanel-632-panel">Les alumni de l'équipe</button>
       </li>
     </ul>
     <div id="tabpanel-630-panel" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel"
@@ -28,10 +32,20 @@
         {{ end }}
       </div>
     </div>
-    <div id="tabpanel-631-panel" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-631" tabindex="0">
+    <div id="tabpanel-631-panel" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-631" tabindex="1">
       <p>{{ .Params.introEco }}</p>
       <div class="fr-grid-row fr-grid-row--gutters">
         {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-ecosysteme") }}
+        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+          {{ .Render "li" }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    <div id="tabpanel-632-panel" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-632" tabindex="2">
+      <p>{{ .Params.introAlumni }}</p>
+      <div class="fr-grid-row fr-grid-row--gutters">
+        {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-programme-alumni") }}
         <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
           {{ .Render "li" }}
         </div>
