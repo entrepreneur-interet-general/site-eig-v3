@@ -3,7 +3,7 @@ title: Frédérique Doman
 job: Coach en design de service
 promos:
   - Promotion 5
-role: agent-ecosysteme
+role: agent-programme-alumni
 defis:
   - Magellan
 expertises:
