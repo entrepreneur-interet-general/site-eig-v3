@@ -3,7 +3,7 @@ title: Adrien Signorino
 job: Data scientist
 promos:
   - Promotion 2
-role: participant
+role: agent-programme-alumni
 defis:
   - b@liseNAV
 expertises:
