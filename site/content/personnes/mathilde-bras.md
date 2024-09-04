@@ -1,7 +1,7 @@
 ---
 title: Mathilde Bras
 job: " Accompagnement"
-role: agent-ecosysteme
+role: agent-programme-alumni
 expertises:
   - "Accompagnement "
 image: img/mathilde_bras.jpg
