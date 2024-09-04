@@ -3,7 +3,6 @@ title: Vedran Beric
 job: Designer
 promos:
     - Promotion 5
-role: agent-programme-alumni
 defis:
     - DataRH
 expertises:
