@@ -1,7 +1,7 @@
 ---
 title: Sophie Miljkovic
 job: Accompagnement
-role: agent-ecosysteme
+role: agent-programme-alumni
 expertises:
   - "Accompagnement "
 image: img/placeholder_femme.png
