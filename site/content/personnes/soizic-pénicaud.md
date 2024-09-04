@@ -3,10 +3,13 @@ title: "Soizic Pénicaud "
 job: Accompagnement
 promos:
   - Promotion 4
-role: agent-public
+role: agent-programme-alumni
 defis:
   - EIG3 Link
   - EIG4 Link
+expertises:
+  - Data science
+  - "Accompagnement "
 image: img/soizic_penicaud.jpg
 ---
 
