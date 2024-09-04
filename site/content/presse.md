@@ -20,7 +20,7 @@ agents:
 
 #### Questionner les finalités des programmes : le cas de Entrepreneur(e)s d’intérêt général
 
-[Horizons publics, 3 septembre 2024](https://www.horizonspublics.fr/questionner-les-finalites-des-programmes-le-cas-de-entrepreneures-dinteret-general) : « Le programme Entrepreneur(e)s d’intérêt général (EIG) incarne cette nouvelle vague de la réforme de l’État qui fonctionne « en mode commando » et « à bride courte » en tentant de contourner les supposées lourdeurs et pesanteurs de la bureaucratie administrative par des leviers issus de l’extérieur. Quel est l’écart entre les promesses du programme et les finalités qu’il sert réellement ? »
+[Horizons publics, 3 septembre 2024](https://www.horizonspublics.fr/questionner-les-finalites-des-programmes-le-cas-de-entrepreneures-dinteret-general) : « Le programme Entrepreneur(e)s d’intérêt général (EIG) incarne cette nouvelle vague de la réforme de l’État qui fonctionne ”en mode commando” et ”à bride courte” en tentant de contourner les supposées lourdeurs et pesanteurs de la bureaucratie administrative par des leviers issus de l’extérieur. Quel est l’écart entre les promesses du programme et les finalités qu’il sert réellement ? »
 
 #### Le petit monde des programmes d’innovation et d’expérimentation
 
@@ -200,6 +200,10 @@ agents:
 
 ### En 2022
 
+#### Muriel Barlet : “Une solution pour améliorer le processus du recensement”
+
+[Acteurs publics, 21 septembre 2022](https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/muriel-barlet-une-solution-pour-ameliorer-le-processus-du-recensement) : « La cheffe du département de la démographie à la direction des statistiques démographiques et sociales de l’Insee expose le projet Recens’smart, issu du programme des entrepreneurs d’intérêt général (EIG) et destiné à améliorer le processus et réhausser la qualité du recensement. Une initiative qui introduit de nouvelles manières de faire au sein de l’Insee. »
+
 #### Sobriété énergétique : l’exécutif vise l’État mais aussi les collectivités
 
 [Acteurs publics, 16 août 2022](https://acteurspublics.fr/articles/sobriete-energetique-lexecutif-vise-letat-mais-aussi-les-collectivites) : « La Première ministre a de nouveau insisté, fin juillet, sur la nécessité de réduire la consommation énergétique de l’État. À commencer par l’ajustement du thermostat. Le gouvernement a lancé en parallèle de nouveaux groupes de travail, notamment sur les collectivités locales et le numérique. »
@@ -223,6 +227,10 @@ agents:
 #### L’intelligence artificielle, en peine pour traiter les mots de la justice
 
 [AOC, 24 février 2022](https://aoc.media/analyse/2022/02/23/lintelligence-artificielle-en-peine-pour-traiter-les-mots-de-la-justice/) : « Autoritaire et approximative dans des environnements aussi ouverts que celui de la justice, déterministe et potentiellement biaisée, « l’IA » semble avoir bien du mal à trouver son chemin pour valoriser le droit et la jurisprudence. L’abandon en janvier 2022 de « DataJust » par le ministère de la Justice en témoigne. Ce constat est-il le produit de la résistance au changement des professions juridiques ou l’inévitable issue d’états de fait minimisés mais têtus ? »
+
+#### Focus sur Basegun, l’outil de reconnaissance des armes grâce à l’intelligence artificielle
+
+[ActuIA, 16 février 2022](https://www.actuia.com/actualite/focus-sur-basegun-loutil-de-reconnaissance-des-armes-gra%CC%82ce-a-lintelligence-artificielle/) : « En 2020, le service central des armes et explosifs (SCAE) du ministère de l’Intérieur a initié la transformation numérique de la politique publique de contrôle des armes et des explosifs. Le système d’information sur les armes (SIA), outil de cette transformation, recense les possesseurs d’armes et va utiliser BASEGUN, qui, grâce à l’intelligence artificielle, va permettre aux forces de sécurité et aux armuriers d’identifier les armes rapidement. »
 
 #### Design et data au service de l’innovation
 
