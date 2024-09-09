@@ -20,11 +20,7 @@ agents:
 
 #### Questionner les finalités des programmes : le cas de Entrepreneur(e)s d’intérêt général
 
-[Horizons publics, 3 septembre 2024](https://www.horizonspublics.fr/questionner-les-finalites-des-programmes-le-cas-de-entrepreneures-dinteret-general) : « Le programme Entrepreneur(e)s d’intérêt général (EIG) incarne cette nouvelle vague de la réforme de l’État qui fonctionne ”en mode commando” et ”à bride courte” en tentant de contourner les supposées lourdeurs et pesanteurs de la bureaucratie administrative par des leviers issus de l’extérieur. Quel est l’écart entre les promesses du programme et les finalités qu’il sert réellement ? »
-
-#### Le petit monde des programmes d’innovation et d’expérimentation
-
-[Horizons publics, 28 août 2024](https://www.horizonspublics.fr/le-petit-monde-des-programmes-dinnovation-et-dexperimentation) : « Territoires d’innovation, 100 % inclusion, Fonds d’expérimentation pour la jeunesse (FEJ), Entrepreneur(e)s d’intérêt général (EIG), etc. Depuis une quinzaine d’années, on ne compte plus le nombre de programmes destinés à favoriser l’innovation et/ou l’expérimentation dans le secteur public. Pourquoi sont-ils apparus ? Comment fonctionnent-ils ? Ont-ils atteint leurs objectifs d’innovation et de transformation ? Que deviennent-ils une fois terminés, et quels sont leurs effets sur les agents, les publics concernés et la société ? Est-il possible de les améliorer, d’inventer une nouvelle génération de programmes plus adaptés aux défi s climatiques, démocratiques et sociaux ? »
+[Horizons publics, 3 septembre 2024](https://www.horizonspublics.fr/questionner-les-finalites-des-programmes-le-cas-de-entrepreneures-dinteret-general) : « Le programme Entrepreneur(e)s d’intérêt général (EIG) incarne cette nouvelle vague de la réforme de l’État qui fonctionne ”en mode commando” et ”à bride courte” en tentant de contourner les supposées lourdeurs et pesanteurs de la bureaucratie administrative par des leviers issus de l’extérieur. Quel est l’écart entre les promesses du programme et les finalités qu’il sert réellement ?. Cet article s’appuie sur enquête de terrain (entretiens et observation participante) réalisée sur la période 2019/2020 auprès de la troisième promotion. »
 
 #### L’État recentre son programme EIG sur les politiques prioritaires
 
