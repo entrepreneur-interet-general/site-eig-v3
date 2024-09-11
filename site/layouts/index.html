@@ -66,7 +66,7 @@
       </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
-      {{ range first 3 (shuffle(where (where .Site.RegularPages "Type" "personnes") "Params.promos" "intersect" (slice "Promotion 7"))) }}
+      {{ range first 3 (shuffle (where (where .Site.RegularPages "Type" "personnes") "Params.promos" "intersect" (slice "Promotion 7"))) }}
 
       <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
         {{ .Render "li" }}
