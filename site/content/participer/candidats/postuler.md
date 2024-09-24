@@ -28,8 +28,8 @@ steps:
         * Entretiens de sélection : du 6 au 24 mai 2024
     - date: Sprint n° 3 (août-septembre 2024)
       desc: |-
-        * Dépôt des dossiers : du 19 au 8 septembre 2024 à 23 h 59
-        * Entretiens de sélection : du 16 au 27 septembre 2024
+        * Dépôt des dossiers : du 19 août au 8 septembre 2024 à 23 h 59
+        * Entretiens de sélection : du 23 septembre au 4 octobre 2024
 questions: Pour toute question sur les modalités, n'hésitez pas à [contacter
   l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
 join:
