@@ -30,7 +30,7 @@ Pour mener à bien leurs projets, les EIG travaillent **en immersion dans l’ad
 
 Concrètement, chaque EIG signe **un CDD de 10 mois** avec son administration d’accueil, **rémunéré 4000 euros net par mois**. Les EIG sont donc des contractuels de la fonction publique. 
 
-_Pour plus de détails sur les critères d’éligibilité, consultez le [règlement du programme](https://entrepreneur-interet-general.etalab.gouv.fr/docs/AACEIG4_Reglement.pdf) et la [foire aux questions](https://entrepreneur-interet-general.etalab.gouv.fr/faq-eig.html)._
+_Pour plus de détails sur les critères d’éligibilité, consultez le [règlement du programme](/img/AACEIG4_Reglement.pdf) et la [foire aux questions](/participer/candidats/faq)._
 
 
 ## Une posture entrepreneuriale à assumer
@@ -60,15 +60,15 @@ Le programme a déjà accompagné 3 promotions d’EIG, dont certaines et certai
 
 Nous vous invitons à lire :
 
--	[L’article de Coline Lebaratoux, designer de la promotion EIG 3](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/le-design-de-services-dans-une-administration.html)
--	[L’article  d’Antoine Augusti, data scientist / développeur de la promotion EIG 2 et EIG 3](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/06/11/travailler-avec-des-donnees-d-exception.html)
--	[L’article de Tiphaine Phe-Neau, data scientist de la promotion EIG 2](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/29/pourquoi-devenir-EIG.html)
--	[L’article de Dora Crisan, développeuse de la promotion EIG 2](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/15/retour-experience-defi-brigade-numerique.html)
+-	[L’article de Coline Lebaratoux, designer de la promotion EIG 3](/blog/le-design-de-services-dans-une-administration/)
+-	[L’article  d’Antoine Augusti, data scientist / développeur de la promotion EIG 2 et EIG 3](/blog/travailler-avec-des-donnees-d-exception/)
+-	[L’article de Tiphaine Phe-Neau, data scientist de la promotion EIG 2](/blog/pourquoi-devenir-EIG/)
+-	[L’article de Dora Crisan, développeuse de la promotion EIG 2](/blog/retour-experience-defi-brigade-numerique/)
 -	[L’article de Bastien Guerry, développeur des promotions EIG 1 et EIG 2](https://bzg.fr/ce-que-ca-fait-detre-eig.html/)
 -	[L’article de Frédéric Bardolle, développeur de la promotion EIG 1](https://medium.com/@seiteta/retour-entrepreneur-interet-general-e64e08a6296a )
 
 Vous pouvez regarder [les vidéos bilans de la promotion EIG 2](https://www.dailymotion.com/playlist/x6bp3l) et [les vidéos bilans de la promotion EIG 1](https://www.dailymotion.com/video/x64z28u?playlist=x54m4i). Vous pouvez aussi regarder [notre webinaire "retours d'expérience d'EIG"](https://www.dailymotion.com/video/x7u6rsq?playlist=x6r7a0).
 
-Enfin, vous pouvez découvrir [la communauté des EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html), composée de profils variés et dont certains vous parleront peut-être !
+Enfin, vous pouvez découvrir [la communauté des EIG](/talents), composée de profils variés et dont certains vous parleront peut-être !
 
-Vous pensez que le programme est fait pour vous ? [Jusqu'au 7 juin 2020 à 23h, répondez à l'appel à candidatures](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html) pour faire partie de la promotion 4. 
+Vous pensez que le programme est fait pour vous ? [Jusqu'au 7 juin 2020 à 23h, répondez à l'appel à candidatures](/participer/candidats/) pour faire partie de la promotion 4. 

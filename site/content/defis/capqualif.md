@@ -42,7 +42,7 @@ Face à cette problématique, nous avons travaillé sur les solutions suivantes 
 
 Ce défi a été présenté lors du webinaire « Écologie et affaires maritimes » du mardi 12 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-1 "Rediffusion du webinaire").
 
-Rendez-vous sur la [page de présentation de l'appel à candidatures](https://damp-basin-47015.herokuapp.com/candidature-eig.html "Présentation de l'appel à candidatures") pour retrouver la liste complète des webinaires.
+Rendez-vous sur la [page de présentation de l'appel à candidatures](/participer/candidats/ "Présentation de l'appel à candidatures") pour retrouver la liste complète des webinaires.
 
 ## Réalisations
 

@@ -16,7 +16,7 @@ expertises:
 image: img/eig2-previsecours.svg
 visible: true
 ---
-{{< arrow-link url="img/4.previsecours.pdf" title="Présentation du défi" target="true" >}}
+{{< arrow-link url="/img/4.previsecours.pdf" title="Présentation du défi" target="true" >}}
 
 {{< arrow-link url="https://github.com/previsecours" title="Code source" target="true" >}}
 

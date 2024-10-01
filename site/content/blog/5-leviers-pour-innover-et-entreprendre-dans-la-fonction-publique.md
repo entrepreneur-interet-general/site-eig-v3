@@ -16,7 +16,7 @@ related:
   - "Dans les coulisses du programme : rencontre avec les coachs EIG"
 visible: true
 ---
-S’engager dans un projet d’innovation, de modernisation ou de transformation n’est pas un long fleuve tranquille. « Innover, c’est d’abord déconstruire les mythes qui entourent les démarches de transformation » comme l’indiquait [Sonia Prévost Mercier](https://eig.etalab.gouv.fr/personnes/sonia-prevost-mercier/) lors de la table ronde « Repousser les limites de l’innovation » à l’occasion de [l’événement de clôture de la promotion 5](https://www.dailymotion.com/video/x8cj8uo).
+S’engager dans un projet d’innovation, de modernisation ou de transformation n’est pas un long fleuve tranquille. « Innover, c’est d’abord déconstruire les mythes qui entourent les démarches de transformation » comme l’indiquait [Sonia Prévost Mercier](/personnes/sonia-prevost-mercier/) lors de la table ronde « Repousser les limites de l’innovation » à l’occasion de [l’événement de clôture de la promotion 5](https://www.dailymotion.com/video/x8cj8uo).
 
 Si le contact physique doit être maintenu pour l’administration – au regard notamment des quelques 13 millions de Français(e)s souffrant d’illectronisme, il n’en demeure pas moins essentiel pour le service public d’œuvrer à la transformation numérique de ses services à destination des agent(e)s et des citoyen(ne)s.
 
@@ -28,7 +28,7 @@ Quels sont les facteurs clés de succès de tout projet d’innovation, de moder
 
 Le programme EIG se place sous le signe de la pyramide.
 
-![Pyramide du Louvre ](img/louvre-credit_mathias_reding.jpg)
+![Pyramide du Louvre ](/img/louvre-credit_mathias_reding.jpg)
 
 Que représente-t-elle ? Il s’agit d’une représentation de la pyramide du Louvre, commandée par François Mitterrand et conçue par l’architecte Ieoh Ming Pei. 
 
@@ -44,7 +44,7 @@ Ainsi, les EIG ne peuvent passer outre la culture existante, ni ignorer ses fond
 
 Le rôle des porteuses et porteurs de projet, ainsi que des sponsors est structurant dans la réussite des défis. À la fois dans une posture de facilitation, de conseil et d’encadrement, ils et elles sont les phares vers lesquels se tournent les EIG pour éclairer leur cap. L’expertise métier des agent(e)s de service public et leur compréhension des politiques publiques sont un apport précieux aux EIG.
 
-Mais la relation n’est pas à sens unique. Au contact des EIG, les administrations s’ouvrent à d’autres manières de travailler et bénéficient d’un regard neuf sur leurs enjeux et leurs pratiques. Accueillir une équipe d’EIG dans ses équipes, c’est ainsi ajouter de nouvelles cordes à son arc. Et cette collaboration contribue aux trajectoires de carrière, comme en témoigne la récente nomination de [Stéphanie Schaer](https://eig.etalab.gouv.fr/personnes/stephanie-schaer/) (porteuse du défi [Signaux Faibles](https://eig.etalab.gouv.fr/defis/signaux-faibles/)) à la tête de la Direction interministérielle du numérique (DINUM).
+Mais la relation n’est pas à sens unique. Au contact des EIG, les administrations s’ouvrent à d’autres manières de travailler et bénéficient d’un regard neuf sur leurs enjeux et leurs pratiques. Accueillir une équipe d’EIG dans ses équipes, c’est ainsi ajouter de nouvelles cordes à son arc. Et cette collaboration contribue aux trajectoires de carrière, comme en témoigne la récente nomination de [Stéphanie Schaer](/personnes/stephanie-schaer/) (porteuse du défi [Signaux Faibles](/defis/signaux-faibles/)) à la tête de la Direction interministérielle du numérique (DINUM).
 
 ![](https://lh6.googleusercontent.com/yhUqHaqop3jUjJvo3yOirOFQqFMXWOIKGim9GB9ItQg0wAVdidBJ96ESQWbxqoxSdMRdtaR4CDaGt05oQd7lgVW1jUqm6HqBc82pBtIlFf1WuG4BpofiJvu_c6OcE-IKFJtDnJJ7d1ly1Na3FdDIXWq7FQSQuGDeHxtNCbWKQwUpF4ZWQ4Rs2XxGGKh_)
 
@@ -100,9 +100,9 @@ Le mythe de la « solution magique » est périlleux. Il est souvent préjudicia
 
 Les principes exposés ci-avant ne sont pas dogmatiques. Ils sont tirés de l’immersion des EIG dans les administrations. Chaque promotion EIG transmet ses expériences et enseignements à la suivante. Chaque année, du séminaire d'intégration à la cérémonie de clôture, l'intelligence collective ne cesse d'enrichir notre compréhension et notre pratique. 
 
-Ainsi, [Elisabeth Talbourdet-Ville](https://eig.etalab.gouv.fr/personnes/elisabeth-talbourdet-ville/), [Félix Veith](https://eig.etalab.gouv.fr/personnes/felix-veith/), [Emily Betham](https://eig.etalab.gouv.fr/personnes/emily-betham/) et [Alexandre Bastide](https://eig.etalab.gouv.fr/personnes/alexandre-bastide/) ont partagé leur expérience de la collaboration au service de l’innovation. Par ailleurs, [Célia Deyzac](https://eig.etalab.gouv.fr/personnes/celia-deyzac/), [Laurent Barbat](https://eig.etalab.gouv.fr/personnes/laurent-barbat/) et [Sonia Prévost Mercier](https://eig.etalab.gouv.fr/personnes/sonia-prevost-mercier/) se sont interrogé(e)s sur le dépassement de soi nécessaire à l’entrepreneuriat. Enfin, [Chloé Rotrou](https://eig.etalab.gouv.fr/personnes/chloe-rotrou/), [Mathieu Perez](https://eig.etalab.gouv.fr/personnes/mathieu-perez/) et [Philippe Galvan](https://eig.etalab.gouv.fr/personnes/philippe-galvan/) ont proposé des pistes pour repousser les limites de l’innovation. 
+Ainsi, [Elisabeth Talbourdet-Ville](/personnes/elisabeth-talbourdet-ville/), [Félix Veith](/personnes/felix-veith/), [Emily Betham](/personnes/emily-betham/) et [Alexandre Bastide](/personnes/alexandre-bastide/) ont partagé leur expérience de la collaboration au service de l’innovation. Par ailleurs, [Célia Deyzac](/personnes/celia-deyzac/), [Laurent Barbat](/personnes/laurent-barbat/) et [Sonia Prévost Mercier](/personnes/sonia-prevost-mercier/) se sont interrogé(e)s sur le dépassement de soi nécessaire à l’entrepreneuriat. Enfin, [Chloé Rotrou](/personnes/chloe-rotrou/), [Mathieu Perez](/personnes/mathieu-perez/) et [Philippe Galvan](/personnes/philippe-galvan/) ont proposé des pistes pour repousser les limites de l’innovation. 
 
-Plus globalement, ce partage de compétences s’appuie aujourd’hui sur le vécu de [plus de 200 EIG](https://eig.etalab.gouv.fr/talents/) ayant pris part à l’aventure sur [plus de 100 défis](https://eig.etalab.gouv.fr/defis/) au sein de 80 administrations (90% des défis s’inscrivant dans la durée au-delà du programme) depuis le lancement du dispositif en 2016.
+Plus globalement, ce partage de compétences s’appuie aujourd’hui sur le vécu de [plus de 200 EIG](/talents/) ayant pris part à l’aventure sur [plus de 100 défis](/defis/) au sein de 80 administrations (90% des défis s’inscrivant dans la durée au-delà du programme) depuis le lancement du dispositif en 2016.
 
 Nous ne pouvons qu’encourager chacune et chacun d’entre vous à vous appuyer sur ces leviers et à partager votre expérience, à votre tour, à la communauté EIG !
 

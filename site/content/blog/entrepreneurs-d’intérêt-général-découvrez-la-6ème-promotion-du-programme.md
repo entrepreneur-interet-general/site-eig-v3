@@ -17,13 +17,13 @@ visible: true
 ---
 **Développeuses, développeurs, data scientists, data engineers et designers… ils et elles seront 34 à rejoindre les rangs de l’administration française en septembre prochain**. 34 « Entrepreneur(e)s d’intérêt général », issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech et le design. Derrière ces horizons pluriels, **un désir commun de s’engager pour l’intérêt général et d’œuvrer pour la transformation numérique des administrations.**
 
-![Découvrez la 6ème promotion du programme ! ](img/annonce-promo6.jpg)
+![Découvrez la 6ème promotion du programme ! ](/img/annonce-promo6.jpg)
 
 **Pendant 10 mois,** les EIG vont **concevoir et déployer des outils numériques en réponse à des défis** identifiés par des agents publics, sur des thèmes aussi variés que la santé, l’environnement ou les affaires sociales. Les enjeux : rendre l’administration plus entrepreneuriale, mieux répondre aux nouvelles attentes des usagers, optimiser des services et tâches existants mais aussi améliorer le pilotage, la transparence et l’évaluation de l’action publique.
 
 C’est donc **aux côtés d’une trentaine d’agents publics, au cœur de leurs administrations** respectives, que les 34 EIG de la promotion 6 relèveront **14 défis**. Nous avons le plaisir de vous les révéler ci-dessous :
 
-**[ArtificIA](https://eig.etalab.gouv.fr/defis/artificia/)–Institut national de l’information géographique et forestière (IGN)**
+**[ArtificIA](/defis/artificia/)–Institut national de l’information géographique et forestière (IGN)**
 
 *Mettre l’intelligence artificielle au service de l’objectif « zéro artificialisation nette » des sols*
 
@@ -32,7 +32,7 @@ EIG lauréats :
 * Marie-Lorraine CHIRIACOPOL, Designer
 * Eva BOOKJANS, Ingénieure des sciences de la donnée (ou « data scientist »)
 
-**[Champollion](https://eig.etalab.gouv.fr/defis/champollion/) – Secrétariat général des ministères chargés des affaires sociales**
+**[Champollion](/defis/champollion/) – Secrétariat général des ministères chargés des affaires sociales**
 
 *Rendre intelligibles et valoriser dans la pratique les données de la déclaration sociale nominative*
 
@@ -42,7 +42,7 @@ EIG lauréats :
 * Léo GUILLAUME, Ingénieur de la donnée (ou « data engineer »)
 * Margot COSSON, Ingénieure des sciences de la donnée (ou « data scientist »)
 
-**[Ecosphère(s)](https://eig.etalab.gouv.fr/defis/ecospheres/) – Commissariat général au développement durable (CGDD)**
+**[Ecosphère(s)](/defis/ecospheres/) – Commissariat général au développement durable (CGDD)**
 
 *Développer l’écosystème de la transition écologique et de la cohésion des territoires*
 
@@ -52,7 +52,7 @@ EIG lauréats :
 * Gabriel RIPOCHE, Développeur
 * Vincent AIT-AMMAR, Ingénieur des sciences de la donnée (ou « data scientist »)
 
-**[Estim’Action](https://eig.etalab.gouv.fr/defis/estim-action/) – Cerema**
+**[Estim’Action](/defis/estim-action/) – Cerema**
 
 *Aider les collectivités à réduire les nuisances routières, sources de pollution atmosphérique et sonore* 
 
@@ -61,7 +61,7 @@ EIG lauréats :
 * Marion CARON, Designer
 * Jéremie LETONNELIER, Ingénieur de la donnée (ou « data engineer »)
 
-**[Etat bas carbone](https://eig.etalab.gouv.fr/defis/etat-bas-carbone/) – Commissariat général au développement durable (CGDD)**
+**[Etat bas carbone](/defis/etat-bas-carbone/) – Commissariat général au développement durable (CGDD)**
 
 *Soutenir les services de l’Etat dans la réduction de leur empreinte carbone*
 
@@ -70,7 +70,7 @@ EIG lauréats :
 * Abdelkader KERSANI, Développeur
 * Charlotte SUAUD, Ingénieure des sciences de la donnée (ou « data scientist »)
 
-**[Géocommuns](https://eig.etalab.gouv.fr/defis/geocommuns/) – Institut national de l’information géographique et forestière (IGN)**
+**[Géocommuns](/defis/geocommuns/) – Institut national de l’information géographique et forestière (IGN)**
 
 *Représenter et valoriser les géocommuns numériques*
 
@@ -80,7 +80,7 @@ EIG lauréats :
 * Quentin BOUILLAGUET, Développeur
 * Maxime ALLAIN, Développeur
 
-**[Magellan](https://eig.etalab.gouv.fr/defis/magellan/) – Direction interministérielle du numérique (DINUM)**
+**[Magellan](/defis/magellan/) – Direction interministérielle du numérique (DINUM)**
 
 *Accompagner la collaboration et l’innovation au sein du programme EIG et de son écosystème*
 
@@ -90,7 +90,7 @@ EIG lauréats :
 * Lucie LE ROLLAND, Coach en ingénierie de la donnée
 * Antoine SAN SEGUNDO, Coach en design de service
 
-**[Nubonyxia](https://eig.etalab.gouv.fr/defis/nubonyxia/) – Secrétariat général des ministères économiques et financiers**
+**[Nubonyxia](/defis/nubonyxia/) – Secrétariat général des ministères économiques et financiers**
 
 *Sécuriser et faciliter l’intelligence des données économiques et financières sensibles*
 
@@ -100,7 +100,7 @@ EIG lauréats :
 * Daouda DIALLO, Ingénieur de la donnée (ou « data engineer »)
 * Paul MOYSAN, Ingénieur de la donnée (ou « data engineer »)
 
-**[OptiFlex](https://eig.etalab.gouv.fr/defis/optiflex/) – Commissariat des armées**
+**[OptiFlex](/defis/optiflex/) – Commissariat des armées**
 
 *Repenser les modes de travail au service de la qualité de vie et de la maîtrise de l’empreinte environnementale*
 
@@ -110,7 +110,7 @@ EIG lauréats :
 * Sophie TOPART, Développeuse
 * Anthony TAING, Ingénieur de la donnée (ou « data engineer »)
 
-**[Pilote Intelligence](https://eig.etalab.gouv.fr/defis/pilote-intelligence/) – Direction interministérielle de la Transformation Publique (DITP)**
+**[Pilote Intelligence](/defis/pilote-intelligence/) – Direction interministérielle de la Transformation Publique (DITP)**
 
 *Faciliter et animer le pilotage des politiques publiques à toutes les mailles territoriales*
 
@@ -119,7 +119,7 @@ EIG lauréats :
 * Adrien LAVILLE, Designer
 * Gregoria RUBIO, Développeuse
 
-**[Recens’smart](https://eig.etalab.gouv.fr/defis/recens-smart/) – Institut national de la statistique et des études économiques (INSEE)**
+**[Recens’smart](/defis/recens-smart/) – Institut national de la statistique et des études économiques (INSEE)**
 
 *Améliorer le processus et rehausser la qualité du recensement au service d’une meilleure connaissance de la population*
 
@@ -128,7 +128,7 @@ EIG lauréats :
 * Julia DIRAND, Designer
 * William THIERY, Développeur
 
-**[SIRANo](https://eig.etalab.gouv.fr/defis/sirano/) – Direction Générale de l’Offre de Soins (DGOS)**
+**[SIRANo](/defis/sirano/) – Direction Générale de l’Offre de Soins (DGOS)**
 
 *Améliorer la transparence et le suivi des projets financés de recherche appliquée en santé*
 
@@ -137,7 +137,7 @@ EIG lauréats :
 * Abdelali BOULAJINE, Développeur
 * Zhanna SANTYBAYEVA, Data engineer
 
-**[SOS Ponts](https://eig.etalab.gouv.fr/defis/sos-ponts/) – Cerema**
+**[SOS Ponts](/defis/sos-ponts/) – Cerema**
 
 *Guider les maires pas à pas dans les actions à mener pour préserver les ponts de leur commune*
 
@@ -146,7 +146,7 @@ EIG lauréats :
 * Lise FAINSILBER, Designer
 * Vladimir NAFISSI, Développeur
 
-**[TwinCity](https://eig.etalab.gouv.fr/defis/twincity/) – Ministère de l’Intérieur**
+**[TwinCity](/defis/twincity/) – Ministère de l’Intérieur**
 
 *Explorer le potentiel de l’intelligence artificielle appliquée à des jumelages numériques de villes*
 

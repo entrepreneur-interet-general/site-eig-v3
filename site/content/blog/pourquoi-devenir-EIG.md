@@ -14,7 +14,7 @@ _Tiphaine revient sur son parcours – de Dailymotion à Entrepreneur·e
 d’Intérêt Général - et nous raconte ce qui l’a poussée à s’engager
 dans le programme._
 
-![Une jeune femme se tient de trois-quart : elle a les cheveux noirs et longs, des lunettes et sourit légèrement. C'est le portrait de Tiphaine](/img/blog/TiphainePheNeau.jpg)
+![Une jeune femme se tient de trois-quart : elle a les cheveux noirs et longs, des lunettes et sourit légèrement. C'est le portrait de Tiphaine](/img/TiphainePheNeau.jpg)
 _Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Prévisecours_
 
 Pour être honnête, il y a 1000 raisons pour s’engager dans le
@@ -69,11 +69,11 @@ qu’en étant sapeur-pompier, je peux améliorer le quotidien du citoyen.
 
 ### Mais en quoi le programme EIG œuvre pour l’Intérêt Général ?
 
-![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/blog/Tiphaine-Guillaume.jpg)
+![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/Tiphaine-Guillaume.jpg)
 _Tiphaine et Guillaume, Entrepreneur(e)s d'intérêt général pour le défi Prévisecours (© Liberté Living Lab)_
 
 Je travaille avec Guillaume Lancrenon sur le [défi
-Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/). Guillaume
+Prévisecours](/defis/previsecours/). Guillaume
 est développeur fullstack et vient du monde de l'entrepreneuriat, je
 suis data scientist avec un parcours dans le privé.
 
@@ -97,11 +97,11 @@ l'administration système, la médiation voire la conduite de projet).
 s’engager pour aider le citoyen** : les défis de la 2e promotion EIG
 vont de la création d'une plateforme de partage et d'agrégation des
 innovations sociales
-([SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/))
+([SocialConnect](/defis/social-connect/))
 à la détection et soutien d’entreprises en difficulté ([Signaux
-Faibles](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/))
+Faibles](/defis/signaux-faibles/))
 en passant par un travail d'harmonisation sur les données de santé
-([LabSanté](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/)).
+([LabSanté](/defis/lab-sante/)).
 
 Le citoyen a parfois l’impression que l’administration se désincarne
 avec la numérisation et la centralisation des services. Mais quand

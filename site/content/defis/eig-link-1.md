@@ -42,4 +42,4 @@ Les EIG auront par ailleurs l’occasion de participer aux autres activités d�
 
 Ce défi a été présenté lors du webinaire « Open source, mutualisation d'outils et mémoire de l'administration » du mardi 19 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. N'hésitez pas à en regarder la [rediffusion en ligne](https://app.livestorm.co/demarches-simplifiees/webinaire-eig-5 "Rediffusion du webinaire").
 
-Rendez-vous sur la [page de présentation de l'appel à candidatures](https://eig.etalab.gouv.fr/participer/candidats/) pour retrouver la liste complète des webinaires.
+Rendez-vous sur la [page de présentation de l'appel à candidatures](/participer/candidats/) pour retrouver la liste complète des webinaires.

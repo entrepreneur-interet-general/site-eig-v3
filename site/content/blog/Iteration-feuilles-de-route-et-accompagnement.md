@@ -1,7 +1,7 @@
 ---
 author: Sophie Miljkovic, équipe EIG
 description: Le 14 juin dernier s'est tenue une session de bilan à mi-parcours. L'occasion pour les EIG et leurs mentors de faire le point sur leurs défis et d'adapter la feuille de route des 5 mois à venir. L'occasion aussi de faire des retours sur l'accompagnement qu'offre l'équipe EIG. En voici une synthèse.
-image: /img/blog/Matrice-Social-Connect.jpg
+image: img/Matrice-Social-Connect.jpg
 categories:
 - Accompagnement
 - Méthode
@@ -27,7 +27,7 @@ mentors et l'équipe d'accompagnement.
 
 Le premier objectif de cette session à mi-parcours était de revenir
 sur [la feuille de route dessinée en début
-d'année](https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/04/04/construire-une-feuille-de-route-partagee/)
+d'année](/blog/construire-une-feuille-de-route-partagee/)
 et de préciser les objectifs de court, moyen et long termes pour les 5
 mois à venir. Cette itération s'est faite en équipe, EIG et mentors
 réunis, et a permis de réaligner les objectifs fixés en début d'année,
@@ -40,43 +40,45 @@ tendances qui ressortent de l'exercice :
 
 - à court terme, nombreux sont les défis qui souhaitent **réaliser des
   tests
-  utilisateurs**. [Archifiltre](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/),
+  utilisateurs**. [Archifiltre](/defis/archifiltre/),
   par exemple, cherche à se constituer une base de « bêta testeurs »
   pour améliorer rapidement leurs réalisations à partir de retours
   pertinents. D'autres, comme
-  [Hopkins](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/),
-  [Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/)
+  [Hopkins](/defis/hopkins/),
+  [Prédisauvetage](/defis/predisauvetage/)
   ou
-  [dataESR](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/),
+  [dataESR](/defis/dataesr/),
   ont pour objectif de présenter les outils développés à leur
   hiérarchie et aux futurs utilisateurs (au sein des directions
   métiers et ailleurs).
 - à moyen terme, la **généralisation à d'autres parties prenantes**
   fait partie des objectifs de certains défis, comme [Signaux
-  Faibles](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/)
+  Faibles](/defis/signaux-faibles/)
   qui veut déployer son outil dans deux régions supplémentaires. On
   remarque que beaucoup de défis ont déjà en tête la pérennisation des
   solutions développées, que ce soit grâce à des guides
   d'appropriation, comme dans le cas de [Lab
-  Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/),
+  Santé](/defis/lab-sante/),
   ou grâce à des formations comme dans le cas de
-  [Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/).
+  [Prédisauvetage](/defis/predisauvetage/).
 - à long terme, la question de la pérennisation se pose de façon
   encore plus prégnante. D'une part les défis veulent stabiliser leurs
   solutions pour livrer un outil opérationnel ; c'est le cas de
-  [Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/)
+  [Prévisecours](/defis/previsecours/)
   et de ses modèles. D'autre part, les défis prévoient d'écrire une
   **documentation solide** pour faciliter la reprise de la solution
   par les métiers.
 
 ![Les objectifs de Signaux Faibles avec beaucoup de
-post-it](/img/blog/Matrice-Signaux-Faibles.jpg) _L'équipe Signaux Faibles a
+post-it](/img/Matrice-Signaux-Faibles.jpg) _L'équipe Signaux Faibles a
 un programme visiblement très chargé © Sophie Miljkovic_
 
-![Un parmi les ambitieux objectifs d'Archifiltre : compter le secrétaire d'État chargé du numérique parmi ses abonnés Twitter](/img/blog/Matrice-Archifiltre.jpg)
+<!--
+![Un parmi les ambitieux objectifs d'Archifiltre : compter le secrétaire d'État chargé du numérique parmi ses abonnés Twitter](/img/Matrice-Archifiltre.jpg)
 _Archifiltre vise haut © Sophie Miljkovic_
+-->
 
-![Les objectifs de Social Connect tout en dessins et en humour](/img/blog/Matrice-Social-Connect.jpg)
+![Les objectifs de Social Connect tout en dessins et en humour](/img/Matrice-Social-Connect.jpg)
 _Social Connect, ses dessins, son humour et son ambition © Sophie Miljkovic_
 
 ## Accompagnement de la promotion EIG : que faire...
@@ -97,7 +99,7 @@ nouvelle idée de format, etc.
 Le 14 juin a été l'occasion de faire le point de façon plus structurée
 et de recueillir de nombreuses pistes d'amélioration.
 
-![Une matrice d'évaluation de l'accompagnement du programme](/img/blog/Matrice-evaluation-accompagnement.png)
+![Une matrice d'évaluation de l'accompagnement du programme](/img/Matrice-evaluation-accompagnement.png)
 _La matrice qui a guidé les retours des EIG et des mentors sur le programme d'accompagnement © Sophie Miljkovic_
 
 Les EIG ont proposé des pistes d'amélioration dans cinq grands
@@ -105,7 +107,7 @@ domaines : l'accueil des EIG dans leurs administrations, la façon dont
 le travail est organisé, la mutualisation des ressources entre défis,
 les projets inter-défis et la mobilisation de l'écosystème EIG.
 
-![Un tableau reprenant les 5 domaines de recommandations et le détail de ces recommandations](/img/blog/Retours-EIG.png)
+![Un tableau reprenant les 5 domaines de recommandations et le détail de ces recommandations](/img/Retours-EIG.png)
 _Tous les retours des EIG © Sophie Miljkovic_
 
 Les commentaires des mentors sont en grande partie le reflet des
