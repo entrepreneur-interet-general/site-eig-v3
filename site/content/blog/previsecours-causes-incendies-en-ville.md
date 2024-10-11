@@ -13,7 +13,7 @@ visible: true
 
 ## Incendies en ville : quelles causes probables ?
 
-![Portrait de Guillaume](/img/communaute/Guillaume-Lancrenon.png)
+![Portrait de Guillaume](/img/guillaume-lancrenon.png)
 _Guillaume Lancrenon, développeur, Entrepreneur d'intérêt général pour le défi Prévisecours_
 
 Depuis janvier 2018, je travaille avec Tiphaine Phe-Neau sur le défi
@@ -80,7 +80,7 @@ Nous avons ensuite confronté ces facteurs aux interventions des
 pompiers.  Ceux qui sont les plus corrélés avec nos interventions sont
 présentés ici :
 
-![Liste des facteurs corrélés avec les incendies urbains, dans l'ordre décroissant : le nombre d'opérations des sapeurs-pompiers lors des dernières semaines et années, le nombre de naissances à l'année, le nombre d'infractions mensuelles, la population, le nombre de décès à l'année, la proportion des ménages à bas revenus, le taux de foyers allocataires dont les ressources sont constituées à 50% ou plus des prestations CAF, les gares ferroviaires avec plus de trafic que la médiane du département. Liste des facteurs anti-corrélés avec les incendies urbains, dans l'ordre croissant : la proportion de ménages dont la personne de référence est Artisan, Commerçant, Chef d'entreprise, la proportion de familles sans enfant, la proportion de la population dans la tranche d'âge 55-79 ans, l'indicateur idh2](/img/blog/facteurs-incendies.png)
+![Liste des facteurs corrélés avec les incendies urbains, dans l'ordre décroissant : le nombre d'opérations des sapeurs-pompiers lors des dernières semaines et années, le nombre de naissances à l'année, le nombre d'infractions mensuelles, la population, le nombre de décès à l'année, la proportion des ménages à bas revenus, le taux de foyers allocataires dont les ressources sont constituées à 50% ou plus des prestations CAF, les gares ferroviaires avec plus de trafic que la médiane du département. Liste des facteurs anti-corrélés avec les incendies urbains, dans l'ordre croissant : la proportion de ménages dont la personne de référence est Artisan, Commerçant, Chef d'entreprise, la proportion de familles sans enfant, la proportion de la population dans la tranche d'âge 55-79 ans, l'indicateur idh2](/img/facteurs-incendies.png)
 _À noter : l'[IDH2 (indicateur de développement humain 2)](https://www.insee.fr/fr/statistiques/fichier/2114265/lm_ind_02_C-7.pdf) est un indicateur élaboré par l'INSEE, qui réunit les trois dimensions de l'IDH original (santé, éducation, revenu) et des données spécifiques à la situation française._
 
 La première ligne représente le nombre d’interventions réalisées par
@@ -110,7 +110,7 @@ vous nous en fassiez part à l'adresse suivante :
 
 Nous espérons vous lire !
 
-[Guillaume Lancrenon](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/guillaume-lancrenon.html), Développeur au Ministère de l’Intérieur pour le défi Prévisecours, Entrepreneur d’Intérêt Général
+[Guillaume Lancrenon](/personnes/guillaume-lancrenon/), Développeur au Ministère de l’Intérieur pour le défi Prévisecours, Entrepreneur d’Intérêt Général
 
 <hr/>
 

@@ -26,7 +26,7 @@ Bastien, Entrepreneur d’intérêt général de la première promotion et EIG L
 
 {{< arrow-link url="https://github.com/entrepreneur-interet-general/eig-link/" title="Base de connaissances pour les EIG" target="true" >}}
 
-{{< arrow-link url="img/mini-guide-logiciel-libre_compressed.pdf" title="Guide pour l’ouverture des codes sources" target="true" >}}
+{{< arrow-link url="/img/mini-guide-logiciel-libre_compressed.pdf" title="Guide pour l’ouverture des codes sources" target="true" >}}
 
 ## Rétrospective
 

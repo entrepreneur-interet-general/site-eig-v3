@@ -18,7 +18,7 @@ visible: true
 ---
 ![](/img/thomas-et-fred.jpg)
 
-Frédérique Doman et Thomas Parisot sont coachs pour le programme [Entrepreneur(e)s d’intérêt général](https://eig.etalab.gouv.fr/) d’Etalab depuis l’été 2021. Respectivement designer et Product Manager, iels nous partage leur expérience au sein d’Etalab et de la Direction Interministérielle du Numérique. De l’accompagnement de la promotion 5 des EIG à l’ingénierie du programme, retour sur douze mois au service de l’innovation publique. 
+Frédérique Doman et Thomas Parisot sont coachs pour le programme [Entrepreneur(e)s d’intérêt général](/) d’Etalab depuis l’été 2021. Respectivement designer et Product Manager, iels nous partage leur expérience au sein d’Etalab et de la Direction Interministérielle du Numérique. De l’accompagnement de la promotion 5 des EIG à l’ingénierie du programme, retour sur douze mois au service de l’innovation publique. 
 
 ### Vous avez rejoint l'équipe du programme EIG l'an dernier en tant que coachs. Qu'est-ce qui vous avait motivé(e)s à postuler ?
 
@@ -28,9 +28,9 @@ Mais ce qui m'a intéressée plus particulièrement dans le poste de coach, c'é
 
 **Thomas** - Je connaissais moi aussi déjà le programme, qui jouit d'une belle notoriété. Aussi, lorsque j'ai découvert que la direction du programme cherchait pour la première fois un(e) coach produit pour faciliter la relève des défis d'intérêt général, j'ai saisi l'opportunité. J'avais travaillé en startup agréée ESUS et en entreprise à mission, j'avais accompagné des entrepreneurs et entrepreneuses engagé(e)s dans la responsabilité environnementale, je m'étais intéressé aux questions d'éthique du numérique : j'ai donc été naturellement intéressé par le rôle de facilitation au sein d'un programme d'innovation à l’intersection de l’entrepreneuriat et de l’intérêt général.
 
-J'avais aussi envie de sortir un peu de ma zone de confort. Les Product Managers sont habitué(e)s à intervenir dans un cadre assez bien circonscrit, en s'appuyant sur des méthodologies éprouvées de stratégie produit et de mesure d'impact. Mais la démarche entrepreneuriale est plus incertaine. Elle nécessite de s'adapter à des contextes singulièrement différents, avec des moyens et des cultures hétérogènes - et surtout en s'attachant à l'essentiel de la création de valeur. Or le programme EIG présente cette diversité de projets et d'enjeux, de l'innovation d'usage ([ePSHAD](https://eig.etalab.gouv.fr/defis/e-pshad/)) et la digitalisation de parcours ([Décos](https://eig.etalab.gouv.fr/defis/decos/)) à la science de la donnée (SMASH) et la reconnaissance d'images ([Basegun](https://eig.etalab.gouv.fr/defis/basegun/)), en passant par des projets impliquant un écosystème large sur des thématiques d'éducation ([DaSES](https://eig.etalab.gouv.fr/defis/dases-1/)) ou d'environnement ([BatID](https://eig.etalab.gouv.fr/defis/batid/)).
+J'avais aussi envie de sortir un peu de ma zone de confort. Les Product Managers sont habitué(e)s à intervenir dans un cadre assez bien circonscrit, en s'appuyant sur des méthodologies éprouvées de stratégie produit et de mesure d'impact. Mais la démarche entrepreneuriale est plus incertaine. Elle nécessite de s'adapter à des contextes singulièrement différents, avec des moyens et des cultures hétérogènes - et surtout en s'attachant à l'essentiel de la création de valeur. Or le programme EIG présente cette diversité de projets et d'enjeux, de l'innovation d'usage ([ePSHAD](/defis/e-pshad/)) et la digitalisation de parcours ([Décos](/defis/decos/)) à la science de la donnée (SMASH) et la reconnaissance d'images ([Basegun](/defis/basegun/)), en passant par des projets impliquant un écosystème large sur des thématiques d'éducation ([DaSES](/defis/dases-1/)) ou d'environnement ([BatID](/defis/batid/)).
 
-### [](<>)En quoi consiste le rôle de coach ? Quelles sont vos principales activités ? Quelles compétences avez-vous développées ?
+### En quoi consiste le rôle de coach ? Quelles sont vos principales activités ? Quelles compétences avez-vous développées ?
 
 **Frédérique** - Le programme EIG est une petite équipe dans un écosystème très large. Les coachs interviennent donc sur des domaines très variés, ce qui implique un dépassement de fonction.
 
@@ -40,7 +40,7 @@ Le métier de coach comprend également un volet d'animation de la communauté E
 
 Enfin, le rôle de coach nécessite d'anticiper. Cela implique de contribuer à construire l'avenir du programme. Nous participons par exemple aux appels à projet et à candidature de la promotion suivante. Nous organisons le cadre d'évaluation des dossiers. Nous présidons les jurys de soutenance des projets et conduisons les entretiens avec les candidat(e)s. Anticiper, c'est se réinventer. Nous menons donc des réflexions plus larges sur le positionnement, la stratégie et l'ingénierie, pour l'amélioration continue du programme EIG.
 
-### [](<>)Qu’est-ce que l’entrepreneuriat d’intérêt général ? Qu'est-ce qu'un défi relevé ?
+### Qu’est-ce que l’entrepreneuriat d’intérêt général ? Qu'est-ce qu'un défi relevé ?
 
 **Thomas** - Les défis EIG consistent à concevoir et expérimenter une proposition de valeur concrète et extrapolable, afin de répondre une problématique d’intérêt général en soutien à une politique publique, en s’appuyant sur le numérique.
 
@@ -48,9 +48,9 @@ Développer un service numérique au sein de l'administration implique de faire 
 
 Au-delà de la relève de leur défi spécifique, les équipes d'EIG ont vocation à insuffler une dynamique au sein de leur administration d'accueil. Un(e) EIG est un vecteur d'innovation, technologique ou d'usage, mais aussi de modernisation du service public. Et cette dynamique s’opère de l’intérieur : les EIG sont pleinement intégré(e)s à l’administration. En expérimentant de nouveaux possibles aux côtés des EIG, les administrations développent incidemment une culture plus entrepreneuriale, aussi bien dans les méthodes de création de valeur que dans les pratiques de collaboration.
 
-En définitive, EIG est un programme à la fois d'émergence, d’incubation et de transformation. Un défi EIG relevé, c’est un projet qui apporte la preuve du concept et démontre sa valeur pendant les 10 mois du programme, mais qui prend encore plus d’ampleur au-delà, avec des enjeux de pérennisation à la fois du service, de la culture et des équipes. Ainsi, le défi [Lab Santé](https://eig.etalab.gouv.fr/defis/lab-sante/) (promotion 2), au ministère des Solidarités et de la Santé, a participé à l'émergence d'un groupement d'intérêt public : la Plateforme des données de santé.
+En définitive, EIG est un programme à la fois d'émergence, d’incubation et de transformation. Un défi EIG relevé, c’est un projet qui apporte la preuve du concept et démontre sa valeur pendant les 10 mois du programme, mais qui prend encore plus d’ampleur au-delà, avec des enjeux de pérennisation à la fois du service, de la culture et des équipes. Ainsi, le défi [Lab Santé](/defis/lab-sante/) (promotion 2), au ministère des Solidarités et de la Santé, a participé à l'émergence d'un groupement d'intérêt public : la Plateforme des données de santé.
 
-### [](<>)Quelles évolutions avez-vous apportées pendant la promotion 5 ? Quelles améliorations envisagez-vous pour la promotion 6 ?
+### Quelles évolutions avez-vous apportées pendant la promotion 5 ? Quelles améliorations envisagez-vous pour la promotion 6 ?
 
 **Frédérique** - Nous nous attachons à faire vivre le programme, le faire évoluer avec le temps, se renouveler. Au lancement de la promotion 5, notre objectif était l'industrialisation qualitative de l'accompagnement, pour faciliter le passage à l'échelle du programme EIG. C'est une recommandation du [rapport Bothorel](https://www.vie-publique.fr/en-bref/277963-rapport-bothorel-pour-une-nouvelle-ere-de-la-politique-de-la-donnee). Pour ce faire, nous avons bien évidemment capitalisé sur l'existant, mais nous avons aussi expérimenté des dispositifs complémentaires. Je retiens au moins trois éléments saillants.
 

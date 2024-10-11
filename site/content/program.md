@@ -52,7 +52,7 @@ steps:
         échelle, avec une équipe élargie, pilotée par des indicateurs de
         performance. La mobilisation de ressources financières plus importantes
         est nécessaire, en soutien au déploiement et la promotion du service.
-      icon: img/4_amplifier.png
+      icon: /img/4_amplifier.png
       step: Accélération
       duration: 12 mois
       title: Passer à l’échelle, amplifier l’impact
@@ -66,7 +66,7 @@ steps:
         logiciel que de continuer à faire évoluer le produit. L'EIG facilite la
         transition vers une organisation produit pérenne, qu'elle ou il pourra
         rejoindre plus durablement au sein de l'administration porteuse. "
-      icon: img/3_prouver_la_valeur.png
+      icon: /img/3_prouver_la_valeur.png
 layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
@@ -112,8 +112,6 @@ how:
 
     La sélection des projets et le recrutement des EIG seront opérés au fil de l'eau en 2024, à rythme bimestriel, jusqu'à 30 EIG pour la 7ème promotion.
 
-
-    ![]()
 then:
   desc: >-
     ## Et après ?

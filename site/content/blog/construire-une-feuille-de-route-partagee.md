@@ -10,7 +10,7 @@ date: 2018-04-04T00:00:00.000Z
 visible: true
 ---
 
-![Dans une grande salle, les EIG de la promotion 2 sont assis à des pupitres individuels et discutent entre eux.](/img/blog/LLL-1-photo-groupe.jpg)
+![Dans une grande salle, les EIG de la promotion 2 sont assis à des pupitres individuels et discutent entre eux.](/img/LLL-1-photo-groupe.jpg)
 _La promotion 2 des EIG au [Liberté Living Lab](https://www.liberte.paris/), qui a préparé cette session "feuille de route" (© Sophie Miljkovic)_
 
 Jeudi 8 mars, les Entrepreneur(e)s d’Intérêt Général (EIG) se sont
@@ -42,7 +42,7 @@ son défi**. Chaque acteur clé étant une ressource que l’on peut
 mobiliser, plus on en trouve, mieux c’est ! Conseil appliqué à la lettre
 par Bastien… tout en acronymes.
 
-![Sur une page blanche, sont listés les utilisateurs et les structures-ressources que Bastien a identifiés.](/img/blog/LLL-1-acteurs-cles.jpg)
+![Sur une page blanche, sont listés les utilisateurs et les structures-ressources que Bastien a identifiés.](/img/LLL-1-acteurs-cles.jpg)
 _Les acteurs-clés identifiés par Bastien. (© Sophie Miljkovic)_
 
 # *Travailler son produit*
@@ -72,15 +72,15 @@ son projet**. Pour cela on peut recourir aux « value proposition
 canvas ». L’idée est de répondre aux besoins, désirs et impératifs qui
 animent l’utilisateur –- ou « pains », « gains » et « customer job ».
 Plus facile à faire qu’à dire, voici celui d’Elise et de Julien qui
-travaillent sur le projet [*Social Connect*](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/).
+travaillent sur le projet [*Social Connect*](/defis/social-connect/).
 
-![Sur une page blanche, sont représentés deux cercles. Dans le cercle de droite sont notés les besoins, désirs et impératifs d'un utilisateur de l'outil de Social Connect. Dans le cercle de gauche, en miroir du cercle de droite, sont notées les solutions apportées aux besoins, désirs et impératifs de l'utilisateur par l'outil de Social Connect.](/img/blog/LLL-1-canvas.jpg)
+![Sur une page blanche, sont représentés deux cercles. Dans le cercle de droite sont notés les besoins, désirs et impératifs d'un utilisateur de l'outil de Social Connect. Dans le cercle de gauche, en miroir du cercle de droite, sont notées les solutions apportées aux besoins, désirs et impératifs de l'utilisateur par l'outil de Social Connect.](/img/LLL-1-canvas.jpg)
 _Le "value proposition canvas" dûment complété par Elise et Julien. (© Sophie Miljkovic)_
 
 Elise et Julien ont d’ailleurs anticipé l’étape d’après : **organiser
 son travail**. Ils ont fait un choix très clair. Celui du post-it.
 
-![Sur un mur blanc, des post-its de couleurs différentes sont rangés en lignes et colonnes très propres.](/img/blog/LLL-1-post-it.jpg)
+![Sur un mur blanc, des post-its de couleurs différentes sont rangés en lignes et colonnes très propres.](/img/LLL-1-post-it.jpg)
 _Un des murs du bureau d'Elise et de Julien. Rassurez-vous, les autres sont tout aussi beaux. Et la porte aussi. (© Sophie Miljkovic)_
 
 ## Tester son produit
@@ -100,7 +100,7 @@ service public oblige -- mais ils doivent tout de même réussir à
 s’implanter dans leurs administrations respectives.  Pour cela, rien
 de tel qu’un **plan de déploiement** consolidé par des **actions de
 pérennisation** de son produit. La preuve qu’on peut préparer cette
-étape dès le début de l’aventure : l’équipe de [*Lab Santé*](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/) a déjà
+étape dès le début de l’aventure : l’équipe de [*Lab Santé*](/defis/lab-sante/) a déjà
 organisé des ateliers de formation pour les futurs utilisateurs de son
 produit. Mais on peut voir encore plus grand. Tous les outils créés
 par les EIG sont ouverts et peuvent donc être utilisés par d’autres
@@ -113,5 +113,5 @@ feuille de route globale pour les EIG. Conçue spécialement pour eux,
 elle n’est pourtant pas gravée dans le marbre et peut être amenée à
 évoluer. Tout comme les projets d’ailleurs. On vous tient au courant !
 
-Retrouvez la description des projets EIG - Promo 2 sur [notre site](https://entrepreneur-interet-general.etalab.gouv.fr/).
+Retrouvez la description des projets EIG - Promo 2 sur [notre site](/).
 Et sur le Github du [Programme EIG](https://github.com/entrepreneur-interet-general)

@@ -16,9 +16,9 @@ related:
     Ishan Bhojwani
 visible: true
 ---
-!["Dématérialiser, c'est avant tout s'impregner des contraintes et redonner confiance aux agents, pour moderniser et encapaciter les services."](https://www.eig.numerique.gouv.fr/img/eig-7-cover-article-hugo-stephan.jpg "Verbatim d'Hugo Stéphan")
+!["Dématérialiser, c'est avant tout s'impregner des contraintes et redonner confiance aux agents, pour moderniser et encapaciter les services."](/img/eig-7-cover-article-hugo-stephan.jpg "Verbatim d'Hugo Stéphan")
 
-*Comment le numérique peut-il servir l’intérêt général ? Rencontre avec [Hugo Stéphan](https://eig.numerique.gouv.fr/personnes/hugo-stephan/), lauréat de la 3ème promotion des Entrepreneur(e)s d’intérêt général. Journaliste pour le magazine Usbek & Rica, puis designer au sein de l’agence Vraiment Vraiment, Hugo a cofondé [Réfugiés.info](https://refugies.info/), une plateforme d’information pour les personnes réfugiées et leurs accompagnant(e)s. Il s’engage depuis 2019 pour la modernisation des services publics par le design.*
+*Comment le numérique peut-il servir l’intérêt général ? Rencontre avec [Hugo Stéphan](/personnes/hugo-stephan/), lauréat de la 3ème promotion des Entrepreneur(e)s d’intérêt général. Journaliste pour le magazine Usbek & Rica, puis designer au sein de l’agence Vraiment Vraiment, Hugo a cofondé [Réfugiés.info](https://refugies.info/), une plateforme d’information pour les personnes réfugiées et leurs accompagnant(e)s. Il s’engage depuis 2019 pour la modernisation des services publics par le design.*
 
 **Ton parcours professionnel commence par le journalisme. Tu t’es ensuite réorienté vers le design de service. Deux métiers qui s’appuient sur la recherche, l’immersion, l’observation. Deux métiers aussi qui portent un regard aigu sur des sujets complexes. Qu’est-ce que le journalisme a apporté à ta pratique du design ?**
 
@@ -32,9 +32,9 @@ D’abord en passant du temps à négocier puis à garantir, auprès de ma hiér
 
 Une fois la confiance construite avec la hiérarchie et les services connexes, le cadre d’action s’ouvre et permet d’avancer. Concrètement, avoir une attention pour [les décideurs et les partenaires institutionnels](https://refugies.info/fr/qui-sommes-nous) c’est se poser les questions suivantes : sont-ils suffisamment informés, leurs réserves ont-elles été entendues ? Notre posture est-elle adaptée à leurs contraintes ? Et en parallèle, tel un entrepreneur classique, toujours oser, lancer, démarrer, avancer sans attendre des boucles de validation dont l’issue positive est pressentie. L’adage « demander pardon, plutôt que la permission » reste très pertinent dans une volonté de modernisation, surtout au sein de l’administration.
 
-Au-delà de ces évidences, s’entourer des bonnes personnes, ayant une expertise, un réseau ou un vécu adapté est crucial pour adresser la cause avec justesse : ici, le projet est porté d’une part à haut niveau par [Alain Régnier](https://eig.numerique.gouv.fr/personnes/alain-regnier/), un préfet maîtrisant la création de nouveaux programmes et l’administration des publics vulnérables et d’autre part, au quotidien, par [Nour Allazkani](https://www.youtube.com/watch?v=6AmlmEokbMo), un cofondateur lui-même réfugié, ayant vécu un parcours d’intégration et développé un réseau facilitant le déploiement du projet.
+Au-delà de ces évidences, s’entourer des bonnes personnes, ayant une expertise, un réseau ou un vécu adapté est crucial pour adresser la cause avec justesse : ici, le projet est porté d’une part à haut niveau par [Alain Régnier](/personnes/alain-regnier/), un préfet maîtrisant la création de nouveaux programmes et l’administration des publics vulnérables et d’autre part, au quotidien, par [Nour Allazkani](https://www.youtube.com/watch?v=6AmlmEokbMo), un cofondateur lui-même réfugié, ayant vécu un parcours d’intégration et développé un réseau facilitant le déploiement du projet.
 
-![L’information simple et traduite pour les personnes réfugiées en France](https://www.eig.numerique.gouv.fr/img/visuel-1-app-ri-image.png "Réfugiés.info")
+![L’information simple et traduite pour les personnes réfugiées en France](/img/visuel-1-app-ri-image.png "Réfugiés.info")
 
 **Designer ou entreprendre, c’est embrasser l’incertitude. Il faut se mettre en capacité de découvrir des problèmes sous-jacents, de concevoir des dispositifs auxquels on n’avait pas pensé. T’es-tu déjà trouvé face à un problème inattendu, mais avéré et majeur ? Quelle réponse as-tu apportée ? Quels effets as-tu pu observer ?**
 

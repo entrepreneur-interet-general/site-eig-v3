@@ -10,9 +10,9 @@ date: 2018-07-27T00:00:00.000Z
 visible: true
 ---
 
-Le programme Entrepreneur.e d'Intérêt Général permet non seulement de [mobiliser un collectif engagé de professionnels du numérique](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents.html), mais aussi de rassembler une communauté d'agents publics expérimentés et passionnés par l'amélioration du service public : **les mentors qui portent les défis EIG au sein des administrations**. Au cours de cette deuxième édition du programme EIG, nous avons pu constater l'importance d'offrir aux mentors des espaces pour partager leurs expériences, au même titre que les EIG.
+Le programme Entrepreneur.e d'Intérêt Général permet non seulement de [mobiliser un collectif engagé de professionnels du numérique](/blog/bootcamp-comment-souder-un-collectif-de-talents/), mais aussi de rassembler une communauté d'agents publics expérimentés et passionnés par l'amélioration du service public : **les mentors qui portent les défis EIG au sein des administrations**. Au cours de cette deuxième édition du programme EIG, nous avons pu constater l'importance d'offrir aux mentors des espaces pour partager leurs expériences, au même titre que les EIG.
 
-![Bastien qui montre sa vie de développeur](/img/blog/session-mentors-1.jpg)
+![Bastien qui montre sa vie de développeur](/img/session-mentors-1.jpg)
 _Bastien Guerry, EIG Link à Etalab, présente au collectif des mentors la semaine type d'un développeur : terminal, Stack Overflow, github... © Soizic Pénicaud_
 
 Lors de cette session de mi-parcours, les mentors ont abordé quatre thèmes : réussites / apprentissages / ce que je ferais différemment / conseils aux futurs mentors EIG3.
@@ -30,12 +30,12 @@ Cet atelier a permis de confirmer que, bien qu'ayant des profils métiers très 
 
 **Une des réussites pour l'équipe en charge du programme au sein d'Etalab** : voir les mentors acquérir des **compétences de médiation au sein de leurs services**, faisant dialoguer les métiers et la technique. Savoir faire le pont entre des personnes aux compétences diverses est un rôle essentiel pour construire des outils numériques pérennes et adaptés aux utilisateurs.
 
-![Soizic et les post-its des mentors](/img/blog/session-mentors-2.jpg)
+![Soizic et les post-its des mentors](/img/session-mentors-2.jpg)
 _Soizic Pénicaud, membre de l'équipe EIG au sein d'Etalab, anime cette session de retour d'expérience © Sophie Miljkovic_
 
 ## Une question plus générale : le recrutement des professionnels du numérique dans l'administration
 
 Durant les réflexions de l'après-midi, une question dépassant le champ du programme EIG est revenue régulièrement : celle du recrutement de profils numériques dans l'administration et des compétences numériques internes des services. Suite à ces discussions, les mentors ont décidé de se réunir pour écrire une note collective sur ces sujets. Affaire à suivre !
 
-![Photo de classe des mentors EIG2](/img/blog/session-mentors-3.jpg)
+![Photo de classe des mentors EIG2](/img/session-mentors-3.jpg)
 _Photo de classe des mentors EIG2. De gauche à droite : Renaud Périn, Hélène Cavalié, Emmanuel Weisenburger, Mathilde Bras, Yann Caradec, Bénédicte Pachod, Anne Lambert, Chloé Moser, Rémy Nollet, Delphine Le, Stéphanie Schaer, Caroline Pisarz, Eric Le Guen © Sophie Miljkovic_

@@ -13,11 +13,11 @@ visible: true
 
 En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site [collection.mobiliernational.culture.gouv.fr](https://collection.mobiliernational.culture.gouv.fr). Ces pièces d’une valeur historique et esthétique exceptionnelle étaient difficilement accessible jusque-là…
 
-Pour les révéler au public, les entrepreneur(e)s d'intérêt général (EIG) [Ned Baldessin](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/ned-baldessin.html) et [Laurie Chapotte](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/laurie-chapotte.html) ont choisi de concevoir un site en utilisant **une démarche design, centrée utilisateur** : afin de définir et prioriser leur travail, ils ont rencontré et questionné en amont les futurs utilisateurs. De cette analyse sont nés des personas, soit des usagers type : chercheur, conservateur, créateur… Ils ont permis d’imaginer la première version de ce site avec pour objectif de concevoir en un minimum de temps - 1 an-, un outil répondant aux besoins principaux.
+Pour les révéler au public, les entrepreneur(e)s d'intérêt général (EIG) [Ned Baldessin](/personnes/ned-baldessin/) et [Laurie Chapotte](/personnes/laurie-chapotte/) ont choisi de concevoir un site en utilisant **une démarche design, centrée utilisateur** : afin de définir et prioriser leur travail, ils ont rencontré et questionné en amont les futurs utilisateurs. De cette analyse sont nés des personas, soit des usagers type : chercheur, conservateur, créateur… Ils ont permis d’imaginer la première version de ce site avec pour objectif de concevoir en un minimum de temps - 1 an-, un outil répondant aux besoins principaux.
 
 **Trois mois après le lancement, qui utilise concrètement ce site, et pour quoi faire ?** 
 
-![Une page web : sur la gauche, à la verticale, un menu qui propose une barre de recherche et de nombreux filtres, sur la droite, des vignettes qui présentent des objets, meubles, tapisseries...](/img/blog/gobelins-interface-V7.jpg)_Un aperçu du site des collections du Mobilier national_
+![Une page web : sur la gauche, à la verticale, un menu qui propose une barre de recherche et de nombreux filtres, sur la droite, des vignettes qui présentent des objets, meubles, tapisseries...](/img/gobelins-interface-V7.jpg)_Un aperçu du site des collections du Mobilier national_
 
 ----
 
@@ -33,7 +33,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 « Pour un de mes décors, **je souhaitais faire imprimer un tapis en très grande taille, et de suffisamment bonne qualité**. J’ai choisi le GMT 2073 sur le nouveau site du Mobilier national. Un tapis de style Empire réalisé par la Manufacture de la Savonnerie. Il me fallait une image de plus haute qualité que celle sur le site, je me suis donc ensuite rendu au Mobilier national pour récupérer ces documents. **On trouve donc la reproduction de ce tapis pour le spectacle de [Barbe bleu](https://www.opera-lyon.com/fr/20182019/opera/barbe-bleue) qui a commencé le 14 juin à l’Opéra de Lyon !** »
 
 
-![Une scène d'opéra. Au premier plan, un tapis de style Empire, rouge avec des motifs jaunes et bleus. Dessus, un couple de mariés s'avance en direction d'une arche fleurie.](/img/blog/gobelins-barbebleue_BD.jpg)_Le tapis GMT 2073 habille la scène de l'Opéra de Lyon © Stofleth_
+![Une scène d'opéra. Au premier plan, un tapis de style Empire, rouge avec des motifs jaunes et bleus. Dessus, un couple de mariés s'avance en direction d'une arche fleurie.](/img/gobelins-barbebleue_BD.jpg)_Le tapis GMT 2073 habille la scène de l'Opéra de Lyon © Stofleth_
 
 ---
 
@@ -49,7 +49,7 @@ Cette base de données permet en quelques clics d'accéder à des milliers d'oeu
 « Avant d’être au nuancier j’étais licière, et l’on n'avait rien pour se rappeler des tapisseries que l'on tissait, juste notre mémoire. 
 Quand je suis arrivée au nuancier en 1998, j’avais une curiosité personnelle ; j’avais dans mes mains la couleur « Chagall » et j’avais envie d’en savoir plus, découvrir la pièce pour laquelle cette couleur avait été créée! J’allais donc dans les registres, mais c’était limité et il n’y avait pas de visuel. Donc ce site fait plaisir, je ne l’utilise pas tous les jours et je regarde seulement les tapis et tapisseries, mais **j’y trouve les informations que je veux, et que je ne veux pas**. Je suis assez étonnée de voir comment je n’ai pas hésité à changer les axes de recherches alors que je suis très maladroite avec tout ce qui est écran, même acheter un billet de train c’est tout une aventure. **Mais là, je n’ai pas peur de cliquer partout et j’ai mes réponses.** » 
 
-![Un motif de tapisserie, en camaïeu de roses sur fond vert](/img/blog/gobelins-chagall-BD.jpg)_Détail de la tapisserie contenant la couleur « Chagall »_
+![Un motif de tapisserie, en camaïeu de roses sur fond vert](/img/gobelins-chagall-BD.jpg)_Détail de la tapisserie contenant la couleur « Chagall »_
 
 ----
 
@@ -68,7 +68,7 @@ D’un scroll au sein de ce flux continu et presque infini de photographies, est
 
 COLLECTION MN 19 – NÉES DES ARCHIVES est un projet initiée par Camille Gasser et conçue avec Bérénice Milon. Tissée en collaboration avec Camille Mouchet et Margot Parcillié.
 
-![Au centre d'une pièce aux murs blancs, une femme de face porte une cape-tapis sur son épaule droite. La cape-tapis est très colorée et volumineuse. Autour de cette image centrale sont disposées de nombreuses images de meubles, d'objets et d'éléments architecturaux.](/img/blog/gobelins-MN19_BD.jpg)_La collection MN 19, inspirée des collections du Mobilier national_
+![Au centre d'une pièce aux murs blancs, une femme de face porte une cape-tapis sur son épaule droite. La cape-tapis est très colorée et volumineuse. Autour de cette image centrale sont disposées de nombreuses images de meubles, d'objets et d'éléments architecturaux.](/img/gobelins-MN19_BD.jpg)_La collection MN 19, inspirée des collections du Mobilier national_
 
 ---
 

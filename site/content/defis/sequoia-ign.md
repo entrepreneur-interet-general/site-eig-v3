@@ -30,6 +30,6 @@ Le défi s’est articulé autour de deux axes, et a reposé notamment sur la mo
 
 ## Réalisations
 
-{{< arrow-link url="img/sequoia_rechercheux_compressed.pdf" title="Résultats de la recherche utilisateur" target="true" >}}
+{{< arrow-link url="/img/sequoia_rechercheux_compressed.pdf" title="Résultats de la recherche utilisateur" target="true" >}}
 
-{{< arrow-link url="img/sequoia_cas-d-usages_compressed.pdf" title="Cas d’usages" target="true" >}}
+{{< arrow-link url="/img/sequoia_cas-d-usages_compressed.pdf" title="Cas d’usages" target="true" >}}
