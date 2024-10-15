@@ -1,5 +1,5 @@
 ---
-title: Devis Facile
+title: Mon devis sans oubli
 description: Limiter les allers-retours sur les devis et les factures lors de
   l'instruction des dossiers de demandes d'aides à la rénovation énergétique
   pour les logements des particuliers
