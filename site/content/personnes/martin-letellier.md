@@ -6,7 +6,7 @@ promos:
   - Promotion 7
 role: participant
 defis:
-  - Devis Facile
+  - Mon devis sans oubli
 expertises:
   - Direction de produit
 image: img/eig-7-martin-letellier.jpg
