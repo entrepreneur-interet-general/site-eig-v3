@@ -66,22 +66,12 @@
       </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
-      {{ $filtered := where (where .Site.RegularPages "Type" "personnes") "Params.promos" "intersect" (slice "Promotion 7") }}
-      {{ $len := len $filtered }}
-      {{ $lastThree := slice $filtered (sub $len 3) $len }} {{/* Initialize lastThree */}}
-      
-      {{ if gt $len 3 }}
-        {{ $lastThree = slice $filtered (sub $len 3) $len }} {{/* Update lastThree if there are more than 3 items */}}
-      {{ else }}
-        {{ $lastThree = $filtered }} {{/* Use all if fewer than 3 items */}}
-      {{ end }}
-    
-      {{ range $lastThree }}
+      {{ range last 3 (where (where .Site.RegularPages "Type" "personnes") "Params.promos" "intersect" (slice "Promotion 7")) }}
         <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
           {{ .Render "li" }}
         </div>
       {{ end }}
-    </div>
+    </div>    
     <div class="c-section__btn">
       <a href="{{ relref . " talents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres entrepreneur(e)s</a>
     </div>
