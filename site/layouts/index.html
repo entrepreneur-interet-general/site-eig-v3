@@ -68,18 +68,22 @@
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ $filtered := where (where .Site.RegularPages "Type" "personnes") "Params.promos" "intersect" (slice "Promotion 7") }}
       {{ $len := len $filtered }}
+      
       {{ if gt $len 3 }}
         {{ $lastThree := slice $filtered (sub $len 3) $len }}
       {{ else }}
         {{ $lastThree := $filtered }}
       {{ end }}
-      
-      {{ range $lastThree }}
-        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-          {{ .Render "li" }}
-        </div>
+    
+      {{ with $lastThree }}
+        {{ range . }}
+          <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+            {{ .Render "li" }}
+          </div>
+        {{ end }}
       {{ end }}
     </div>
+    
     <div class="c-section__btn">
       <a href="{{ relref . " talents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres entrepreneur(e)s</a>
     </div>
