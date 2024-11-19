@@ -49,7 +49,7 @@ Pour ce faire, l’outil devra répondre à trois objectifs en permettant une en
 
 Durant les 10 mois de notre défi, nous avons pu **produire un prototype qui a été testé par les utilisateurs et montré publiquement**. Les retours positifs et l’enthousiasme des utilisateurs nous ont confortés dans l’idée d’industrialiser ce prototype.
 
-![](img/sedaccord_timeline_2020.png)
+![](/img/sedaccord_timeline_2020.png)
 
 A partir de l’été 2021, grâce à un financement de 99 000 euros du Plan de relance, nous allons **poursuivre les développements** à partir de la base de code existante avec pour objectif de **l’intégrer à l’interface [Vitam UI](https://www.programmevitam.fr/pages/logiciel/logiciel_frontoffice/)** et de le rendre utilisable en production.
 

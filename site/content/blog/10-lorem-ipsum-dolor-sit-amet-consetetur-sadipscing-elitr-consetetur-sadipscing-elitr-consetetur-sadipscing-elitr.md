@@ -12,7 +12,7 @@ related:
   - Plus d’un an après, que deviennent les défis de la promotion 3 ?
 visible: true
 ---
-![](img/linkedin_annoncepromo5.jpg)
+![](/img/linkedin_annoncepromo5.jpg)
 
 
 
@@ -22,7 +22,7 @@ visible: true
 
 C’est **aux côtés de ces agents publics, au cœur de leurs administrations** respectives, que les 39 EIG relèveront **16 défis**. Nous avons le plaisir de les révéler ici :
 
-***[Basegun](https://eig.etalab.gouv.fr/defis/basegun/) – Ministère de l’intérieur*** 
+***[Basegun](/defis/basegun/) – Ministère de l’intérieur*** 
 
 *Proposer aux forces de l’ordre un outil simple pour classer et identifier toute arme*
 
@@ -31,7 +31,7 @@ EIG lauréats :
 * Beryl Armand, développeuse
 * Sarah Gross, data scientist
 
-***[BatID](https://eig.etalab.gouv.fr/defis/batid/) – Agence de la Transition écologique et Centre Scientifique et Technique du Bâtiment***
+***[BatID](/defis/batid/) – Agence de la Transition écologique et Centre Scientifique et Technique du Bâtiment***
 
 *Créer un identifiant unique bâtiment afin de faciliter le suivi des politiques de rénovation énergétique*
 
@@ -40,7 +40,7 @@ EIG lauréats :
 * Elisabeth Talbourdet, juriste du numérique
 * Félix Veith, data engineer
 
-***[Cyberimpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/) – Direction générale de la Gendarmerie nationale***
+***[Cyberimpact](/defis/cyberimp-ct/) – Direction générale de la Gendarmerie nationale***
 
 *Développer un outil permettant de visualiser les indicateurs clés du domaine cyber*
 
@@ -49,7 +49,7 @@ EIG lauréats :
 * Antoine Mazieres, data scientist
 * Alexandre Thomas, data engineer
 
-***[DaSES](https://eig.etalab.gouv.fr/defis/dases/) – Ministère de l’Education nationale et de la Jeunesse***
+***[DaSES](/defis/dases-1/) – Ministère de l’Education nationale et de la Jeunesse***
 
 *Mobiliser les données d’éducation pour mieux accompagner les élèves dans leurs apprentissages et leur orientation*
 
@@ -59,7 +59,7 @@ EIG lauréats :
 * Perrin Grandne, data engineer
 * Mathieu Strabach, designer
 
-***[DataRH](https://eig.etalab.gouv.fr/defis/datarh/) – Agence régionale de santé d’Auvergne- Rhône-Alpes***
+***[DataRH](/defis/datarh/) – Agence régionale de santé d’Auvergne- Rhône-Alpes***
 
 *Favoriser un travail transparent et collaboratif autour des politiques RH et de santé*
 
@@ -68,7 +68,7 @@ EIG lauréats :
 * Vedran Beric, designer
 * Abdoulaye Diallo, data engineer
 
-***[Décos](https://eig.etalab.gouv.fr/defis/decos/) – Ministère de l’Intérieur***
+***[Décos](/defis/decos/) – Ministère de l’Intérieur***
 
 *Développer un outil qui permettra de gérer simplement l’ensemble des procédures liées aux distinctions honorifiques*
 
@@ -77,7 +77,7 @@ EIG lauréats :
 * Alexis Lavie, développeur
 * Emily Betham, designer
 
-***[e-PSHAD](https://eig.etalab.gouv.fr/defis/e-pshad/) – Etablissement Public National Antoine Koenigswarter et Caisse nationale d’assurance maladie***
+***[e-PSHAD](/defis/e-pshad/) – Etablissement Public National Antoine Koenigswarter et Caisse nationale d’assurance maladie***
 
 *Accompagner les personnes en situation de handicap dans leur parcours de réadaptation professionnelle*
 
@@ -87,7 +87,7 @@ EIG lauréats :
 * Simon Denier, développeur
 * Béatrice Le Thuc, designer
 
-***[EIG Link](https://eig.etalab.gouv.fr/defis/eig-link/) – Direction interministérielle du numérique***
+***[EIG Link](/defis/eig-link/) – Direction interministérielle du numérique***
 
 *Assurer la réussite de la promotion EIG 5*
 
@@ -97,7 +97,7 @@ EIG lauréats :
 * Elisabeth Fainstein, développeuse
 * Thomas Parisot, product manager
 
-***[Fabrique numérique](https://eig.etalab.gouv.fr/defis/fabrique-numerique/) – Direction générale des finances publiques***
+***[Fabrique numérique](/defis/fabrique-numerique/) – Direction générale des finances publiques***
 
 *Aider à la mise en place de l’incubateur numérique de la DGFiP*
 
@@ -106,7 +106,7 @@ EIG lauréats :
 * Laurent Barbat, designer
 * Mathieu Perez, développeur
 
-***[GDR Santé](https://eig.etalab.gouv.fr/defis/gdr-sante/) – Agence nationale de sécurité́ du médicament et des produits de santé***
+***[GDR Santé](/defis/gdr-sante/) – Agence nationale de sécurité́ du médicament et des produits de santé***
 
 *Sécuriser les processus d’autorisation-surveillance des médicaments et produits de santé*
 
@@ -116,7 +116,7 @@ EIG lauréats :
 * Jordan Munoz, développeur
 * Arnaud Valladier, data scientist
 
-***[Green Data for Health](https://eig.etalab.gouv.fr/defis/green-data-for-health/) – Ministère de la Transition Ecologique, CGDD***
+***[Green Data for Health](/defis/green-data-for-health/) – Ministère de la Transition Ecologique, CGDD***
 
 *Identifier les effets des facteurs environnementaux sur la santé par la donnée*
 
@@ -126,7 +126,7 @@ EIG lauréats :
 * Sabrina Hammoudi, juriste du numérique
 * Constance de Quatrebarbes, data engineer
 
-***[Mes services Greentech](https://eig.etalab.gouv.fr/defis/mes-services-greentech/) – Ministère de la Transition Ecologique, CGDD***
+***[Mes services Greentech](/defis/mes-services-greentech/) – Ministère de la Transition Ecologique, CGDD***
 
 *Développer un portail de services et de données ouvertes à destination de l’écosystème Greentech*
 
@@ -136,7 +136,7 @@ EIG lauréats :
 * Alexis Brissard, développeur
 * Charlotte Samson, data scientist
 
-***[Prev-AC-Tion](https://eig.etalab.gouv.fr/defis/prev-ac-tion/) – Ministère de la Mer***
+***[Prev-AC-Tion](/defis/prev-ac-tion/) – Ministère de la Mer***
 
 *Prévenir les risques et les maladies professionnelles dans le secteur maritime*
 
@@ -145,7 +145,7 @@ EIG lauréats :
 * Anne-Lise Coudry, développeuse
 * Philippe Galvan, data engineer
 
-***[SMASH](https://eig.etalab.gouv.fr/defis/smash/) – Ministère des Solidarités et de la Santé – DREES***
+***[SMASH](/defis/smash/) – Ministère des Solidarités et de la Santé – DREES***
 
 *Anticiper les dépenses en personnel des hôpitaux et l’impact des réformes sur leur viabilité*
 
@@ -154,7 +154,7 @@ EIG lauréats :
 * Maud Galametz, data scientist
 * Gilles Gonon, data scientist
 
-***[TRISTAN](https://eig.etalab.gouv.fr/defis/tristan/) – Ministère de la Justice***
+***[TRISTAN](/defis/tristan/) – Ministère de la Justice***
 
 *Proposer un outil d’aide à la préparation des audiences permettant aux magistrats d’appréhender rapidement les éléments clés d’une affaire*
 
@@ -164,7 +164,7 @@ EIG lauréats :
 * Ryan Lahfa, développeur
 * Chloé Rotrou, designer
 
-***[UrssafassuR](https://eig.etalab.gouv.fr/defis/urssafassur/) – Urssaf Caisse nationale***
+***[UrssafassuR](/defis/urssafassur/) – Urssaf Caisse nationale***
 
 *Développer un service en ligne permettant aux particuliers de sécuriser la relation avec leurs prestataires de travaux*
 

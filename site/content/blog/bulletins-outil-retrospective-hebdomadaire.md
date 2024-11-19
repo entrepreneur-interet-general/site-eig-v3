@@ -37,9 +37,9 @@ Nous n'avons pas trouvé d'outil se rapprochant de notre besoin sur le marché e
 
 Au lieu d’interrompre le travail de tout le monde, notre outil permet à chaque équipe de faire un bilan écrit de la semaine écoulée. Les rétrospectives sont saisies dans un formulaire, que chaque équipe remplit quand bon lui semble — du moment qu’elle le remplit à temps. Une fois renseignées, les rétrospectives sont ensuite agrégées dans un e-mail qui est envoyé à tout le monde, et que chacun peut lire quand bon lui semble. Les informations circulent ainsi sans nécessiter de réunion.
 
-![Formulaire web permettant de remplir sa rétrospective hebdomadaire](/img/blog/bulletins-form.png)_Capture d'écran du formulaire de la rétrospective hebdomadaire_
+![Formulaire web permettant de remplir sa rétrospective hebdomadaire](/img/bulletins-form.png)_Capture d'écran du formulaire de la rétrospective hebdomadaire_
 
-![Interface web permettant la consultation des précédentes rétrospectives](/img/blog/bulletins-history.png)_Capture d'écran de la consultation des précédentes rétrospectives d'un projet_
+![Interface web permettant la consultation des précédentes rétrospectives](/img/bulletins-history.png)_Capture d'écran de la consultation des précédentes rétrospectives d'un projet_
 
 Nous avons longuement réfléchi aux questions à poser et nous nous sommes arrêtés sur les questions suivantes :
 - quel est votre état d'esprit ?

@@ -26,7 +26,7 @@ Depuis 20 ans, l'État pousse les sujets d'accessibilité :
 
 L'accessibilité n'est plus une option, elle est un fil conducteur à intégrer dans chaque projet. 
 
-Au sein de la DINSIC, l'équipe Qualité des services en ligne produit de nombreuses ressources comme les [10 principes d'une démarche exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/) ou les labels [e-accessible](http://references.modernisation.gouv.fr/e-accessible) et [cerfa numérique](http://references.modernisation.gouv.fr/cerfa-numerique). C'est pourquoi l'équipe Qualité des services a été présentée aux entrepreneur(e)s d'intérêt général (EIG) lors de [leur bootcamp](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/03/12/bootcamp-eig3.html). Les EIG sont des data scientists, designers, développeuses et développeurs qui travaillent pendant 10 mois en équipes pluridisciplinaires de 2 ou 3 pour relever des défis d'amélioration du service public à l'aide du numérique et des données. L'objectif était de sensibiliser au maximum ces professionnels du numérique aux enjeux de l'accessibilité. 
+Au sein de la DINSIC, l'équipe Qualité des services en ligne produit de nombreuses ressources comme les [10 principes d'une démarche exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/) ou les labels [e-accessible](http://references.modernisation.gouv.fr/e-accessible) et [cerfa numérique](http://references.modernisation.gouv.fr/cerfa-numerique). C'est pourquoi l'équipe Qualité des services a été présentée aux entrepreneur(e)s d'intérêt général (EIG) lors de [leur bootcamp](/blog/bootcamp-eig3/). Les EIG sont des data scientists, designers, développeuses et développeurs qui travaillent pendant 10 mois en équipes pluridisciplinaires de 2 ou 3 pour relever des défis d'amélioration du service public à l'aide du numérique et des données. L'objectif était de sensibiliser au maximum ces professionnels du numérique aux enjeux de l'accessibilité. 
 
 
 ## Deux démonstrations pour comprendre les enjeux de l'accessibilité
@@ -35,7 +35,7 @@ Avec le département Qualité des services en ligne, nous avons organisé deux d
 
 Initialement destinées aux EIG, ces démonstrations ont suscité beaucoup d'intérêt et ont donc été ouvertes aux membres de la [communauté UX](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/) et de la [communauté Qualité web](https://www.modernisation.gouv.fr/le-hub-des-communautes/qualite-des-demarches-en-ligne-et-accessibilite-numerique). Chaque démonstration a été filmée et _livetwittée_, vous pouvez donc les regarder ou les revoir. Elles durent environ 30 min et sont suivies d'un temps de questions-réponses qui témoignent des étonnements du public.
 
-![Un homme est assis face à une assemblée de 30 personnes. Derrière lui, la plateforme data.gouv.fr est projetée sur le mur.](/img/blog/demo-a11y-20190404.jpeg) _Jamshid Kohandel navigue sur la plateforme [data.gouv.fr](https://data.gouv.fr)_
+![Un homme est assis face à une assemblée de 30 personnes. Derrière lui, la plateforme data.gouv.fr est projetée sur le mur.](/img/demo-a11y-20190404.jpeg) _Jamshid Kohandel navigue sur la plateforme [data.gouv.fr](https://data.gouv.fr)_
 
 
 ### 1. Démonstration sur ordinateur - plateforme data.gouv.fr 

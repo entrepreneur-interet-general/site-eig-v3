@@ -26,21 +26,21 @@ d’intérêt général s’immergent dans la complexité administrative,
 découvrent les subtilités des organigrammes, et se déplacent sur le
 terrain pour constater la diversité des métiers du service public
 (Pompiers pour
-[Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/),
+[Prévisecours](/defis/previsecours/),
 Gendarmes pour [Brigade
-Numérique](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/brigadenumerique/),
+Numérique](/defis/brigade-numerique/),
 Sauveteurs en mer pour
-[Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/),
+[Prédisauvetage](/defis/predisauvetage/),
 Archivistes pour
-[Archifiltre](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/),
+[Archifiltre](/defis/archifiltre/),
 statisticiens pour [Lab
-Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/)). Cette
+Santé](/defis/lab-sante/)). Cette
 période d’exploration comprend bien sûr une dimension technique :
 travail sur les données, développement, design, etc.
 
 Au moment de décider d’une feuille de route partagée entre EIG et
 mentors (voir [le post de Sophie sur la feuille de
-route](https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/04/04/construire-une-feuille-de-route-partagee/)),
+route](/blog/construire-une-feuille-de-route-partagee/)),
 et avant de partir dans des cycles de développement, rien de mieux que
 de reposer une question fondamentale : *pour qui développons-nous ce
 produit* ? Rien de pire que de développer un produit qui ne trouve
@@ -49,7 +49,7 @@ finalement aucun utilisateur direct ni bénéfice mesurable.
 # Se mettre dans la peau de ses utilisateurs
 
 Quentin Decock, animateur technique du Liberté Living Lab et Elise
-Lalique, entrepreneure d’intérêt général sur le défi [Social Connect](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/),
+Lalique, entrepreneure d’intérêt général sur le défi [Social Connect](/defis/social-connect/),
 nous ont fait part de quelques méthodes de recherche produit.
 
 En préalable, **un principe de base : « You are not your user »**. On
@@ -92,12 +92,12 @@ d’empathie sont des supports de dialogue au sein d’une équipe projet.
   de distinguer les produits et services à développer en fonction de
   ces catégories.
   
-![Carte d'empathie type](/img/blog/ex-empathy-map.jpg)
+![Carte d'empathie type](/img/ex-empathy-map.jpg)
 _Une carte d'empathie type_
 
 Lors de notre atelier, nous avons réalisé en direct une carte
 d’empathie d’un des utilisateurs du défi
-[Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/). Elsa
+[Prédisauvetage](/defis/predisauvetage/). Elsa
 Luneville, Antoine Augusti et leurs mentors Laurence Matringe et
 Renaud Perin nous ont exposé les différentes dimensions du défi, et
 nous avons choisi de dessiner la carte d’empathie pour les membres des
@@ -110,7 +110,7 @@ transmettre au SNOSAN (Système national d’observation de la sécurité
 des activités nautiques) des données qui nourrissent des rapports
 statistiques sur l’accidentologie en mer.
 
-![Les utilisateurs du défi Prédisauvetage](/img/blog/user-predisauvetage.jpg)
+![Les utilisateurs du défi Prédisauvetage](/img/user-predisauvetage.jpg)
 _Les utilisateurs du défi PrédiSauvetage_
 
 Voici le résultat de la carte d’empathie des membres du CROSS : nous
@@ -119,12 +119,13 @@ avons commencé par identifier les irritants (*pains*), puis avons
 qu’ils voient (*see*), ce qu’ils ressentent (*think and feel*),
 entendent (*hear*), disent et font (*say & do*).
 
-![La carte d'empathie du défi PrédiSauvetage](/img/blog/empathy-predisauvetage.jpg)
+![La carte d'empathie du défi PrédiSauvetage](/img/empathy-predisauvetage.jpg)
 _Résultat de la carte d'empathie du défi PrédiSauvetage réalisée en direct_
 
-![La carte d'empathie du défi Brigade Numérique](/img/blog/brigade-num-empathy-map-2.jpeg)
+<!--
+![La carte d'empathie du défi Brigade Numérique](/img/brigade-num-empathy-map-2.jpeg)
 _Résultat de la carte d'empathie du défi Brigade Numérique_
-
+-->
 
 # Adapter le cadrage de son produit à la recherche utilisateurs
 

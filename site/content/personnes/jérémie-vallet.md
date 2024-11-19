@@ -7,7 +7,7 @@ role: agent-public
 defis:
   - Champollion
 image: img/promotion-6-photos/jeremie_0.jpg
-linkedin: www.linkedin.com/in/jérémie-vallet-64282b108
+linkedin: https://www.linkedin.com/in/jérémie-vallet-64282b108
 ---
 
 Ingénieur en chef des mines, je commence ma carrière en 2002 à la DREAL Auvergne-Rhône-Alpes, où j’occupe les fonctions de chef de subdivision contrôles techniques et gère à ce titre l’externalisation d’une partie de l’activité au secteur privé.
