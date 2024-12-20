@@ -1,5 +1,5 @@
 ---
-title: Grist
+title: GristGouv
 description: Outiller les agents publics pour les aider à faire vivre et
   circuler leurs données de manière efficace, flexible, pérenne et souveraine
 who: Direction interministérielle du numérique
