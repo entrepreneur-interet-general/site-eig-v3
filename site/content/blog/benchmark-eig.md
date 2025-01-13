@@ -18,7 +18,7 @@ Le programme Entrepreneur(e)s d'Intérêt Général permet d'intégrer pour 10 m
 
 **Quels sont les objectifs de cette démarche ?**
 
-Afin de poursuivre la [démarche d’évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html) du programme, nous nous sommes intéressés à des initiatives similaires mises en place par des administrations dans d’autres pays. Notre objectif était de mieux comprendre leur fonctionnement, leur source de financement, leur rapport aux administrations de leur pays, ainsi que les types de projets menés et les profils recrutés.
+Afin de poursuivre la [démarche d’évaluation](/blog/demarche-mesure-impact-eig/) du programme, nous nous sommes intéressés à des initiatives similaires mises en place par des administrations dans d’autres pays. Notre objectif était de mieux comprendre leur fonctionnement, leur source de financement, leur rapport aux administrations de leur pays, ainsi que les types de projets menés et les profils recrutés.
 
 Nous nous sommes intéressés aux initiatives suivantes :
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), Etats-Unis
@@ -31,9 +31,9 @@ Nous nous sommes intéressés aux initiatives suivantes :
 
 La liste de ces initiatives n’est pas exhaustive, mais elle permet de déceler certaines tendances de fond qui nous paraissent utiles pour mieux comprendre notre environnement et pour constater nos points de convergence.
 
-#### [Voir le tour d’horizon complet au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)
+#### [Voir le tour d’horizon complet au format PDF](/img/initiatives-recrutements-competences-numeriques.pdf)
 
-![Icônes des différentes initiatives évoquées dans l'articles](/img/blog/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
+![Icônes des différentes initiatives évoquées dans l'articles](/img/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
 
 ## Quels enseignements retirons-nous de cette analyse ?
 
@@ -52,7 +52,7 @@ Une attention particulière est portée par ces initiatives sur les conditions d
 
 L’attractivité de ces initiatives passe aussi par une mise en avant des recrues qui ont la possibilité de s’exprimer dans des articles de blog (comme le PIF avec les contributions des fellows sur le blog [digital.gov](https://digital.gov/)), de participer à des conférences et de jouer le rôle d’ambassadeur des programmes.
 
-![Capture d'écran du blog digital.gov](/img/blog/year-as-pif.PNG)_Capture d'écran d'un article de blog issu de [digital.gov](https://digital.gov/2019/03/26/a-year-in-life-a-pif/)_
+![Capture d'écran du blog digital.gov](/img/year-as-pif.PNG)_Capture d'écran d'un article de blog issu de [digital.gov](https://digital.gov/2019/03/26/a-year-in-life-a-pif/)_
 
 La production de livrables et la « mesurabilité » des résultats des travaux entrepris par ces recrues est une problématique commune. Ces initiatives mobilisent des budgets conséquents, d’où l’importance de prouver – notamment via des données ou des indicateurs chiffrés (comme le font notamment les projets de Code For America, par exemple l'initiative [GetCalFresh](https://www.codeforamerica.org/programs/getcalfresh)) – la capacité des programmes à avoir un impact.
 

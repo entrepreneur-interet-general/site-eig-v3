@@ -37,7 +37,7 @@ En étant ambitieux, la pérennisation concerne autant **le passage en
 production des livrables que l'élan de transformation numérique
 impulsé par la présence des EIG**.
 
-![La pyramide de la pérennisation imaginée par Bastien en amont de la session](/img/blog/dsi-pyramide-perennisation.jpg)
+![La pyramide de la pérennisation imaginée par Bastien en amont de la session](/img/dsi-pyramide-perennisation.jpg)
 *La pyramide de la pérennisation, proposée par Bastien en amont de la session - © Sophie Miljkovic CC-by-sa 4.0*
 
 **C'est pourquoi nous avons proposé de classer les enjeux de pérennisation selon trois axes :** 
@@ -92,7 +92,7 @@ travaillent parfois dans des langages de programmation récents,
 enrichissant ainsi ce cadre de cohérence et la montée en compétences
 des DSI ministérielles.
 
-![L'équipe EIG-mentor-DSI du MCC](/img/blog/dsi-equipe-culture.jpg)
+![L'équipe EIG-mentor-DSI du MCC](/img/dsi-equipe-culture.jpg)
 *Nicolas Joron, Hélène Cavalié, Laurie Chapotte et Ned Baldessin, une équipe EIG-mentor-DSI soudée !*
 
 Pour Patrick Chauffeton, il est aussi crucial de travailler avec les
@@ -118,43 +118,43 @@ et de prioriser.
 
 Pour la plupart des projets, deux actions semblent indispensables :
 **la documentation technique et la formation**. Par exemple, l'équipe
-[dataESR](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/),
+[dataESR](/defis/dataesr/),
 prévoit de réaliser une documentation conséquente pour faciliter la
 prise en main des outils par l'équipe qui reprendra le « devops ».
 L'équipe imagine également la construction d'un système de rémontée
 des erreurs pour améliorer le service.  L'équipe [Signaux
-Faibles](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/)
+Faibles](/defis/signaux-faibles/)
 doit également élaborer plusieurs guides (déploiement technique,
 exploitation, kit utilisateur) dans la mesure où Signaux Faibles a
 vocation à être déployer dans d'autres régions. L'équipe [Lab
-Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/)
+Santé](/defis/lab-sante/)
 pérennise en continu puisque des formations sont proposées à
 l'ensemble de la DREES sur les projets.
 
-![La matrice du défi Signaux Faibles](/img/blog/Matrice-Signaux-Faibles.jpg)
+![La matrice du défi Signaux Faibles](/img/Matrice-Signaux-Faibles.jpg)
 *La feuille de route de pérennisation du défi Signaux Faibles, avec un jeu de piste...*
 
 Les enjeux **d'hébergement et de maintenance** sont également au coeur
 des actions. L'équipe
-[Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/)
+[Prévisecours](/defis/previsecours/)
 a par exemple besoin d'anticiper le rapatriement du code sur le cloud,
 Bastien ([EIG
-Link](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/eiglink/))
+Link](/defis/eig-link/))
 doit prévoir le transfert de connaissances et la maintenace des
 différentes infrastructures mises à disposition (dépôts de code,
 serveur, etc.).
 
 Au-delà de ces aspects techniques, les deux facteurs de pérennisation
 sont clairs : **la création d'une communauté et
-l'essaimage**. [SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/),
+l'essaimage**. [SocialConnect](/defis/social-connect/),
 qui transmettra le Carrefour des innovations sociales à un collectif
 associatif à l'issue de son développement, doit identifier une
 personnes qui animera la communauté et la communication autour du
-produit. [Archifiltre](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/)
+produit. [Archifiltre](/defis/archifiltre/)
 dispose de multiples opporunités pour faire vivre et enrichir le
 produit - auprès d'autres ministères, dans des communautés
 d'archivistes, et même à l'étranger ! Pour
-[BaliseNAV](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/balisenav/),
+[BaliseNAV](/defis/b-lisenav/),
 il s'agira d'aller chercher des communautés de développeurs dans le
 ministère et auprès des navigateurs pour observer les usages de leurs
 outils.
@@ -168,5 +168,5 @@ pérennisation aux équipes EIG. Et enfin, nous avons appris à utiliser
 d'Eisenhower (la preuve en image avec les sous-titres de
 Jean-Baptiste).
 
-![La matrice d'Eisenhower](/img/blog/20180517_BrigadeNumerique2.png)
+![La matrice d'Eisenhower](/img/20180517_BrigadeNumerique2.png)
 *La matrice d'Eisenhower : faire, déléguer, planifier, éliminer.*

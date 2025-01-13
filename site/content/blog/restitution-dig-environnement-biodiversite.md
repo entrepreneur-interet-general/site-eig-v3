@@ -15,9 +15,9 @@ La restitution s'est faite à l'occasion du Meetup Design Public #5, qui s'est t
 
 Les quatres défis présentés sont :
 
-* **[INPN Espaces](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/inpn-espaces.html)** : Informer les citoyens sur les espaces naturels autour de chez eux - [Jean-Edouard Sastre ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/jean-edouard-sastre.html)
-* **[Maritux](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html)** : Faciliter l’accès à une information marine de qualité - [Cécile Canel ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/cecile-canel.html)
-* **[Ombel](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-cgdd.html)** : Améliorer l’information environnementale du citoyen - [Marie Ramon-Daré ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/marie-ramon-dare.html)
-* **[Sequoia IGN](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-ign.html)** : Produire des données collaboratives géolocalisées - [Charlotte Marmet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/charlotte-marmet.html)
+* **[INPN Espaces](/defis/inpn-espaces/)** : Informer les citoyens sur les espaces naturels autour de chez eux - [Jean-Edouard Sastre ](/personnes/jean-edouard-sastre/)
+* **[Maritux](/defis/maritux/)** : Faciliter l’accès à une information marine de qualité - [Cécile Canel ](/personnes/cecile-canel/)
+* **[Ombel](/defis/sequoia-cgdd/)** : Améliorer l’information environnementale du citoyen - [Marie Ramon-Daré ](/personnes/marie-ramon-dare/)
+* **[Sequoia IGN](/defis/sequoia-ign/)** : Produire des données collaboratives géolocalisées - [Charlotte Marmet](/personnes/charlotte-marmet/)
 
 <iframe frameborder="0" width="760" height="480" src="https://www.dailymotion.com/embed/video/x7xtjdr" allowfullscreen allow="autoplay"></iframe>

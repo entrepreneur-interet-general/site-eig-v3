@@ -11,7 +11,7 @@ date: 2019-07-03T00:00:00.000Z
 visible: true
 ---
 
-[Coline Lebaratoux](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/coline-lebaratoux.html) a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années passées en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi [ACOSS-plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html). En binôme avec [Anoureth Pongrattana](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/anoureth-pongrattana.html), développeur full stack, ils ont pour mission de simplifier les démarches administratives liées au secteur de l’emploi à domicile. 
+[Coline Lebaratoux](/personnes/coline-lebaratoux/) a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années passées en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi [ACOSS-plateforme](/defis/acoss-plateforme/). En binôme avec [Anoureth Pongrattana](/personnes/anoureth-pongrattana/), développeur full stack, ils ont pour mission de simplifier les démarches administratives liées au secteur de l’emploi à domicile. 
 
 **Après 4 mois passés au sein de l’ACOSS, Coline revient sur la première étape de son projet : la recherche utilisateur.**
 
@@ -23,7 +23,7 @@ En d’autres termes, en tant que designer, j’observe, j’analyse, je décort
 
 Cette approche « centrée utilisateur » est encore peu répandue dans l’administration publique, qui, comme dans beaucoup d’autres secteurs, a tendance à commencer par poser la solution technique avant celle de l’usage. Le design de services propose tout simplement l’inverse : **remettre au premier plan l’humain dans la conception d’un service**. C’est un véritable changement de paradigme dans les modes projets. 
 
-![Un groupe de personnes se tient devant une grande page blanche accrochée au mur. Sur cette page blanche, différents niveaux avec du texte, des images, des courbes, des post-its... Une jeune femme pointe du doigt quelque chose sur cette page blanche.](/img/blog/atelier-ux-map.jpg)_Atelier de restitution de la recherche utilisateur en présence des différents départements de l'ACOSS et des centres Pajemploi et CESU_
+![Un groupe de personnes se tient devant une grande page blanche accrochée au mur. Sur cette page blanche, différents niveaux avec du texte, des images, des courbes, des post-its... Une jeune femme pointe du doigt quelque chose sur cette page blanche.](/img/atelier-ux-map.jpg)_Atelier de restitution de la recherche utilisateur en présence des différents départements de l'ACOSS et des centres Pajemploi et CESU_
 
 #### Comment as-tu mis en oeuvre cette approche au sein de l’ACOSS ? 
 
@@ -54,7 +54,7 @@ C’est une phase exploratoire qui demande certes un investissement de temps au 
 
 **Le second outil clé du design de service, c’est le parcours utilisateur, aussi appelée “Customer journey” ou “experience map”.** 
 
-![A gauche de la photo, une jeune femme de trois-quarts désigne un point sur une grande feuille blanche avec des post-its de couleurs, des dessins et des textes.](/img/blog/detail-atelier-ux-map.jpg)_Coline présente l'experience map de Beatrice, aidante de Colette, employeur d’une aide à domicile (CESU)_
+![A gauche de la photo, une jeune femme de trois-quarts désigne un point sur une grande feuille blanche avec des post-its de couleurs, des dessins et des textes.](/img/detail-atelier-ux-map.jpg)_Coline présente l'experience map de Beatrice, aidante de Colette, employeur d’une aide à domicile (CESU)_
 
 C’est une cartographie, qui permet d’analyser une expérience utilisateur en répertoriant sur un même support : 
 - les étapes : on détaille chaque étape de l’expérience utilisateur en couvrant les différentes phases de l’expérience : avant, pendant et après l'utilisation du service ;
@@ -66,7 +66,7 @@ C’est une cartographie, qui permet d’analyser une expérience utilisateur en
 **Grâce à ce support, on peut analyser finement l’expérience de l’usager en se penchant sur chaque détail de son parcours.** On cherche à identifier les besoins qui ne sont pas encore adressés ou les passerelles manquantes entre les organismes, qui sont à l’origine de “ruptures d’expérience”. Notre attention se porte également sur les détournements d’usage et pratiques créatives des usagers, qui représentent souvent une grande source d’inspiration. 
 C’est cette analyse fine qui permettra de répondre aux besoins des usagers, de déterminer la combinaison optimale des points de contact et de concevoir une expérience “sans couture” dans l'enchaînement de ses différentes étapes. 
 
-![Une grande page blanche présente plusieurs niveaux avec du texte, des images, des courbes, des post-its...](/img/blog/ux-map-christophe.jpg)_Expérience map de Christophe, parent employeur d’une assistante maternelle (Pajemploi)_
+![Une grande page blanche présente plusieurs niveaux avec du texte, des images, des courbes, des post-its...](/img/ux-map-christophe.jpg)_Expérience map de Christophe, parent employeur d’une assistante maternelle (Pajemploi)_
 
 #### Comment passer ensuite de la recherche à l’action ? 
 
@@ -87,4 +87,4 @@ Le mode projet actuel ne permet pas au designer de mettre à profit sa réelle v
 C’est ce qu’on a la chance d’expérimenter grâce au programme EIG. On a la possibilité de casser les silos historiques MOE/MOA, on teste une équipe projet allégée, on remplace l’expression des besoins par un customer journey, les cahiers des charges fonctionnels par des prototypes papiers et des user stories, on intègre les usagers dans des cycles itératifs de conception… c’est un changement de culture !
 Au delà de notre projet de simplification des démarches de l’emploi à domicile, l’ambition est de réaliser un projet démonstrateur d’un nouveau processus de conception au plus proche des besoins des usagers. 
 
-![On voit le coin d'une pièce dont les deux murs sont couverts de grandes feuilles de papier blanches. Dessus, des schémas et des post-its de couleurs. Devant le pan de droite se tiennent deux hommes : l'un est de face et pointe quelque chose du doigt sur la feuille blanche derrière lui, l'autre est de dos et l'écoute.](/img/blog/ux-mvp.jpg)_Co-construction des prototypes papiers et de l'architecture technique de la solution avec les équipes Pajemploi (de face, Anoureth, le binôme développeur de Coline)_
+![On voit le coin d'une pièce dont les deux murs sont couverts de grandes feuilles de papier blanches. Dessus, des schémas et des post-its de couleurs. Devant le pan de droite se tiennent deux hommes : l'un est de face et pointe quelque chose du doigt sur la feuille blanche derrière lui, l'autre est de dos et l'écoute.](/img/ux-mvp.jpg)_Co-construction des prototypes papiers et de l'architecture technique de la solution avec les équipes Pajemploi (de face, Anoureth, le binôme développeur de Coline)_

@@ -194,5 +194,5 @@ contact: >-
   Vous souhaitez une précision avant de déposer un dossier ?
 
 
-  Pour toute question, n'hésitez pas à contacter l'[équipe du programme](eig@beta.gouv.fr).
+  Pour toute question, n'hésitez pas à contacter l'[équipe du programme](mailto:eig@beta.gouv.fr).
 ---

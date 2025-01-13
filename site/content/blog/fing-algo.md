@@ -21,7 +21,7 @@ Il s’agissait pour nous de la première vraie séance de travail avec les entr
 - Le deuxième creusait la question des **formes de médiations mises, ou pas, en oeuvre pour dialoguer avec les personnes physiques ou morales soumises à leurs algorithmes**.
 - Le dernier explorait les différentes **stratégies d’explication des traitements algorithmiques**.
 
-![Atelier ensemble](/img/blog/atelier-fing-algo-ensemble.jpg)
+![Atelier ensemble](/img/atelier-fing-algo-ensemble.jpg)
 _Les EIG, les partenaires de la Fing et Etalab participent au questionnaire._
 
 Ces questionnaires n’avaient pas de prétention scientifique, notre principal objectif était de susciter le débat et les échanges pendant l'atelier, et de ce point de vue ce fut un succès !
@@ -37,7 +37,7 @@ Voici quelques retours issus de nos échanges.
 - C’est la DIRECCTE de la région Bourgogne-Franche-Comté qui bénéficie de l’algorithme de scoring de Signaux Faibles, ce sont les entreprises qui sont les "calculées".
 - Il y a des algorithmes qui ne sont pas concernés par la loi, parce qu’ils n’aboutissent pas à des traitements individuels comme DataESR, et qu’ils n’ont pas de calculés mais des usagers « internes ». Ce sont des algorithmes de "process". Encore faut-il être capable de l’expliquer en interne. L’explicabilité n’est pas seulement due aux calculés mais aussi aux usagers, qui ne sont pas que les usagers finaux, mais peuvent être par exemples des autorités de contrôle, donneurs d'ordre, etc.
 
-![Matrice exemplarité](/img/blog/atelier-fing-algo-systeme-2.jpg)
+![Matrice exemplarité](/img/atelier-fing-algo-systeme-2.jpg)
 _Une première matrice d'exemplarité des algorithmes publics : responsabilité par la médiation, explicabilité, jouabilité, symétrie, justiciabilité._
 
 **Des réponses surprenantes parfois, par exemple lorsqu’on se déclare « jouable » parce que le code source est ouvert**. C’est un vieux débat, qui trouve sans doute avec le sujet des algorithmes une nouvelle jeunesse.

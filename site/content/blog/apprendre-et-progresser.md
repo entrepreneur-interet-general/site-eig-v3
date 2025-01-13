@@ -183,5 +183,5 @@ plus plaisant que d'**apprendre à plusieurs** pour créer une culture
 commune !
 
 *Merci à Élise Lalique et Julien Paris, EIG 2018 pour le défi
-[SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/socialconnect.html),
+[SocialConnect](/defis/social-connect/),
 pour leur relecture attentive et leurs suggestions.*

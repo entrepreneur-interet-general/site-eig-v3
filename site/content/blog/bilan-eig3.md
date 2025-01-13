@@ -1,7 +1,7 @@
 ---
 author: Soizic Pénicaud, équipe EIG
 description: La promotion EIG 3 a pris fin le 15 novembre 2019. Quel est le bilan collectif des 15 défis et 32 EIG de la promotion ? Quelles sont les pistes d'amélioration pour le programme en 2020 ?
-image: https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg
+image: img/restitution-eig-groupe-1024x519.jpg
 categories:
 - Évaluation
 - Open
@@ -36,7 +36,7 @@ C’est d’ailleurs pour renforcer le recrutement pérenne de profils innovants
 
 Un mentor a soulevé un effet inattendu du programme pour l’attractivité de l’Etat employeur : “les EIG inspirent [d’autres] candidats pour rejoindre l’équipe”.
 
-&#x1F4CD; **Acculturation des administrations d’accueil :** plus de la moitié des défis ont organisé des formations pour les métiers, sur des thèmes variés - data science, géomatique, open data, analyse sémantique, [accessibilité](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html). Les EIG ont également contribué à l’organisation de meetups et à la facilitation d’ateliers pour les services.
+&#x1F4CD; **Acculturation des administrations d’accueil :** plus de la moitié des défis ont organisé des formations pour les métiers, sur des thèmes variés - data science, géomatique, open data, analyse sémantique, [accessibilité](/blog/demonstrations-accessibilite-numerique/). Les EIG ont également contribué à l’organisation de meetups et à la facilitation d’ateliers pour les services.
 
 Ces formations permettent une acculturation aux métiers et compétences du numérique. Un mentor explique ainsi : “le rôle d’UX designer est mieux compris dans l’administration et est plus recherché par les équipes”. Un autre note la “démystification très importante de l’intelligence artificielle et de la data science”.
 
@@ -44,7 +44,7 @@ Ces formations permettent une acculturation aux métiers et compétences du num�
 
 C’est également une expérience professionnelle enrichissante. Un mentor explique : “c’est une opportunité de management d’une petite équipe data très productive et compétente, difficile de s’en passer après".
 
-![Deux personnes discutent autour de prototypes papier d'une interface affichés au mur](/img/blog/ux-mvp.jpg)
+![Deux personnes discutent autour de prototypes papier d'une interface affichés au mur](/img/ux-mvp.jpg)
 _Co-construction de prototypes pour le défi ACOSS Plateforme_
 
 
@@ -58,28 +58,28 @@ On note également quelques résultats du côté des réalisations des défis, n
 
 &#x1F4CD; **En termes d’open data**, 3 défis (EIG Link, Open Chronic et CibNav) ont ouvert des jeux de données. Le défi [CartoBio](http://www.cartobio.org/#/), qui met à disposition les données parcellaires d’agriculture biologique sur demande, prévoit une mise en open data prochaine. Ces résultats ne sont pas à la hauteur de nos attentes. Quelques pistes d’explication : les problématiques de certains défis ne se prêtaient pas à l’ouverture de jeux de données, d’autres ont manqué de temps et/ou de ressources pour le faire. Enfin, notre accompagnement sur ce volet gagnerait peut-être à être affiné.
 
-_Nous ne nous concentrons pas ici sur l’efficacité et l’utilité des réalisations par défi. Si le sujet vous intéresse, des données sont disponibles [sur les pages individuelles de chaque défi.](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)_
+_Nous ne nous concentrons pas ici sur l’efficacité et l’utilité des réalisations par défi. Si le sujet vous intéresse, des données sont disponibles [sur les pages individuelles de chaque défi.](/defis)_
 
-_Vous pouvez également retrouver une description de chaque défi et des prochaines étapes dans le [livret de restitution de la promotion](https://entrepreneur-interet-general.etalab.gouv.fr/docs/20191028_livret_EIG_restitution_v4.pdf)._
+_Vous pouvez également retrouver une description de chaque défi et des prochaines étapes dans le [livret de restitution de la promotion](/img/20191028_livret_EIG_restitution_v4.pdf)._
 
 
 ### Quel rôle pour le programme EIG ?
 
-&#x1F4CD; Depuis 3 ans, nous avons formé autour du programme EIG une importante communauté, dont le coeur est [la promotion EIG en cours et les anciens EIG et mentors](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html). Elle est soutenue entre autres par les membres du jury, nos partenaires et les membres de la direction interministérielle du numérique.
+&#x1F4CD; Depuis 3 ans, nous avons formé autour du programme EIG une importante communauté, dont le coeur est [la promotion EIG en cours et les anciens EIG et mentors](/talents). Elle est soutenue entre autres par les membres du jury, nos partenaires et les membres de la direction interministérielle du numérique.
 
 **Cette communauté est vue comme essentielle par la promotion**. Un EIG explique : “je n’aurais pas postulé sans la communauté et je pense que le projet n’aurait probablement pas abouti à autant sans, elle est plus qu’indispensable”.
 
-&#x1F4CD; **Les éléments du programme d’accompagnement les plus plébiscités sont d’ailleurs les formats collectifs** : [bootcamp](https://doc.eig-forever.org/animation.html), [séminaires hors-les-murs](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/27/retour-seminaire-mai-2019.html), sessions d’accompagnement collectives.
+&#x1F4CD; **Les éléments du programme d’accompagnement les plus plébiscités sont d’ailleurs les formats collectifs** : [bootcamp](https://doc.eig-forever.org/animation.html), [séminaires hors-les-murs](/blog/retour-seminaire-mai-2019/), sessions d’accompagnement collectives.
 
 **Cette communauté permet aussi un important apprentissage pair-à-pair :** 25 EIG disent avoir développé des compétences hors de leur coeur de métier. Il s'agit de connaissances juridiques et sur le fonctionnement de l’administration, de compétences tech transmises par d’autres EIG, et de compétences en gestion de projet. Un tiers estiment avoir également progressé techniquement.
 
-&#x1F4CD; On note également **le succès de [l’outil de partage d’informations “Bulletins”](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)**, mis en place par le programme, considéré comme très pertinent. Les bulletins hebdomadaires étaient lus au moins une fois par mois par plus de 80% des EIG.
+&#x1F4CD; On note également **le succès de [l’outil de partage d’informations “Bulletins”](/blog/bulletins-outil-retrospective-hebdomadaire/)**, mis en place par le programme, considéré comme très pertinent. Les bulletins hebdomadaires étaient lus au moins une fois par mois par plus de 80% des EIG.
 
 L’écosystème des EIG s’étend au-delà de la promotion. **Ainsi, l’immense majorité a été en lien avec des membres de la direction interministérielle du numérique pendant l’année**, et notamment des membres d’Etalab. Ces interactions ont été très appréciées par les EIG.
 
 &#x1F4CD; **Une de nos grandes fiertés : la satisfaction des EIG et des mentors.** 75% des EIG et la très grande majorité des mentors se déclarent satisfaits ou très satisfaits des résultats de leur projet. 5 mentors sur 12 disent également que le programme a dépassé leurs attentes, ainsi que 10 EIG sur 27.
 
-![Un groupe de personnes posent pour une photo de groupe](https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg)_La promotion EIG 3 (EIG et mentors), lors de l'événement de restitution du 12 novembre._
+![Un groupe de personnes posent pour une photo de groupe](/img/restitution-eig-groupe-1024x519.jpg)_La promotion EIG 3 (EIG et mentors), lors de l'événement de restitution du 12 novembre._
 
 
 ## Des pistes pour améliorer le programme EIG
@@ -102,11 +102,11 @@ Les EIG 3 ont regretté d'avoir eu peu de liens avec les EIG des promotions pré
 
 **4.Mieux outiller les EIG et les mentors sur les sujets de transformation numérique et de pérennisation.**
 
-Les EIG ont remarqué que beaucoup d’informations étaient transmises en bloc, à des moments pas forcément optimaux pour les défis. Les mentors ont exprimé le souhait d’avoir plus d’informations pratiques sur comment pérenniser leurs projets. **Le site de [documentation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/09/12/documentation-programme.html) que nous avons structuré cette année pourra être davantage mobilisé à l'avenir pour répondre à ces besoins** en autonomisant l'accès à l'information.
+Les EIG ont remarqué que beaucoup d’informations étaient transmises en bloc, à des moments pas forcément optimaux pour les défis. Les mentors ont exprimé le souhait d’avoir plus d’informations pratiques sur comment pérenniser leurs projets. **Le site de [documentation](/blog/documentation-programme/) que nous avons structuré cette année pourra être davantage mobilisé à l'avenir pour répondre à ces besoins** en autonomisant l'accès à l'information.
 
 **5.Renforcer la visibilité du programme, pour les administrations et les EIG.**
 
-Le programme est maintenant bien installé dans le paysage de l’innovation publique, mais nous faisons encore face à plusieurs enjeux. Comment toucher des administrations peu familières de l’écosystème de la transformation numérique et les encourager à candidater ? Pour les EIG, nous souhaitons renforcer nos canaux de recrutement pour toucher plus de profils seniors. Cette année a également été l’occasion de renforcer la visibilité du programme en France et à l’international, et de nouer un partenariat avec[l’association Latitudes](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/12/16/partenariat-eig-latitudes.html).
+Le programme est maintenant bien installé dans le paysage de l’innovation publique, mais nous faisons encore face à plusieurs enjeux. Comment toucher des administrations peu familières de l’écosystème de la transformation numérique et les encourager à candidater ? Pour les EIG, nous souhaitons renforcer nos canaux de recrutement pour toucher plus de profils seniors. Cette année a également été l’occasion de renforcer la visibilité du programme en France et à l’international, et de nouer un partenariat avec[l’association Latitudes](/blog/partenariat-eig-latitudes/).
 
 
 ## Et maintenant ?
@@ -125,7 +125,7 @@ Nous sommes très intéressés par le partage d’expérience. Si vous aussi, vo
 
 Pour mesurer les résultats de la promotion EIG3, nous nous sommes appuyés sur quatre dispositifs :
 * **Un tableur rempli par les EIG de chaque défi**, recensant des données factuelles sur les projets : pérennisation des réalisations et des postes, degré d’ouverture des codes sources et des données, formations organisées, etc. ;
-* **Des questionnaires anonymes** distribués aux [EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/Questionnaire%20-%20EIG%203.pdf) et aux [mentors](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/Questionnaire%20-%20mentors%20EIG%203%20.pdf), portant sur leurs motivations, leurs apprentissages, leurs difficultés et leurs retours sur le programme. Ces questionnaires s’appuient sur ceux développés pour évaluer les promotions 1 et 2 (voir notre [rapport d’analyse](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/26/rapport-analyse-eig.html) de juin 2019) ;
+* **Des questionnaires anonymes** distribués aux [EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/Questionnaire%20-%20EIG%203.pdf) et aux [mentors](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/Questionnaire%20-%20mentors%20EIG%203%20.pdf), portant sur leurs motivations, leurs apprentissages, leurs difficultés et leurs retours sur le programme. Ces questionnaires s’appuient sur ceux développés pour évaluer les promotions 1 et 2 (voir notre [rapport d’analyse](/blog/rapport-analyse-eig/) de juin 2019) ;
 * Nous avons distribué ces documents le 7 novembre 2019, une semaine avant la fin officielle de la promotion (même si beaucoup de défis ont continué après le 15 novembre). A partir de juillet 2019, nous avons également organisé **des ateliers informels** de retours sur le programme, organisés pendant les sessions d’accompagnement.
 * Dans le cadre du financement par le [Programme d’investissements d’avenir](https://www.gouvernement.fr/le-programme-d-investissements-d-avenir), les mentors sont également invités à élaborer des **indicateurs spécifiques** à leur projet. Ils remplissent ces indicateurs de manière auto-évaluée en fin de promotion.   
 _Les données issues du tableur et des questionnaires sont en ligne sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/programme-entrepreneurs-dinteret-general/)._
@@ -133,9 +133,9 @@ _Les données issues du tableur et des questionnaires sont en ligne sur [data.go
 **Cette méthodologie nous permet d’avoir des retours quantitatifs et qualitatifs sur le programme, de manière relativement efficace. Elle présente certaines limites :**
 * Par manque de temps et de ressources, nous interrogeons uniquement les EIG et les mentors de la promotion, et ne nous rendons pas dans les locaux les administrations d’accueil ou auprès des utilisateurs. Il est difficile de mesurer la transformation numérique d’administrations ou la satisfaction d’usagers que nous n’allons pas voir directement.
 *   Tous les EIG et mentors n’ont pas répondu au questionnaire : 27 EIG (sur 30 visés) y ont répondu, et 12 mentors sur 18. Les chiffres et avis obtenus ne prennent pas en compte les évolutions après le 7 novembre 2019 (date de remplissage des questionnaires).
-*   Elle est menée exclusivement en interne, ce qui pourrait mener à des biais dans l’interprétation et/ou la présentation des résultats. Pour pallier cela, [nous avons également recours à d’autres types d’évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html).
+*   Elle est menée exclusivement en interne, ce qui pourrait mener à des biais dans l’interprétation et/ou la présentation des résultats. Pour pallier cela, [nous avons également recours à d’autres types d’évaluation](/blog/demarche-mesure-impact-eig/).
 
-Enfin, nous avons changé de méthode d’évaluation entre les deux premières promotions et la troisième. De ce fait, il est difficile de faire des comparaisons entre promotions. Pour remédier à cela, nous espérons maintenir cette méthodologie pour la promotion 4. Par ailleurs, les résultats du questionnaire ont permis de corroborer et d’étayer des conclusions déjà développées dans de précédents rapports (voir [le rapport d’analyse](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/26/rapport-analyse-eig.html) des promotions EIG 1 et 2) et billets de blog (voir le billet sur les [facteurs de réussite d’un défi EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/23/6-facteurs-de-reussite-defi-eig.html)).
+Enfin, nous avons changé de méthode d’évaluation entre les deux premières promotions et la troisième. De ce fait, il est difficile de faire des comparaisons entre promotions. Pour remédier à cela, nous espérons maintenir cette méthodologie pour la promotion 4. Par ailleurs, les résultats du questionnaire ont permis de corroborer et d’étayer des conclusions déjà développées dans de précédents rapports (voir [le rapport d’analyse](/blog/rapport-analyse-eig/) des promotions EIG 1 et 2) et billets de blog (voir le billet sur les [facteurs de réussite d’un défi EIG](/blog/6-facteurs-de-reussite-defi-eig/)).
 
 Malgré leurs limites, ces outils nous permettent de dégager quelques résultats clés pour la promotion et d’identifier des points d’amélioration pour les prochaines.
 

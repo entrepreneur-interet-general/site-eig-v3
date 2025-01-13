@@ -25,6 +25,6 @@ Au terme des 7 mois d’immersion et de travail au sein de la DMAT, la mission n
 
 ## Réalisations
 
-![Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances.](img/planipref_191213_présentation_vision_logicielunifie.png "Logigramme du logiciel unifié")
+![Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances.](/img/planipref_191213_présentation_vision_logicielunifie.png "Logigramme du logiciel unifié")
 
-{{< arrow-link url="img/planipref_200311_restitution_atelier_compressed.pdf" title="Atelier de co-construction" target="true" >}}
+{{< arrow-link url="/img/planipref_200311_restitution_atelier_compressed.pdf" title="Atelier de co-construction" target="true" >}}

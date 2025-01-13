@@ -7,7 +7,7 @@ role: agent-public
 defis:
   - Estim'Action
 image: img/promotion-6-photos/portrait_carre.jpg
-linkedin: www.linkedin.com/in/sophie-cariou-1a403b24a
+linkedin: https://www.linkedin.com/in/sophie-cariou-1a403b24a
 ---
 
 Sophie Cariou pilote l'activité du Cerema sur la réduction des nuisances, qui inclut l'acoustique, les vibrations, la qualité de l'air extérieur, et plus globalement l'environnement-santé. L'ambition de notre réseau métier est d'accompagner l’État et les collectivités dans leurs actions pour une meilleure prise en compte de la qualité de vie des citoyens.

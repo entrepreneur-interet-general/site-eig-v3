@@ -23,26 +23,6 @@ visible: true
 
 La Direction interministérielle du numérique (DINUM) accompagne les ministères dans leur transformation numérique, conseille le gouvernement et développe des services et ressources partagées. Elle pilote, avec l’appui des ministères, le programme Tech.gouv d’accélération de la transformation numérique du service public. Créée en 2019, la DINUM a pris la suite de la Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).
 
-## Le défi aujourd'hui
-
-### Les besoins identifiés
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper, erat ac dapibus sodales, libero turpis blandit arcu, sit amet venenatis nisl elit vitae neque. Cras tristique ligula nec euismod tristique. In commodo velit sit amet est sollicitudin, id sodales tellus blandit.
-
-### L﻿e concept expérimenté
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper, erat ac dapibus sodales, libero turpis blandit arcu, sit amet venenatis nisl elit :
-
-* vitae neque. Cras tristique ligula nec euismod tristique 
-* In commodo velit sit amet est sollicitudin
-* Id sodales tellus blandit.
-
-### Comment participer ?
-
-In commodo velit sit amet est sollicitudin, id sodales tellus blandit. Sed condimentum, dolor ac pulvinar ultrices.
-
-[Accéder à la version beta](www.google.fr)
-
 ## Aux origines du défi
 
 #### La problématique identifiée{.subtitle}
