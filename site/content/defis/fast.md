@@ -1,6 +1,6 @@
 ---
 title: FAST
-description: Augmenter l'impact et changer d'échelle
+description: Augmenter l'impact et passer à l'échelle
 who: Direction interministérielle du numérique
 place: ""
 themes:
