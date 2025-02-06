@@ -100,9 +100,10 @@ export default class Grid {
         const promoValue = urlParams.get("promos");
         const expertisesValue = urlParams.get("expertises");
         const filters = [];
+        const filtersAsArray = Array.from(this.$filters);
 
         if (promoValue) {
-            const promoSelect = this.$filters.find(
+            const promoSelect = filtersAsArray.find(
                 (select) => select.id === "promos"
             );
             if (promoSelect) {
@@ -111,7 +112,7 @@ export default class Grid {
             }
         }
         if (expertisesValue) {
-            const expertiseSelect = this.$filters.find(
+            const expertiseSelect = filtersAsArray.find(
                 (select) => select.id === "expertises"
             );
             if (expertiseSelect) {
