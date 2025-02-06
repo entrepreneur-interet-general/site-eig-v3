@@ -129,7 +129,7 @@ export default class Grid {
         this.$filters.forEach((select) => {
             if (select.value !== "*") {
                 filters.push("." + select.value);
-                updateQueryString(select.id, select.value);
+                this.updateQueryString(select.id, select.value);
             }
         });
 
