@@ -87,7 +87,7 @@ export default class Grid {
 
     updateQueryString(param, value) {
         const url = new URL(window.location);
-        if (value) {
+        if (value && value !== "*") {
             url.searchParams.set(param, value);
         } else {
             url.searchParams.delete(param);
@@ -128,9 +128,9 @@ export default class Grid {
     filter() {
         const filters = [];
         this.$filters.forEach((select) => {
+            this.updateQueryString(select.id, select.value);
             if (select.value !== "*") {
                 filters.push("." + select.value);
-                this.updateQueryString(select.id, select.value);
             }
         });
 
