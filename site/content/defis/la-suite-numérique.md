@@ -10,7 +10,7 @@ promos:
 town: Paris
 date: 2025-02-25T13:00:01.559Z
 expertises:
-  - Direction de l'impact
+  - Direction des opérations
 visible: true
 isSET: true
 urlSET: https://beta.gouv.fr/startups/suite-numerique.html
