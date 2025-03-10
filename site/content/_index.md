@@ -2,8 +2,8 @@
 title: Page d'accueil
 hero:
   btn:
-    title: ""
-    url: ""
+    title: Je dépose ma candidature
+    url: https://eig.numerique.gouv.fr/participer/candidats/
   title: |-
     Entreprendre
     pour le service public
@@ -23,9 +23,9 @@ talents:
     compétences de haut niveau au service du pilotage stratégique de produits
     numériques.
   list:
-    - Hugo Stéphan
-    - Thaïs Coutinho
-    - Sarah Cocher
+    - Luis Arias
+    - Martin Letellier
+    - Fabien Keller
 agents:
   sub: Les sponsors
   desc: Occupant des fonctions de haut niveau, les sponsors apportent la vision
