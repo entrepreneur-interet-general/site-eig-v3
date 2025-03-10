@@ -2,8 +2,8 @@
 title: Page d'accueil
 hero:
   btn:
-    title: ""
-    url: ""
+    title: Je dépose ma candidature
+    url: https://eig.numerique.gouv.fr/participer/candidats/
   title: |-
     Entreprendre
     pour le service public
