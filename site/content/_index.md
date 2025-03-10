@@ -2,7 +2,7 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Je dépose ma candidature
+    title: Je postule
     url: https://eig.numerique.gouv.fr/participer/candidats/
   title: |-
     Entreprendre
