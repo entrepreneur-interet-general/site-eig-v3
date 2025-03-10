@@ -9,7 +9,7 @@
         <select class="fr-select js-filter" id="expertises">
           <option value="*">Toutes</option>
           {{ range (where .Site.RegularPages "Section" "expertises") }}
-          <option value="is-cat-{{ .Title | urlize }}">{{ .Title }}</option>
+          <option value="{{ .Title | urlize }}">{{ .Title }}</option>
           {{ end }}
         </select>
       </div>
@@ -18,7 +18,7 @@
         <select class="fr-select js-filter" id="promos">
           <option value="*">Toutes</option>
           {{ range (where .Site.RegularPages "Section" "promos") }}
-          <option value="is-promo-{{ .Title | urlize }}">{{ .Title }}</option>
+          <option value="{{ .Title | urlize }}">{{ .Title }}</option>
           {{ end }}
         </select>
       </div>
