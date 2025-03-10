@@ -5,7 +5,7 @@ head:
     - question: Vous avez une solide expérience entrepreneuriale ?
     - question: Vous pilotez par les objectifs et les résultats ?
     - question: Vous voulez faire réussir des projets de l’État ?
-  sub: Déposez votre candidature au plus tard le dimanche 8 septembre 2024
+  sub: Déposez votre candidature au plus tard le vendredi 4 avril 2025.
   apply:
     title: Je dépose ma candidature
     url: /participer/candidats/postuler
