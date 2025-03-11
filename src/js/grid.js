@@ -8,6 +8,7 @@ export default class Grid {
 
     this.setupIsotope();
     this.setupToggle();
+    this.applyQueryParams();
   }
 
   setupToggle() {
@@ -73,20 +74,69 @@ export default class Grid {
 
     var tallest = Math.max.apply(
       Math,
-      elems.map(function(elem, index) {
+      elems.map(function (elem, index) {
         elem.style.minHeight = ""; // clean first
         return elem.offsetHeight;
       })
     );
 
-    elems.forEach(function(elem, index, arr) {
+    elems.forEach(function (elem, index, arr) {
       elem.style.minHeight = tallest + "px";
+    });
+  }
+
+  updateQueryString(param, value) {
+    const paramNameUrlEquivalence = {
+      promos: "promo",
+      expertises: "expertise",
+    };
+    const url = new URL(window.location);
+    if (value && value !== "*") {
+      url.searchParams.set(
+        paramNameUrlEquivalence[param],
+        value.replace("promotion-", "")
+      );
+    } else {
+      url.searchParams.delete(paramNameUrlEquivalence[param]);
+    }
+    window.history.replaceState({}, "", url);
+  }
+
+  applyQueryParams() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const promoValue = urlParams.get("promo"); // here there is no "s" at the end
+    const expertisesValue = urlParams.get("expertise");
+    const filters = [];
+    const filtersAsArray = Array.from(this.$filters);
+
+    if (promoValue) {
+      const promoSelect = filtersAsArray.find(
+        (select) => select.id === "promos"
+      );
+      if (promoSelect) {
+        const promoRealValue = `promotion-${promoValue}`;
+        promoSelect.value = promoRealValue;
+        filters.push("." + promoRealValue);
+      }
+    }
+    if (expertisesValue) {
+      const expertiseSelect = filtersAsArray.find(
+        (select) => select.id === "expertises"
+      );
+      if (expertiseSelect) {
+        expertiseSelect.value = expertisesValue;
+        filters.push("." + expertisesValue);
+      }
+    }
+    this.isotope.arrange({
+      filter: filters.length > 0 ? filters.join("") : "*",
     });
   }
 
   filter() {
     const filters = [];
     this.$filters.forEach((select) => {
+      this.updateQueryString(select.id, select.value);
       if (select.value !== "*") {
         filters.push("." + select.value);
       }
