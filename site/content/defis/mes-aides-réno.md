@@ -14,4 +14,5 @@ expertises:
 visible: true
 isSET: true
 urlSET: https://beta.gouv.fr/startups/mesaidesreno.html
+weight: 1
 ---
