@@ -32,7 +32,7 @@ steps:
         * Entretiens de sélection : du 23 septembre au 4 octobre 2024
     - date: Sprint n° 4 (mars-avril 2025)
       desc: |-
-        * Dépôt des dossiers : du 6 mars au 4 avril 2025 à 23 h 59
+        * Dépôt des dossiers : du 6 mars au 11 avril 2025 à 23 h 59
         * Entretiens de sélection : du 21 avril au 16 mai 2025
 questions: Pour toute question sur les modalités, n'hésitez pas à [contacter
   l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
