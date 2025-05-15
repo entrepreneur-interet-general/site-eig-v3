@@ -1,5 +1,5 @@
 ---
-title: Rapheël Bourreau
+title: Raphaël Bourreau
 job: Chief Product Officer
 desc: ""
 promos:
