@@ -5,6 +5,8 @@ desc: ""
 promos:
   - Promotion 7
 role: participant
+defis:
+  - Administration +
 expertises:
   - Direction de produit
 image: img/profilepic2.jpg
