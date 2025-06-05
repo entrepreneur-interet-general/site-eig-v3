@@ -1,6 +1,6 @@
 ---
 title: Raphaël Bourreau
-job: Chief Product Officer
+job: Directeur de produit
 desc: ""
 promos:
   - Promotion 7
