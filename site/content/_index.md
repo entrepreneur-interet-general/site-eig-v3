@@ -23,9 +23,9 @@ talents:
     compétences de haut niveau au service du pilotage stratégique de produits
     numériques.
   list:
-    - Luis Arias
-    - Martin Letellier
-    - Fabien Keller
+    - Charlotte Fanneau
+    - Louis Laroche
+    - Romaric Haldenwang
 agents:
   sub: Les sponsors
   desc: Occupant des fonctions de haut niveau, les sponsors apportent la vision
