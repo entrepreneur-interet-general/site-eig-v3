@@ -8,7 +8,7 @@ defis:
   - 1 élève, 1 stage
 expertises:
   - Direction de produit
-image: img/placeholder_homme.svg
+image: img/1_4k-1-.png
 linkedin: https://www.linkedin.com/in/mathieu-rumeau-694581b9/
 ---
 Mathieu Rumeau a rejoint la Direction interministérielle du numérique en 2025 dans le cadre de la 7ème promotion d'Entrepreneurs d'intérêt général (EIG). Il est aujourd'hui directeur de produit de la startup 1élève1stage incubée au Ministère de l'Education nationale.
