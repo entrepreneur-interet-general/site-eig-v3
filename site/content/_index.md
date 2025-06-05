@@ -2,8 +2,8 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Je postule
-    url: https://eig.numerique.gouv.fr/participer/candidats/
+    title: ""
+    url: ""
   title: |-
     Entreprendre
     pour le service public
@@ -23,9 +23,9 @@ talents:
     compétences de haut niveau au service du pilotage stratégique de produits
     numériques.
   list:
-    - Luis Arias
-    - Martin Letellier
-    - Fabien Keller
+    - Charlotte Fanneau
+    - Louis Laroche
+    - Romaric Haldenwang
 agents:
   sub: Les sponsors
   desc: Occupant des fonctions de haut niveau, les sponsors apportent la vision
