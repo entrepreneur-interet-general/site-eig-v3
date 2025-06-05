@@ -10,6 +10,7 @@ expertises:
   - Direction de l'impact
 image: img/1600427054398.jpeg
 linkedin: https://fr.linkedin.com/in/charlottefanneau
+weight: 1
 ---
 Charlotte Fanneau a rejoint la 7ème promotion du programme Entrepreneur(e)s d'intérêt général en janvier 2025. Elle est directrice de l'impact de DomiFa au sein de la Direction Générale de la Cohésion Sociale.
 
