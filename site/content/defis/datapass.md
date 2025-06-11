@@ -4,7 +4,7 @@ description: Délivrer des habilitations pour accéder à la donnée produite pa
 who: Direction interministérielle du numérique
 place: Opérateur de produits interministériels
 themes:
-  - Innovation
+  - Numérique public
 promos:
   - Promotion 7
 town: Paris (75)
