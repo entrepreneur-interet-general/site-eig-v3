@@ -1,6 +1,6 @@
 ---
 title: Cyprien Cambier
-job: Directrice de l'impact
+job: Directeur de l'impact
 promos:
   - Promotion 7
 role: participant
