@@ -1,6 +1,6 @@
 <head>
   <link href="/dsfr.css" rel="stylesheet">
-  <title>{{ $.Site.Title }} - {{ .Title }}</title>
+  <title>{{ .Title }} - {{ $.Site.Title }}</title>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
