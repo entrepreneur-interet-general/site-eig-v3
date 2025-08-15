@@ -11,6 +11,7 @@ expertises:
 image: img/sz_profile-500x500.jpg
 linkedin: https://www.linkedin.com/in/sylvainzimmer/
 github: https://github.com/sylvinus
+weight: 8
 ---
 Sylvain Zimmer a rejoint la Direction interministérielle du numérique en 2025 en tant que directeur technique de la Suite territoriale, un projet de l'ANCT visant à fournir un socle de services numériques sécurisés et souverains aux collectivités.
 
