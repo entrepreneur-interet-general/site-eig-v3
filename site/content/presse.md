@@ -172,6 +172,12 @@ agents:
 
 ## Les projets EIG
 
+### En 2025
+
+#### Quand l’assemblée se penche concrètement sur l’impact des lois
+
+[Atlantico, 24 avril 2025](https://atlantico.fr/article/rdv/quand-lassemblee-se-penche-concretement-sur-limpact-des-lois-chroniques-parlementaires-samuel-le-goff) : « L’évaluation et le contrôle de l’application des lois fait partie des missions des assemblées, qui s’en préoccupent généralement une fois qu’elles sont votées. Mais ce contrôle peut aussi s’effectuer avant, ou pendant le travail parlementaire, afin d’anticiper les effets de ce qui est proposé au vote. »
+
 ### En 2023
 
 #### Les données sociales, nouveau carburant des contrôles des inspecteurs du travail
