@@ -1,11 +1,11 @@
 ---
-open: true
+open: false
 head:
   questions:
     - question: Vous avez une solide expérience entrepreneuriale ?
     - question: Vous pilotez par les objectifs et les résultats ?
     - question: Vous voulez faire réussir des projets de l’État ?
-  sub: Déposez votre candidature au plus tard le vendredi 11 avril 2025.
+  sub: Les candidatures pour la 7ème promotion sont closes.
   apply:
     title: Je dépose ma candidature
     url: /participer/candidats/postuler
@@ -67,9 +67,9 @@ profiles:
 
     * [Voir l'offre d'emploi Chief Impact Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-impact-officer-cio-et-entrepreneur-eig)
   list:
-    - Clara Carneiro Alves
-    - Loup Theron
-    - Amélie Medem
+    - Charlotte Fanneau
+    - Romaric Haldenwang
+    - Louis Laroche
   sub: Elles et ils sont devenu(e)s EIG
 conditions:
   title: Les conditions de recrutement
@@ -131,13 +131,7 @@ how:
 
     Si vous êtes retenu(e), vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir au sein de l'administration lauréate.
 wait:
-  title: Appel à candidatures EIG 7
-  desc: >-
-    Pour postuler à la 7ème promotion des Entrepreneur(e)s d'intérêt général,
-    nous vous invitons à [déposer un
-    dossier](https://www.demarches-simplifees.fr/commencer/aac-eig7) dans la
-    plateforme Démarches simplifiées.
-
-
-    Un jury de sélection se tiendra tous les deux mois, tout au long de l’année 2024, pour évaluer les dossiers et proposer des entretiens aux candidat(e)s présélectionné(e)s.
+  title: Rejoignez-nous sur les réseaux
+  desc: Retrouvez toute l'actualité du programme Entrepreneur(e)s d’intérêt
+    général sur [LinkedIn](https://www.linkedin.com/company/eigforever/).
 ---
