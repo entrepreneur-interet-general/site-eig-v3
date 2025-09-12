@@ -5,13 +5,13 @@ promos:
   - Promotion 7
 role: participant
 defis:
-  - Aides Agri
+  - Aides simplifiées
 expertises:
   - Direction technique
 image: img/screenshot-2024-08-26-at-16.19.26.png
 linkedin: https://www.linkedin.com/in/bluesquare/
 ---
-Michel Jautzy rejoint le programme EIG en tant que CTO de la plateforme Aides Agri (janvier 2025), une plateforme qui centralise les informations sur les aides disponibles, avec une mise en relation de proximité avec un conseiller.
+Michel Jautzy rejoint le programme EIG en tant que CTO du service Aides simplifiées, qui propose des simulateurs intégrables, réutilisables et connectés aux démarches, pour que chaque citoyen trouve la bonne aide, au bon moment et au bon endroit.
 
 Développeur et entrepreneur, sorti de Polytechnique en 2014, Michel s'appuie sur 10 ans d'entreprenariat dans la tech au cours desquels il fonde avec succès une agence web (10 développeurs), et co-fonde un SaaS (18 employés).
 
