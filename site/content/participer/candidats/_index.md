@@ -1,11 +1,11 @@
 ---
-open: false
+open: true
 head:
   questions:
     - question: Vous avez une solide expérience entrepreneuriale ?
     - question: Vous pilotez par les objectifs et les résultats ?
     - question: Vous voulez faire réussir des projets de l’État ?
-  sub: Les candidatures pour la 7ème promotion sont closes.
+  sub: Les candidatures sont ouvertes jusqu'au dimanche 5 octobre 2025 à 23 h 59.
   apply:
     title: Je dépose ma candidature
     url: /participer/candidats/postuler
