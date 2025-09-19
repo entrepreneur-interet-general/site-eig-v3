@@ -34,12 +34,16 @@ steps:
       desc: |-
         * Dépôt des dossiers : du 6 mars au 11 avril 2025 à 23 h 59
         * Entretiens de sélection : du 21 avril au 16 mai 2025
+    - date: Sprint n° 5 (septembre-octobre 2025)
+      desc: |-
+        * Dépôt des dossiers : du 18 septembre au 5 octobre 2025 à 23 h 59
+        * Entretiens de sélection : du 13 au 24 octobre 2025
 questions: Pour toute question sur les modalités, n'hésitez pas à [contacter
   l'équipe](https://www.eig.numerique.gouv.fr/contact) du programme EIG.
 join:
   image: https://www.eig.numerique.gouv.fr/img/eig6-1500x500.jpeg
   title: Retrouvez-nous sur les réseaux
-  desc: Pour être informé(e) des dates des prochains sprints, suivez-nous sur
-    LinkedIn !
+  desc: Pour être informé(e) de l'actualité des Entrepreneur(e)s d'intérêt
+    général, suivez-nous sur LinkedIn !
   link: https://www.linkedin.com/company/eigforever/
 ---
