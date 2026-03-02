@@ -11,12 +11,12 @@ image: img/thomas-parisot.jpg
 linkedin: https://www.linkedin.com/in/tparisot/
 weight: 1
 ---
-Thomas Parisot a rejoint la Direction interministérielle du numérique en 2021 en tant que coach produit au sein du département Etalab. Il dirige aujourd’hui le programme Entrepreneur(e)s d’intérêt général à l’Incubateur de services numériques.
+Thomas Parisot dirige le programme Entrepreneur·e·s d’intérêt général au sein de la Direction interministérielle du numérique. Il pilote un dispositif d’**entrepreneuriat public** dédié à la performance des services numériques de l’État.
 
-Il recrute, soutient et accompagne une promotion de Chief Impact Officers (CIO), Chief Product Officers (CPO) et Chief Technology Offiers (CTO), envoyé(e)s en mission dans les startups d'État du réseau beta.gouv.fr.
+Il encadre une promotion de plus de **30 Chief Impact, Product et Technology Officers** dans les startups d'État. Il a repositionné le programme autour d’un pilotage par la valeur, clarifié la gouvernance et **renforcé la sélectivité e**t **l’attractivité du dispositif**, accélérant les décisions d’investissement et sécurisant l’atterrissage opérationnel des produits.
 
-Fort de plus de quinze années d’expérience dans le secteur numérique, Thomas a évolué dans des environnements très diversifiés : startups, grandes entreprises, cabinets de conseil et associations. Cette pluralité nourrit sa capacité à comprendre les enjeux propres à chaque contexte et à adapter les approches.
+Fort de **vingt ans d’expérience** dans le numérique, il a accompagné plusieurs **cycles d’innovation**, des premières applications mobiles aux plateformes SaaS et aux modèles d’entrepreneuriat public. Pionnier du mobile dès 2009 pour Dailymotion, MSN et Universal, il adopte tôt les méthodes agiles puis le design thinking
 
-Il s’attèle à stimuler la création de valeur, encapaciter les équipes et faciliter l’atteinte des objectifs. Pour résoudre des problèmes complexes et rester en capacité d’apprendre, il s’impose une pratique systémique et agnostique.
+Il sécurise des **lancements à forte visibilité**, comme les applications Roland-Garros en France et Hello bank! au Benelux. À la branche numérique de La Poste, il contribue au déploiement sur FranceConnect de la **première identité numérique certifiée** par l’ANSSI au niveau substantiel du règlement eIDAS. Durant la crise sanitaire, au sein d’une startup de la Civic Tech, il repositionne l’offre produit et participe à une **levée de fonds** de 2 M€, prolongeant le “runway” à 24 mois.
 
-Particulièrement attaché aux valeurs d'égalité et de diversité, Thomas veille à ce que le recrutement et le management dans les équipes qu’il encadre offrent à chacun(e) les mêmes opportunités de contribution et d'évolution.
+Son fil directeur : clarifier la stratégie, prioriser les investissements et rendre l’exécution lisible — jusqu’à des résultats mesurables. Engagé en faveur d’un numérique d’intérêt général, il défend une exigence d’éthique du design, d’**évaluation rigoureuse de l’impact** et de contribution équitable au sein des collectifs.
