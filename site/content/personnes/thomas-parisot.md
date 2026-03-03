@@ -14,7 +14,7 @@ expertises:
   - "Accompagnement "
   - Direction de produit
   - Direction de l'impact
-image: img/thomas-parisot.jpg
+image: img/thomas-parisot.png
 linkedin: https://www.linkedin.com/in/tparisot/
 weight: 1
 ---
@@ -26,4 +26,4 @@ Fort de **vingt ans d’expérience** dans le numérique, il a accompagné plusi
 
 Il sécurise des **lancements à forte visibilité**, comme les applications Roland-Garros en France et Hello bank! au Benelux. À la branche numérique de La Poste, il contribue au déploiement sur FranceConnect de la **1ère identité numérique certifiée** par l’ANSSI au niveau substantiel du règlement eIDAS. Durant la crise sanitaire, au sein d’une startup de la Civic Tech, il repositionne l’offre produit et participe à une **levée de fonds de 2 M€**, prolongeant le “runway” à 24 mois.
 
-Son fil directeur : clarifier la stratégie, prioriser les investissements et rendre l’exécution lisible — jusqu’à des résultats mesurables. Engagé en faveur d’un numérique d’intérêt général, il défend une exigence d’éthique du design, d’**évaluation exigeante de l’impact** et de contribution équitable au sein des collectifs.
+Son fil directeur : clarifier la stratégie, prioriser les investissements et rendre l’exécution lisible — jusqu’à des résultats mesurables. Engagé en faveur d’un **numérique d’intérêt général**, il défend une exigence d’éthique du design, d’**évaluation exigeante de l’impact** et de contribution équitable au sein des collectifs.
