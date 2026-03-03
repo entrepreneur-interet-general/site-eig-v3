@@ -5,8 +5,9 @@ desc: Thomas Parisot dirige un programme national d’entrepreneuriat public. Il
   accompagne le financement, le lancement et l’accélération de startups d’État,
   avec un pilotage exigeant centré sur l’impact.
 promos:
-  - Promotion 7
+  - Promotion 5
   - Promotion 6
+  - Promotion 7
 role: agent-programme
 defis:
   - Magellan
