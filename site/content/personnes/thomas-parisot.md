@@ -14,7 +14,7 @@ expertises:
   - "Accompagnement "
   - Direction de produit
   - Direction de l'impact
-image: img/thomas-parisot.jpg
+image: img/thomas-parisot.png
 linkedin: https://www.linkedin.com/in/tparisot/
 weight: 1
 ---
