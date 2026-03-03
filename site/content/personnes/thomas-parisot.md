@@ -1,12 +1,19 @@
 ---
 title: Thomas Parisot
 job: Directeur de programme
-desc: ""
-promos: []
+desc: Thomas Parisot dirige un programme national d’entrepreneuriat public. Il
+  accompagne le financement, le lancement et l’accélération de startups d’État,
+  avec un pilotage exigeant centré sur l’impact.
+promos:
+  - Promotion 7
+  - Promotion 6
 role: agent-programme
-defis: []
+defis:
+  - Magellan
 expertises:
   - "Accompagnement "
+  - Direction de produit
+  - Direction de l'impact
 image: img/thomas-parisot.jpg
 linkedin: https://www.linkedin.com/in/tparisot/
 weight: 1
@@ -15,7 +22,7 @@ Thomas Parisot dirige le programme Entrepreneur·e·s d’intérêt général au
 
 Il encadre une promotion de plus de **30 Chief Impact, Product et Technology Officers** dans les startups d'État. Il a repositionné le programme autour d’un pilotage par la valeur, clarifié la gouvernance et renforcé son **exigence de sélectivité et d’impact**, accélérant les décisions d’investissement et sécurisant l’atterrissage opérationnel des produits.
 
-Fort de **vingt ans d’expérience** dans le numérique, il a accompagné plusieurs vagues d’innovation, des débuts du smartphone à l’IA générative, en passant par le SaaS et les plateformes. **Pionnier des apps mobiles** dès 2009pour Dailymotion, MSN et Universal, il s’approprie très tôt les méthodes agiles puis le design thinking.
+Fort de **vingt ans d’expérience** dans le numérique, il a accompagné plusieurs vagues d’innovation, des débuts du smartphone à l’IA générative, en passant par le SaaS et les plateformes. **Pionnier des apps mobiles** dès 2009 pour Dailymotion, MSN et Universal, il s’approprie très tôt les méthodes agiles puis le design thinking.
 
 Il sécurise des **lancements à forte visibilité**, comme les applications Roland-Garros en France et Hello bank! au Benelux. À la branche numérique de La Poste, il contribue au déploiement sur FranceConnect de la **1ère identité numérique certifiée** par l’ANSSI au niveau substantiel du règlement eIDAS. Durant la crise sanitaire, au sein d’une startup de la Civic Tech, il repositionne l’offre produit et participe à une **levée de fonds de 2 M€**, prolongeant le “runway” à 24 mois.
 
