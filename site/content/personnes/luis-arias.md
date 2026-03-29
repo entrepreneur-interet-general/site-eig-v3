@@ -18,4 +18,4 @@ Avec plus de trente ans d'expérience dans le numérique, il a évolué en tant 
 
 Il aime les challenges de la startup early stage où tout est à construire dans un temps relativement court et un budget limité. Il accorde une très grande importance à la culture de ses équipes, l'impact au quotidien et les innovations technologiques et d'usage.
 
-D'origine multi-culturelle affichant des liens avec la colombie et les états-unis, l'acquisition de la nationalité française en 2017 a été une étape marquante le permettant d'affirmer pleinement son attachement à la France et l'Europe.
+D'origine multi-culturelle affichant des liens avec la Colombie et les États-Unis, l'acquisition de la nationalité française en 2017 a été une étape marquante le permettant d'affirmer pleinement son attachement à la France et l'Europe.
