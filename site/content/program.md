@@ -1,10 +1,10 @@
 ---
 numbers:
-  - num: "206"
-    title: Entrepreneur(e)s d’intérêt général
+  - num: "243"
+    title: Entrepreneur·e·s d’intérêt général
     btnTitle: Découvrir les talents
     btnUrl: /talents
-  - num: "101"
+  - num: "132"
     title: Défis d’intérêt général
     btnTitle: Découvrir les projets
     btnUrl: /defis
@@ -26,7 +26,7 @@ steps:
         résolu par le numérique. Aller à la rencontre des utilisateurs et des
         utilisatrices permet de qualifier le problème et d’imaginer des
         solutions. Si l'investigation est concluante, le pilotage stratégique
-        peut être confié à un(e) EIG recruté(e) par la DINUM et envoyé(e) en
+        peut être confié à un·e EIG recruté·e par la DINUM et envoyé·e en
         mission dans l'administration porteuse de la politique publique
         concernée.
     - icon: /img/2_prouver_le_concept.png
@@ -34,13 +34,13 @@ steps:
       duration: 12 mois
       title: Lancer le service, prouver son impact
       dates: Pendant le contrat de l’EIG
-      desc: "Avec le soutien d'un(e) sponsor de haut niveau dans l'administration
+      desc: "Avec le soutien d'un·e sponsor de haut niveau dans l'administration
         porteuse, l'EIG se voit confier la responsabilité et l'autonomie pour
         expérimenter une proposition de valeur et piloter le développement du
-        produit numérique. Véritable entrepreneur(e) au sein de
-        l'administration, l'EIG définit la stratégie produit, établit la feuille
-        de route, constitue et manage l'équipe. Sa mission consiste à lancer le
-        plus rapidement possible un service numérique en le confrontant à des
+        produit numérique. Véritable entrepreneur·e au sein de l'administration,
+        l'EIG définit la stratégie produit, établit la feuille de route,
+        constitue et manage l'équipe. Sa mission consiste à lancer le plus
+        rapidement possible un service numérique en le confrontant à des
         utilisateurs et utilisatrices, afin de s’assurer qu’il résout
         effectivement le problème visé. "
     - dates: En cas de renouvellement
@@ -104,20 +104,13 @@ how:
     #### Comment ?
 
 
-    Les EIG sont des agent(e)s recruté(e)s par la DINUM en contrat de projet d'un an, renouvelable, et envoyé(e)s en mission dans les administrations partenaires.
-
-
-    #### Quand ?
-
-
-    La sélection des projets et le recrutement des EIG seront opérés au fil de l'eau en 2024, à rythme bimestriel, jusqu'à 30 EIG pour la 7ème promotion.
-
+    Les EIG sont des agent·e·s recruté·e·s par la DINUM en contrat de projet d'un an, renouvelable, et envoyé·e·s en mission dans les administrations partenaires.
 then:
   desc: >-
     ## Et après ?
 
 
-    Pour les entrepreneur(e)s, le programme offre l'opportunité d'une trajectoire de carrière au service de l’action publique. Après leur immersion au coeur des métiers de l’administration, 60% des EIG choisissent de rester dans le secteur public.
+    Pour les entrepreneur·e·s, le programme offre l'opportunité d'une trajectoire de carrière au service de l’action publique. Après leur immersion au coeur des métiers de l’administration, 60% des EIG choisissent de rester dans le secteur public.
 
 
     Pour les sponsors, EIG permet d’intégrer durablement des talents dans leurs services, au-delà de la dynamique entrepreneuriale initiée dans le cadre du programme. Ainsi, 90% des défis relevés perdurent dans les administrations.
