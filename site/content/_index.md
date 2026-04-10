@@ -2,35 +2,36 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Je postule
-    url: https://eig.numerique.gouv.fr/participer/candidats/
+    title: ""
+    url: ""
   title: |-
-    Entreprendre
-    pour le service public
+    Des entrepreneur·e·s
+    en résidence dans l’État
 intro:
-  desc: Les Entrepreneur(e)s d’intérêt général (co)pilotent le lancement et
-    l'accélération de services numériques conçus selon l'approche beta.gouv.fr
-    en soutien aux politiques publiques.
-  title: Nous facilitons le recrutement d'entrepreneur(e)s dans la fonction publique.
+  desc: >+
+    Une nouvelle génération d’Entrepreneur·e·s d’intérêt général (EIG) pour
+    faire émerger, déployer et porter à maturité des services et des plateformes
+    au cœur des politiques publiques.
+
+  title: Un programme à la croisée de l’État et de l’entrepreneuriat
 defis:
-  sub: Faire réussir les projets numériques de l’État
-  desc: "De la santé à l'environnement, en passant par l'éducation et la justice,
-    les projets entrepreneuriaux ont un dénominateur commun : améliorer
-    l'efficacité de l'action publique."
+  sub: Améliorer concrètement l’action publique
+  desc: Les EIG accompagnent les administrations partenaires pour concevoir des
+    services numériques utiles, les faire passer à l’échelle et installer
+    durablement une organisation orientée produit.
 talents:
-  sub: Les Entrepreneur(e)s d'intérêt général
-  desc: Des profils dotés d'une solide expérience entrepreneuriale mettent leurs
-    compétences de haut niveau au service du pilotage stratégique de produits
-    numériques.
+  sub: Les entrepreneur·e·s
+  desc: Issu·e·s de l’écosystème des startups, les EIG mettent leur expérience au
+    service de produits numériques à fort enjeu pour l’action publique.
   list:
     - Charlotte Fanneau
-    - Louis Laroche
-    - Romaric Haldenwang
+    - Julien Honnart
+    - Clara Dumont
 agents:
   sub: Les sponsors
-  desc: Occupant des fonctions de haut niveau, les sponsors apportent la vision
-    stratégique liée aux politiques publiques et facilitent la mission confiée
-    aux Entrepreneur(e)s d’intérêt général.
+  desc: Occupant des fonctions de haut niveau, les sponsors orientent les
+    décisions clés, lèvent les freins et garantissent un cadre favorable au
+    développement du produit.
   list:
     - Marielle Chrisment
     - "Adnène Trojette "
