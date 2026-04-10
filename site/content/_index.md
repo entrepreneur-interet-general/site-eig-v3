@@ -13,7 +13,7 @@ intro:
     faire émerger, déployer et porter à maturité des services et des plateformes
     au cœur des politiques publiques.
 
-  title: Un programme à la croisée de l’État et de l’entrepreneuriat
+  title: À la croisée de l’État et de l’entrepreneuriat
 defis:
   sub: Améliorer concrètement l’action publique
   desc: Les EIG accompagnent les administrations partenaires pour concevoir des
