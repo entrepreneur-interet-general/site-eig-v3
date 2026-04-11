@@ -1,19 +1,8 @@
-# Site du programme Entrepreneur(e)s d’intérêt général
-
-Entrepreneur(e)s d’intérêt général permet à des talents du numérique ou « EIG » d’intégrer des administrations, pour relever en 10 mois des défis qui améliorent le service public.
-
-En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. Ses valeurs cardinales sont :
-
-- l’esprit entrepreneurial 
-- l’open-data et l’open-source 
-- le numérique éco-responsable 
-- le numérique accessible
-
-Pour en savoir plus : https://eig.etalab.gouv.fr/programme.
+# Site du programme Entrepreneur·e·s d’intérêt général
 
 ## Engagement
 
-Dans un contexte d’engagement de l’Etat en faveur de l’ouverture des données depuis le Partenariat pour le gouvernement ouvert (PGO) de 2016, afin de favoriser la transparence démocratique et le partage des informations, le site du programme Entrepreneur(e)s d’intérêt général ouvre son code source afin de le rendre accessible au plus grand nombre. 
+Dans un contexte d’engagement de l’Etat en faveur de l’ouverture des données depuis le Partenariat pour le gouvernement ouvert (PGO) de 2016, afin de favoriser la transparence démocratique et le partage des informations, le site du programme Entrepreneur·e·s d’intérêt général ouvre son code source afin de le rendre accessible au plus grand nombre. 
 
 
 ## Fonctionnement général
@@ -32,7 +21,7 @@ Il existe deux façons de modifier les contenus (textes du site, biographies, ar
 
 - Soit en modifiant directement les fichiers. Dans ce cas, le changement est à faire sur une branche créée pour l'occasion, puis à intégrer à `preprod-v2` pour visualiser les changements, et enfin à passer sur la branche `master` pour que envoyer les changements en production.
 
-- Soit en passant par le [back-office](https://eig.etalab.gouv.fr/admin) du site. En effet, le site fonctionne comme un CMS. Chaque modification opérée via le back-office a d'abord le statut de `draft`. Une branche est automatiquement créée pour chaque draft. Lorsque l'auteur(e) change le statut de la modification de `draft` à `publié`, la branche est automatiquement mergée à `master`. *Note : pour accéder au back-office, les contributeur·trice·s doivent être membres du répertoire Github.*
+- Soit en passant par le [back-office](https://eig.numerique.gouv.fr/admin/) du site. En effet, le site fonctionne comme un CMS. Chaque modification opérée via le back-office a d'abord le statut de `draft`. Une branche est automatiquement créée pour chaque draft. Lorsque l'auteur(e) change le statut de la modification de `draft` à `publié`, la branche est automatiquement mergée à `master`. *Note : pour accéder au back-office, les contributeur·trice·s doivent être membres du répertoire Github.*
 
 ## Fonctionnement technique : Hugo template for Netlify CMS
 
