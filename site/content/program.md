@@ -1,15 +1,15 @@
 ---
 numbers:
-  - num: "243"
-    title: Entrepreneur·e·s d’intérêt général
-    btnTitle: Découvrir les talents
+  - num: "227"
+    title: entrepreneur·e·s recruté·e·s
+    btnTitle: Découvrir les lauréat·e·s
     btnUrl: /talents
-  - num: "132"
-    title: Défis d’intérêt général
+  - num: "131"
+    title: défis relevés
     btnTitle: Découvrir les projets
     btnUrl: /defis
-  - num: "80"
-    title: administrations impactées
+  - num: "58"
+    title: organismes bénéficiaires
     btnTitle: Découvrir les sponsors
     btnUrl: /agents
 steps:
@@ -70,50 +70,42 @@ steps:
 layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
-title: Le programme
+title: Faire émerger et déployer des services publics numériques
 desc: >-
-  En 2016, la présidence de la République française annonçait, à l'occasion du
-  sommet mondial du Partenariat pour un Gouvernement Ouvert, le lancement du
-  programme EIG.
+  En 2016, à l’occasion du sommet mondial du Partenariat pour un Gouvernement
+  Ouvert, la Présidence de la République lance le programme Entrepreneur·e·s
+  d’intérêt général (EIG). Son ambition : développer une fonction publique plus
+  entrepreneuriale, dans ses méthodes comme dans sa culture.
 
 
-  En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une fonction publique plus entrepreneuriale, tant dans ses méthodes que sa culture de travail.
+  Pendant six promotions, au sein du département Etalab, le programme fait entrer dans l’administration des profils aux parcours variés : design, ingénierie ou droit ; autodidaxie, reconversion ou recherche ; startup, conseil ou association. En croisant ces expériences avec les réalités de l’administration, il contribue à renouveler les façons de concevoir l’action publique.
 
 
-  Le programme vise ainsi à contribuer l'efficacité de l'action publique. Il facilite l'internalisation de talents capables d'expérimenter un service numérique, de prouver sa valeur et d'amorcer son adoption.
+  Aujourd’hui, au cœur du réseau beta.gouv.fr, le programme mobilise une nouvelle génération d’entrepreneur·e·s pour faire émerger, déployer et porter à maturité des services et des plateformes numériques au service des politiques publiques. En mettant l’accent sur le pilotage, l’exécution et l’impact, il accompagne des projets appelés à s’inscrire durablement dans l’action publique.
 how:
   desc: >-
-    ## Les nouveautés
+    ## Comment ça marche ?
 
 
-    Le programme EIG se renouvelle et se réoriente. À compter de la 7ème promotion, il se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques.
+    #### Pour les entrepreneur·e·s
 
 
-    #### Quoi ?
+    Vous rejoignez les Services du Premier ministre en contrat de projet d’un an, renouvelable. Vous intervenez au sein d’une administration partenaire. Vous y pilotez un produit numérique : comprendre le besoin, structurer le travail, lancer le service, mesurer ses résultats, optimiser sa valeur et accompagner son déploiement.
 
 
-    La mission des EIG s'opère dans les administrations publiques qui conduisent des projets numériques conçus selon l'approche [beta.gouv.fr](https://beta.gouv.fr/approche).
+    #### Pour les administrations
 
 
-    #### Qui ?
-
-
-    Le recrutement se concentre désormais sur 3 profils EIG dédiés au pilotage stratégique : directeur ou directrice produit, de l'impact ou technique.
-
-
-    #### Comment ?
-
-
-    Les EIG sont des agent·e·s recruté·e·s par la DINUM en contrat de projet d'un an, renouvelable, et envoyé·e·s en mission dans les administrations partenaires.
+    Vous proposez un défi d’intérêt général répondant à un besoin avéré et relevant d'une politique publique. Si votre projet est lauréat, vous accueillez un·e EIG pour piloter le service numérique. Vous apportez le cadre, l’appui hiérarchique et les moyens financiers nécessaires à sa réussite et à son inscription dans la durée.
 then:
   desc: >-
     ## Et après ?
 
 
-    Pour les entrepreneur·e·s, le programme offre l'opportunité d'une trajectoire de carrière au service de l’action publique. Après leur immersion au coeur des métiers de l’administration, 60% des EIG choisissent de rester dans le secteur public.
+    Le programme vise à ancrer dans l’administration les compétences, les méthodes et la culture nécessaires au développement de services numériques au service d’enjeux majeurs de politique publique.
 
 
-    Pour les sponsors, EIG permet d’intégrer durablement des talents dans leurs services, au-delà de la dynamique entrepreneuriale initiée dans le cadre du programme. Ainsi, 90% des défis relevés perdurent dans les administrations.
+    Au-delà de chaque mission, les EIG contribuent à installer une approche fondée sur l’attention aux besoins réels, la mesure de la valeur créée et l’amélioration continue des services.
 quote:
   photo: /img/marguerite-yourcenar3.jpg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
