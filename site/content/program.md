@@ -53,12 +53,9 @@ image: img/bootcamp9_auto_x2-1-.jpg
 title: Entreprendre pour le service public
 desc: >-
   En 2016, à l’occasion du sommet mondial du Partenariat pour un Gouvernement
-  Ouvert, la Présidence de la République lance le programme Entrepreneur·e·s
+  Ouvert, la Présidence de la République lançait le programme Entrepreneur·e·s
   d’intérêt général (EIG). Son ambition : développer une fonction publique plus
   ouverte et plus entrepreneuriale, dans ses méthodes comme dans sa culture.
-
-
-  Pendant six promotions, au sein d’Etalab, le programme EIG recrute des profils aux parcours variés, issus du design, de l’ingénierie ou du droit ; autodidactes, en reconversion ou venant de la recherche. En croisant ces expériences avec les réalités des administrations, il contribue à renouveler l’action publique.
 
 
   Aujourd’hui, au sein du réseau beta.gouv.fr, le programme mobilise une nouvelle génération d’entrepreneur·e·s pour faire émerger, déployer et porter à maturité des services et des plateformes au cœur des politiques publiques. Il accompagne des projets qui ont vocation à s’ancrer durablement dans l’action publique.
