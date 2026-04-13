@@ -90,13 +90,13 @@ how:
     #### Pour les entrepreneur·e·s
 
 
-    Vous rejoignez les Services du Premier ministre en contrat de projet d’un an, renouvelable. Vous intervenez au sein d’une administration partenaire. Vous y pilotez un produit numérique : comprendre le besoin, structurer le travail, lancer le service, mesurer ses résultats, optimiser sa valeur et accompagner son déploiement.
+    Vous rejoignez les Services du Premier ministre en contrat de projet d’un an, renouvelable. Vous intervenez au sein d’une administration partenaire. Vous y pilotez un produit numérique : comprendre le besoin, lancer le service, mesurer ses résultats, optimiser sa valeur et accompagner son déploiement.
 
 
     #### Pour les administrations
 
 
-    Vous proposez un défi d’intérêt général répondant à un besoin avéré et relevant d'une politique publique. Si votre projet est lauréat, vous accueillez un·e EIG pour piloter le service numérique. Vous apportez le cadre, l’appui hiérarchique et les moyens financiers nécessaires à sa réussite et à son inscription dans la durée.
+    Vous proposez un projet répondant à un besoin avéré et relevant d'une politique publique. Si votre projet est lauréat, vous accueillez un·e EIG pour piloter le service numérique. Vous apportez le cadre, l’appui hiérarchique et les moyens financiers nécessaires à sa réussite et à son inscription dans la durée.
 then:
   desc: >-
     ## Et après ?
