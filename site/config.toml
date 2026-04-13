@@ -1,7 +1,7 @@
 baseurl = ""
 languageCode = "fr-fr"
 languageLang = "fr"
-title = "Entrepreneur(e)s d'intérêt général"
+title = "Entrepreneur·e·s d'intérêt général"
 paginate = 8
 
 # RSS, categories and tags disabled for an easy start
@@ -35,13 +35,13 @@ removePathAccents = true
     identifier = "impact"
     weight = 2
   [[menu.nav]]
-    name = "Participant(e)s"
+    name = "Participant·e·s"
     url = "/participants"
     identifier = "participants"
     weight = 3
   
   [[menu.nav]]
-    name = "Entrepreneur(e)s"
+    name = "Entrepreneur·e·s"
     url = "/talents"
     parent = "participants"
     weight = 1
