@@ -53,7 +53,7 @@ image: img/bootcamp9_auto_x2-1-.jpg
 title: Entreprendre pour le service public
 desc: >-
   En 2016, à l’occasion du sommet mondial du Partenariat pour un Gouvernement
-  Ouvert, la Présidence de la République lance le programme Entrepreneur·e·s
+  Ouvert, la Présidence de la République lançait le programme Entrepreneur·e·s
   d’intérêt général (EIG). Son ambition : développer une fonction publique plus
   ouverte et plus entrepreneuriale, dans ses méthodes comme dans sa culture.
 
