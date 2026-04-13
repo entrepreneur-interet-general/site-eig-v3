@@ -1,15 +1,15 @@
 ---
 numbers:
   - num: "227"
-    title: Entrepreneur·e·s recruté·e·s
+    title: entrepreneur·e·s recruté·e·s
     btnTitle: Découvrir les lauréat·e·s
     btnUrl: /talents
   - num: "131"
-    title: Défis relevés
+    title: défis relevés
     btnTitle: Découvrir les projets
     btnUrl: /defis
   - num: "58"
-    title: 58 organismes bénéficiaires
+    title: organismes bénéficiaires
     btnTitle: Découvrir les sponsors
     btnUrl: /agents
 steps:
