@@ -55,10 +55,10 @@ desc: >-
   En 2016, à l’occasion du sommet mondial du Partenariat pour un Gouvernement
   Ouvert, la Présidence de la République lançait le programme Entrepreneur·e·s
   d’intérêt général (EIG). Son ambition : développer une fonction publique plus
-  ouverte et plus entrepreneuriale, dans ses méthodes comme dans sa culture.
+  entrepreneuriale, dans ses méthodes et sa culture.
 
 
-  Aujourd’hui, au sein du réseau beta.gouv.fr, le programme mobilise une nouvelle génération d’entrepreneur·e·s pour faire émerger, déployer et porter à maturité des services et des plateformes au cœur des politiques publiques. Il accompagne des projets qui ont vocation à s’ancrer durablement dans l’action publique.
+  Aujourd’hui, le programme mobilise une nouvelle génération d’entrepreneur·e·s pour faire émerger, déployer et porter à maturité des services et des plateformes au cœur des politiques publiques. Il accompagne des projets qui ont vocation à s’ancrer durablement dans l’action publique.
 how:
   desc: >-
     ## Comment ça marche ?
@@ -79,7 +79,7 @@ then:
     ## Et après ?
 
 
-    Le programme vise à ancrer dans l’administration les compétences, les méthodes et la culture nécessaires au développement de services numériques au service d’enjeux majeurs de politique publique.
+    Le programme vise à ancrer dans l’administration les compétences, les méthodes et la culture nécessaires au développement de services numériques au service d’enjeux majeurs.
 
 
     Au-delà de chaque mission, les EIG contribuent à installer une approche fondée sur l’attention aux besoins réels, la mesure de la valeur créée et l’amélioration continue des services.
