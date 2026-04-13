@@ -58,9 +58,6 @@ desc: >-
   ouverte et plus entrepreneuriale, dans ses méthodes comme dans sa culture.
 
 
-  Pendant six promotions, au sein d’Etalab, le programme EIG recrute des profils aux parcours variés, issus du design, de l’ingénierie ou du droit ; autodidactes, en reconversion ou venant de la recherche. En croisant ces expériences avec les réalités des administrations, il contribue à renouveler l’action publique.
-
-
   Aujourd’hui, au sein du réseau beta.gouv.fr, le programme mobilise une nouvelle génération d’entrepreneur·e·s pour faire émerger, déployer et porter à maturité des services et des plateformes au cœur des politiques publiques. Il accompagne des projets qui ont vocation à s’ancrer durablement dans l’action publique.
 how:
   desc: >-
