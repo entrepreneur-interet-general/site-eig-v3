@@ -41,9 +41,10 @@
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ $defis := slice
-        (.Site.GetPage "/defis/refugies-info")
-        (.Site.GetPage "/defis/csplab")
-        (.Site.GetPage "/defis/referentiel-national-des-batiments")
+        (.Site.GetPage "/defis/réfugiés-info")
+        (.Site.GetPage "/defis/santé-psy-étudiant")
+        (.Site.GetPage "/defis/transports-sanitaires")
+
       }}
       {{ range $defis }}
         {{ if . }}
@@ -73,11 +74,18 @@
       </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
-      {{ range last 3 (where (where .Site.RegularPages "Type" "personnes") "Params.promos" "intersect" (slice "Promotion 7")) }}
+      {{ $personnes := slice
+        (.Site.GetPage "/personnes/clara-dumont-1")
+        (.Site.GetPage "/personnes/mathilde-le-roy")
+        (.Site.GetPage "/personnes/romaric-haldenwang")
+      }}
+      {{ range $personnes }}
+        {{ if . }}
         <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
           {{ .Render "li" }}
         </div>
-      {{ end }}
+        {{ end }}
+      {{ end }}      
     </div>    
     <div class="c-section__btn">
       <a href="{{ relref . " talents" }}?promo=7" class="fr-btn fr-btn--secondary">Découvrir d'autres entrepreneur(e)s</a>
