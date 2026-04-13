@@ -15,7 +15,7 @@ intro:
 
   title: À la croisée de l’État et de l’entrepreneuriat
 defis:
-  sub: Améliorer concrètement l’action publique
+  sub: Améliorer l’action publique
   desc: Les EIG accompagnent les administrations partenaires pour concevoir des
     services numériques utiles, les faire passer à l’échelle et installer
     durablement une organisation orientée produit.
@@ -38,7 +38,7 @@ agents:
 join:
   image: img/eig-6-ceremonie-photo-promo.jpg
   sub: Cérémonie de clôture de la 6e promotion
-  title: Découvrez les pitchs d’entrepreneur(e)s
+  title: Découvrez les pitchs d’entrepreneur·e·s
   btn:
     title: Regarder la vidéo
     url: https://www.dailymotion.com/video/x8mglor
