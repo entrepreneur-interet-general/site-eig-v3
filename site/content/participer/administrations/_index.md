@@ -57,7 +57,7 @@ program: >-
 
   Développer des capacités durables. Repenser la création de valeur, renouveler les méthodes de travail. Adopter une organisation orientée produit.
 criteria:
-  title: Les critères de sélection
+  title: Critères de sélection
   desc: La sélection des missions prend en considération les enjeux de politique
     publique, la valeur d'intérêt général, les conditions d'intervention, ainsi
     que la stratégie à moyen terme.
