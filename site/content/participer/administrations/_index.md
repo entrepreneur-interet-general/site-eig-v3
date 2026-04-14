@@ -57,7 +57,7 @@ program: >-
 
   Développer des capacités durables. Repenser la création de valeur, renouveler les méthodes de travail. Adopter une organisation orientée produit.
 criteria:
-  title: Les critères de sélection
+  title: Critères de sélection
   desc: La sélection des missions prend en considération les enjeux de politique
     publique, la valeur d'intérêt général, les conditions d'intervention, ainsi
     que la stratégie à moyen terme.
@@ -103,8 +103,8 @@ criteria:
     - num: "9"
       name: Ambition entrepreneuriale
       desc: Le besoin d'EIG reflète une volonté de passer un cap significatif. La
-        mission pressentie est susceptible de séduire des entrepreneur(e)s
-        aguerri(e)s.
+        mission pressentie est susceptible de séduire des entrepreneur·e·s
+        aguerri·e·s.
 steps: >-
   ## Le programme poursuit son déploiement
 
