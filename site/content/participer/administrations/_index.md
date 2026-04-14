@@ -8,76 +8,57 @@ head:
     entrepreneuriales dans la fonction publique.
   title: Administrations publiques
   apply:
-    title: Je propose un projet
+    title: En savoir plus
     url: /participer/administrations/proposer
   call:
-    title: Je découvre le règlement
+    title: Découvrir le règlement
     url: https://www.eig.numerique.gouv.fr/img/eig_7_reglement.pdf
 program: >-
-  En 2024, des postes seront ouverts pour recruter jusqu’à 30 EIG, en contrat de
-  projet à la Direction interministérielle du numérique, et les projeter en
-  mission au sein des administrations partenaires.
+  ## Profils mobilisés
 
 
-  ## Les profils proposés
+  #### Directeur·ice de l’impact
 
 
-  Le programme se concentre sur des profils de haut niveau, dotés d’une solide expérience entrepreneuriale, avec des compétences en pilotage de services numériques.
+  Définir une stratégie de croissance mesurable et actionnable. Piloter l’évaluation pour maximiser les effets concrets sur le terrain.
 
 
-  #### Directeur ou directrice de produit
+  #### Directeur·ice de produit
 
 
-  Ces profils aguerris en stratégie et en leadership ont une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.). Leur expérience entrepreneuriale a développé leur capacité à naviguer en évolution rapide et de pivoter selon les besoins.
+  Piloter la stratégie du produit de bout en bout, de la vision à l’exécution. Prioriser et tester en continu à partir des usages et des données.
 
 
-  [En savoir plus](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
+  #### Directeur·ice technique
 
 
-  #### Directeur ou directrice technique
+  Définir une trajectoire technologique souveraine et accessible. Structurer les pratiques pour déployer des solutions fiables et pérennes.
 
 
-  Ces profils possèdent une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). Leur expérience de direction d'équipes techniques orientées produit leur permet de résoudre des problèmes complexes et de suivre des indicateurs de performance.
+  ## Cadres d’intervention
 
 
-  [En savoir plus](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
+  De l’expérimentation à l’exploitation, les EIG accompagnent la transformation orientée produit.
+
+  #### Faire émerger et incuber un produit
 
 
-  #### Directeur ou directrice de l'impact
+  Amorcer une startup d’État ou réorienter un produit. Clarifier sa valeur, tester rapidement, orienter sa trajectoire. Faire émerger des preuves d’impact tangibles.
 
 
-  Ces profils, qui placent le marketing au service de l'intérêt général, savent définir, expérimenter et ajuster une stratégie d'impact viable, en s'appuyant sur tous les leviers de croissance et d'évaluation nécessaires pour optimiser les résultats.
+  #### Structurer et étendre le déploiement
 
 
-  [En savoir plus](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-impact-officer-cio-et-entrepreneur-eig)
+  Améliorer la performance, renforcer la qualité de service. Industrialiser, accompagner le passage à l’échelle. Déployer dans des conditions viables.
 
 
-  ## Les projets éligibles
+  #### Transformer et ancrer les pratiques
 
 
-  Les administrations publiques qui mènent des projets numériques conçus selon l'approche beta.gouv.fr peuvent solliciter une mission EIG.
-
-
-  #### Pour lancer un produit numérique
-
-
-  * Dans l'optique de constituer une équipe pluridisciplinaire, mobiliser l’écosystème, prouver la valeur du service et enclencher son adoption.
-
-  * Sous réserve qu'une investigation selon l'approche beta.gouv.fr permette de qualifier le problème, de valider le besoin et d'esquisser une stratégie.
-
-
-  #### Pour internaliser le pilotage stratégique
-
-
-  * Dans l'optique de structurer et fiabiliser le développement du produit, mais aussi faire grandir l’équipe, la technologie et l’organisation.
-
-  * Sous réserve que les conditions de l'approche beta.gouv.fr soient réunies (pilotage par l'impact, transparence des résultats, ouverture des codes sources, etc.).
-
-
-  Parcourir la [foire aux questions](https://www.eig.numerique.gouv.fr/participer/administrations/faq)
+  Développer des capacités durables. Repenser la création de valeur, renouveler les méthodes de travail. Adopter une organisation orientée produit.
 criteria:
   title: Les critères de sélection
-  desc: La sélection de projets prend en considération les enjeux de politique
+  desc: La sélection des missions prend en considération les enjeux de politique
     publique, la valeur d'intérêt général, les conditions d'intervention, ainsi
     que la stratégie à moyen terme.
   list:
@@ -125,29 +106,14 @@ criteria:
         mission pressentie est susceptible de séduire des entrepreneur(e)s
         aguerri(e)s.
 steps: >-
-  ## Les étapes de sélection
+  ## Le programme poursuit son déploiement
 
 
-  L’appel à projets de la 7ème promotion est opéré en continu en 2024 :
-
-
-  * Les administrations déposent un dossier dans la plateforme Démarches Simplifiées.
-
-  * Les dossiers déposés sont étudiés par un comité d'évaluation, dans un délai de 2 à 3 semaines.
-
-  * Les administrations pré-sélectionnées sont conviées à une soutenance.
-
-  * Les missions EIG sont sélectionnées par la DINUM, après délibération du jury.
-
-  * Les administrations lauréates se voient proposer un entretien avec 3 candidat(e)s par profil EIG octroyé.
+  En 2026, le programme Entrepreneures et entrepreneurs d’intérêt général s’inscrit dans la continuité des missions déjà engagées aux côtés des administrations partenaires.
 wait:
-  title: Appel à projets EIG 7
-  desc: >-
-    Pour postuler à la 7ème promotion des Entrepreneur(e)s d'intérêt général,
-    nous vous invitons à [déposer un
-    dossier](https://www.demarches-simplifees.fr/commencer/aap-eig7) dans la
-    plateforme Démarches simplifiées.
-
-
-    Un jury de sélection se tiendra tous les deux mois, tout au long de l’année 2024, pour évaluer les dossiers et proposer des profils aux administrations lauréates.
+  title: Pour aller plus loin
+  desc: Les administrations qui souhaitent explorer des opportunités de
+    partenariat ou échanger sur leurs enjeux peuvent se rapprocher de la
+    [direction du programme EIG](https://eig.numerique.gouv.fr/equipe), afin
+    d’engager la discussion.
 ---
