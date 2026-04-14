@@ -1,7 +1,10 @@
 .c-card-alt {
-  color: var(--bf500);
+  color: #1e1e1e;
   padding: 1.5rem;
-  background-color: #aeeaea;
+  background-color: #f5f5f5;
+  font-weight: 700;
+
+  border-left: 4px solid var(--bf500);
 
   @media (min-width: 48em) {
     height: 100%;
