@@ -13,16 +13,15 @@ head:
     title: ""
     url: ""
 def:
-  title: EIG, kézako ?
+  title: De nouvelles modalités
   info:
-    title: De nouvelles modalités
+    title: Le programme EIG ne fonctionne plus sous forme de promotions annuelles.
     desc: >-
-      Le programme EIG ne fonctionne plus sous forme de promotions annuelles.
+      * En cas de vacance de missions EIG, les opportunités sont publiées sur la
+      plateforme [Choisir le service
+      public](https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/).
 
-
-      * En cas de vacance d’une mission EIG, les opportunités sont publiées sur la plateforme [Choisir le service public](https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/).
-
-      * Pour être informé·e des prochaines opportunités du programme, vous pouvez également suivre notre actualité sur LinkedIn.
+      * Pour être informé·e des prochaines opportunités du programme, vous pouvez suivre notre actualité sur [LinkedIn](https://www.linkedin.com/company/eigforever/).
 what:
   title: Pourquoi devenir EIG ?
   defs:
