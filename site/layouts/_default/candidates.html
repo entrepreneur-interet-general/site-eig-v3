@@ -40,9 +40,9 @@
         </div>
         {{ end }}
         <h2>{{ .Params.def.title }}</h2>
-        <div class="fr-callout fr-mb-18v">
-          <h4 class="fr-callout__title">{{ .Params.def.info.title }}</h4>
-          <div class="fr-callout__text">
+        <div class="c-wait c-wait--blue fr-mb-18v">
+          <h3>{{ .Params.def.info.title }}</h3>
+          <div class="u-text-lg">
             {{ .Params.def.info.desc | markdownify }}
           </div>
         </div>
@@ -81,7 +81,7 @@
           {{ .Params.how.desc | markdownify }}
         </div>
         {{ if not .Params.open }}
-        <div class="c-wait c-wait--blue fr-mb-6v">
+        <div class="c-wait fr-mb-6v">
           <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
             <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
               <img src="/img/hourglass.svg" alt="">
