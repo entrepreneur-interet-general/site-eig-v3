@@ -30,31 +30,23 @@ title: Devenir EIG
 profiles:
   title: Profils recherchés
   desc: >-
-    **Directeur·rice de l'impact**
+    [Directeur·rice de
+    l'impact](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-impact-officer-cio-et-entrepreneur-eig)
 
 
     Vous savez définir, expérimenter et ajuster une stratégie d'impact viable, en vous appuyant sur tous les leviers de croissance et d'évaluation nécessaires pour optimiser les résultats.
 
 
-    [Voir l'offre d'emploi Chief Impact Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-impact-officer-cio-et-entrepreneur-eig)
+    [Directeur·rice de produit](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
 
 
-    **Directeur·rice de produit**
+    Vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.). Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins
 
 
-    Vous avez une compréhension holistique du lancement de services numériques (financement, marketing, ressources humaines, etc.). Votre expérience entrepreneuriale a développé votre capacité à naviguer en évolution rapide et à pivoter selon les besoins.
-
-
-    [Voir l'offre d'emploi Chief Product Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/cpo-entrepreneur-eig_BETAG_J13Gx4)
-
-
-    **Directeur·rice technique**
+    [Directeur·rice technique](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
 
 
     Vous possédez une compréhension approfondie des technologies et de leurs enjeux (souveraineté, sécurité, accessibilité, etc.). Votre expérience de direction d'équipes techniques orientées produit vous permet de résoudre des problèmes complexes.
-
-
-    [Voir l'offre d'emploi Chief Technology Officer et Entrepreneur(e)](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/chief-technology-officer-et-entrepreneur-eig)
   list:
     - Charlotte Fanneau
     - Joseph Dureau
