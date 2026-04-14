@@ -16,12 +16,9 @@ def:
   title: De nouvelles modalités
   info:
     title: Le programme EIG ne fonctionne plus sous forme de promotions annuelles.
-    desc: >-
-      * En cas de vacance de missions EIG, les opportunités sont publiées sur la
+    desc: En cas de vacance de missions EIG, les opportunités sont publiées sur la
       plateforme [Choisir le service
       public](https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/).
-
-      * Pour être informé·e des prochaines opportunités du programme, vous pouvez suivre notre actualité sur [LinkedIn](https://www.linkedin.com/company/eigforever/).
 what:
   title: Pourquoi devenir EIG ?
   defs:
@@ -116,6 +113,8 @@ how:
 
     Si vous êtes retenu·e, vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir au sein de l'administration lauréate.
 wait:
-  title: ""
-  desc: ""
+  title: De nouveaux recrutements ?
+  desc: Pour être informé·e des prochaines opportunités du programme, vous pouvez
+    suivre notre actualité sur
+    [LinkedIn](https://www.linkedin.com/company/eigforever/).
 ---
