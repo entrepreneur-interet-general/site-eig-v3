@@ -63,14 +63,14 @@ profiles:
 conditions:
   title: Conditions de recrutement
   desc: >-
-    Au coeur de l'écosystème du numérique public
+    **Au coeur de l'écosystème du numérique public**
 
     * Vous serez embauché·e par la DINUM en contrat de projet d’un an minimum, renouvelable.
 
     * Vous serez envoyé·e en mission dans une startup d'État d'une administration lauréate du programme.
 
 
-    Une grille de rémunération transparente
+    **Une grille de rémunération transparente**
 
     * Jusqu'à 10 ans d'expérience, un salaire net mensuel de 4250 € et une part variable de 6 %.
 
@@ -81,27 +81,27 @@ conditions:
 how:
   title: Déroulement des entretiens
   desc: >-
-    1. Votre dossier de candidature
+    **Étape 1 – Votre dossier de candidature**
 
     Vous postulez au programme EIG en déposant un dossier de candidature. Il sera évalué par des membres de la DINUM.
 
 
-    2. Un premier entretien selon votre profil
+    **Étape 2 – Un premier entretien selon votre profil**
 
     Si votre dossier est pré-sélectionné, vous êtes convié·e à un entretien en rapport avec votre métier, soit de direction produit, soit de direction technique, soit de direction de l'impact;
 
 
-    3. L'intégration à un vivier d'entrepreneur·e·s
+    **Étape 3 – L'intégration à un vivier d'entrepreneur·e·s**
 
     Si votre candidature est sélectionnée, vous pouvez intégrer un vivier d'entrepreneur·e·s susceptibles de se voir proposer une mission en tant qu'agent·e contractuel·le.
 
 
-    4. Un second entretien pour telle mission
+    **Étape 4 – Un second entretien pour telle mission**
 
     Si une mission pertinente pour votre profil est ouverte dans l'une des administrations lauréates du programme, vous êtes convié·e à un entretien en rapport avec la mission concernée.
 
 
-    5. Votre proposition d'embauche
+    **Étape 5 – Votre proposition d'embauche**
 
     Si vous êtes retenu·e, vous recevez une proposition d'embauche de la DINUM, puis une lettre de mission pour intervenir au sein de l'administration lauréate.
 wait:
