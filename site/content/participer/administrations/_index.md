@@ -103,8 +103,8 @@ criteria:
     - num: "9"
       name: Ambition entrepreneuriale
       desc: Le besoin d'EIG reflète une volonté de passer un cap significatif. La
-        mission pressentie est susceptible de séduire des entrepreneur(e)s
-        aguerri(e)s.
+        mission pressentie est susceptible de séduire des entrepreneur·e·s
+        aguerri·e·s.
 steps: >-
   ## Le programme poursuit son déploiement
 
