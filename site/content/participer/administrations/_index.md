@@ -1,7 +1,7 @@
 ---
 title: Administrations
 layout: admins
-open: true
+open: false
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur, nous facilitons l’internalisation des compétences
