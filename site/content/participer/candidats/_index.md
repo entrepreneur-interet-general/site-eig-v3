@@ -16,8 +16,8 @@ def:
   title: Nouvelles modalités
   info:
     title: Le programme EIG ne fonctionne plus en promotions annuelles.
-    desc: En cas de vacance, les opportunités sont publiées sur [Choisir le service
-      public](https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/).
+    desc: En cas de vacance, les offres sont publiées sur la plateforme Choisir le
+      service public.
 what:
   title: Pourquoi devenir EIG ?
   defs:
