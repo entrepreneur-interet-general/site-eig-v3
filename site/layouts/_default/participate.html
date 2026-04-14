@@ -5,10 +5,37 @@
     <div class="fr-grid-row fr-grid-row--center">
       <div class="fr-col-12 fr-col-lg-10">
         <h1 class="c-participate__title">{{ .Title }}</h1>
-        <ul class="fr-btns-group fr-btns-group--inline">
-          <li><a href="{{ relref . "candidats" }}" class="fr-btn">Candidates et candidats</a></li>
-          <li><a href="{{ relref . "administrations" }}" class="fr-btn">Administrations</a></li>
-        </ul>
+
+        <div class="fr-grid-row fr-grid-row--gutters">
+          <div class="fr-col-12 fr-col-md-6">
+            <div class="c-participate__card">
+              <h2 class="c-participate__subtitle">
+                {{ .Params.administrations.subtitle }}
+              </h2>
+              <p class="c-participate__text">
+                {{ .Params.administrations.text }}
+              </p>
+              <a href="{{ relref . "administrations" }}" class="fr-btn">
+                {{ .Params.administrations.cta }}
+              </a>
+            </div>
+          </div>
+
+          <div class="fr-col-12 fr-col-md-6">
+            <div class="c-participate__card">
+              <h2 class="c-participate__subtitle">
+                {{ .Params.candidates.subtitle }}
+              </h2>
+              <p class="c-participate__text">
+                {{ .Params.candidates.text }}
+              </p>
+              <a href="{{ relref . "candidats" }}" class="fr-btn">
+                {{ .Params.candidates.cta }}
+              </a>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
