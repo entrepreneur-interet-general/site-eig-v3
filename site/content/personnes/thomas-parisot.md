@@ -33,4 +33,4 @@ Fort de vingt ans d’expérience dans le numérique, il a accompagné plusieurs
 
 Il a sécurisé des lancements à forte visibilité, comme les applications Roland-Garros en France et Hello bank! au Benelux. À La Poste, il a participé au déploiement sur FranceConnect de la première identité numérique certifiée par l’ANSSI au niveau substantiel du règlement eIDAS. Durant la crise sanitaire, au sein d’une startup de la Civic Tech, il a contribué à une levée de fonds de 2 M€.
 
-Son fil directeur : clarifier la stratégie, prioriser les investissements et rendre l’exécution lisible – au service de résultats tangibles. Engagé en faveur d’un numérique d’intérêt général, il défend une approche exigeante du produit public, fondée sur l’éthique du design, l’évaluation rigoureuse de l’impact et la redevabilité collective.
+Son fil directeur : clarifier la stratégie, prioriser les investissements et rendre l’exécution lisible – au service de résultats tangibles. Engagé en faveur d’un numérique d’intérêt général, il défend une approche exigeante, fondée sur l’éthique du design, l’évaluation de l’impact et la redevabilité collective.
