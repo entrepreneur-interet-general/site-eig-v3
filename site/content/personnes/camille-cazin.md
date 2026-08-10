@@ -15,7 +15,7 @@ Camille Cazin a rejoint la Direction interministérielle du numérique en 2024 e
 
 Son rôle : assurer une organisation optimale afin de piloter le déploiement et l’adoption de cette initiative stratégique pour la transformation numérique de l’administration.
 
-Experte en management de l’innovation, Camille a passé cinq ans en cabinet de conseil au UK et en France, mettant cette expertise au service de grands groupes dans les secteurs comme la pharma, l'aéronautique, l’énergie ou encore la banque.
+Experte en management de l’innovation, Camille a passé cinq ans en cabinet de conseil au Royaume-Uni et en France, mettant cette expertise au service de grands groupes dans les secteurs comme la pharmacie, l'aéronautique, l’énergie ou encore la banque.
 
 Aujourd’hui, c’est dans l’innovation numérique qu’elle met pleinement à profit son expérience. En rejoignant le service public, elle a voulu donner plus de sens à son action et maximiser son impact en accompagnant la modernisation de l’État.
 
